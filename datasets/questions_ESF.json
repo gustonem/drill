@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Řemeslné živnosti",
+    "answers": [
+      {
+        "body": "jsou jedním z druhů živností při jejich dělení podle předmětu podnikání",
+        "right": false
+      },
+      {
+        "body": "podmínkou pro jejich provozování je odborná způsobilost upravená zvl. předpisy",
+        "right": false
+      },
+      {
+        "body": "patří mezi volné živnosti",
+        "right": false
+      },
+      {
+        "body": "patří mezi ohlašovací živnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro p pravdivé bude formule ¬(p ⋁ q)",
+    "answers": [
+      {
+        "body": "vždy pravdivá",
+        "right": false
+      },
+      {
+        "body": "pravdivá nebo nepravdivá podle q",
+        "right": false
+      },
+      {
+        "body": "vždy nepravdivá",
+        "right": true
+      }
+    ]
+  }
+]
