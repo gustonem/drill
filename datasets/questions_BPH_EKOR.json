@@ -21,85 +21,715 @@
     ]
   },
   {
-    "name": "Řemeslné živnosti",
+    "name": "Živnost není charakteristická",
     "answers": [
       {
-        "body": "jsou jedním z druhů živností při jejich dělení podle předmětu podnikání",
+        "body": "provozováním za účelem zisku",
         "right": false
       },
       {
-        "body": "podmínkou pro jejich provozování je odborná způsobilost upravená zvl. předpisy",
+        "body": "samostatnou podnikatelskou činností",
         "right": false
       },
       {
-        "body": "patří mezi volné živnosti",
+        "body": "vlastnictvím pouze jediného podnikatele",
         "right": false
       },
       {
-        "body": "patří mezi ohlašovací živnosti",
+        "body": "vlastnictvím pouze jediné fyzické osoby",
         "right": true
       }
     ]
   },
   {
-    "name": "Řemeslné živnosti",
+    "name": "Opatření, které odstraňuje monotónnost pracovního procesu, se nazývá",
     "answers": [
       {
-        "body": "jsou jedním z druhů živností při jejich dělení podle předmětu podnikání",
+        "body": "autonomní pracovní skupiny",
         "right": false
       },
       {
-        "body": "podmínkou pro jejich provozování je odborná způsobilost upravená zvl. předpisy",
+        "body": "rozšíření práce",
         "right": false
       },
       {
-        "body": "patří mezi volné živnosti",
+        "body": "obohacení práce",
         "right": false
       },
       {
-        "body": "patří mezi ohlašovací živnosti",
+        "body": "pracovní rotace",
         "right": true
       }
     ]
   },
   {
-    "name": "Řemeslné živnosti",
+    "name": "Mezi podnikohospodářské výrobní faktory nepatří",
     "answers": [
       {
-        "body": "jsou jedním z druhů živností při jejich dělení podle předmětu podnikání",
+        "body": "práce řídící",
         "right": false
       },
       {
-        "body": "podmínkou pro jejich provozování je odborná způsobilost upravená zvl. předpisy",
+        "body": "práce výkonná",
         "right": false
       },
       {
-        "body": "patří mezi volné živnosti",
+        "body": "materiál",
         "right": false
       },
       {
-        "body": "patří mezi ohlašovací živnosti",
+        "body": "práce",
         "right": true
       }
     ]
   },
   {
-    "name": "Řemeslné živnosti",
+    "name": "Jako cíl nemonetární ekonomický lze klasifikovat cíl",
     "answers": [
       {
-        "body": "jsou jedním z druhů živností při jejich dělení podle předmětu podnikání",
+        "body": "maximalizace rentability vlastního kapitálu",
         "right": false
       },
       {
-        "body": "podmínkou pro jejich provozování je odborná způsobilost upravená zvl. předpisy",
+        "body": "ochrana životního prostředí",
         "right": false
       },
       {
-        "body": "patří mezi volné živnosti",
+        "body": "zajištění zásobování obyvatelstva",
         "right": false
       },
       {
-        "body": "patří mezi ohlašovací živnosti",
+        "body": "růst podílu na trhu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže cíl stanovený zaměstnanci není hodnotitelný, tak potom nastává cílový konflikt",
+    "answers": [
+      {
+        "body": "systémový",
+        "right": false
+      },
+      {
+        "body": "uvnitř organizace",
+        "right": false
+      },
+      {
+        "body": "individuální",
+        "right": false
+      },
+      {
+        "body": "hierarchicky podmíněný",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi znaky závislé na hospodářském systému patří",
+    "answers": [
+      {
+        "body": "kombinace výrobních faktorů",
+        "right": false
+      },
+      {
+        "body": "princip hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "princip finanční rovnováhy",
+        "right": false
+      },
+      {
+        "body": "princip autonomie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Opatření, které odstraňuje roztříštěnost pracovního procesu tím, že zaměstnanci svěří k provedení ucelený soubor prací, se nazývá",
+    "answers": [
+      {
+        "body": "pracovní rotace",
+        "right": false
+      },
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dnem ohlášení živnosti nelze zahájit podnikatelskou činnost v rámci živnosti",
+    "answers": [
+      {
+        "body": "řemeslné (příl. 1)",
+        "right": false
+      },
+      {
+        "body": "vázané (příl. 2)",
+        "right": false
+      },
+      {
+        "body": "volné (příl. 4)",
+        "right": false
+      },
+      {
+        "body": "koncesované (příl. 3)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory nepatří",
+    "answers": [
+      {
+        "body": "práce řídící",
+        "right": false
+      },
+      {
+        "body": "práce výkonná",
+        "right": false
+      },
+      {
+        "body": "materiál",
+        "right": false
+      },
+      {
+        "body": "práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Řízení a správa společností, která se zabývá nejlepším možným rozdělením dispozičních práv (kompetencí) pro úspěšné řízení a kontrolu organizace, se nazývá",
+    "answers": [
+      {
+        "body": "reengineering",
+        "right": false
+      },
+      {
+        "body": "custom relationship management",
+        "right": false
+      },
+      {
+        "body": "balanced scorecard",
+        "right": false
+      },
+      {
+        "body": "corporate governance",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik v důsledku neustálého zvyšování obratu rozšiřuje objem produkce (a tržeb), tak potom se z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "zakládání",
+        "right": false
+      },
+      {
+        "body": "stabilizace",
+        "right": false
+      },
+      {
+        "body": "krize",
+        "right": false
+      },
+      {
+        "body": "růst",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z pohledu Živnostenského zákona se za bezúhonného nepovažuje osoba, která byla pravomocně odsouzena",
+    "answers": [
+      {
+        "body": "pro úmyslný trestný čin k podmíněnému trestu alespoň jeden rok",
+        "right": false
+      },
+      {
+        "body": "pro neúmyslný trestný čin k nepodmíněnému trestu, jestliže byl spáchán v souvislosti s podnikáním",
+        "right": false
+      },
+      {
+        "body": "pro neúmyslný trestný čin k podmíněnému trestu alespoň jeden rok",
+        "right": false
+      },
+      {
+        "body": "pro úmyslný trestný čin k nepodmíněnému trestu alespoň jeden rok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nutnost skládat základní kapitál, neomezený počet vlastníků, dvojí zdanění daní z příjmů, existence podniku spojena s několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "družstva",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "komanditní společnosti",
+        "right": false
+      },
+      {
+        "body": "akciové společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce pan Novák podniknout co nejdelší cestu po Evropě s 50 000 Kč, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "tuto situaci nelze maximalizovat",
+        "right": false
+      },
+      {
+        "body": "maximalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "maximalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "maximalizaci racionality",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro družstvo je charakteristické",
+    "answers": [
+      {
+        "body": "základní kapitál 50 tis. Kč, neomezený počet členů, zakladatelé alespoň pět právnických osob",
+        "right": false
+      },
+      {
+        "body": "základní kapitál není nutný, omezený počet členů, zakladatelé alespoň pět právnických osob",
+        "right": false
+      },
+      {
+        "body": "základní kapitál není nutný, neomezený počet členů, zakladatelé alespoň pět fyzických osob",
+        "right": false
+      },
+      {
+        "body": "základní kapitál 50 tis. Kč, neomezený počet členů, zakladatelé alespoň pět fyzických osob",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podnik zaniká dnem",
+    "answers": [
+      {
+        "body": "vypořádání všech závazků a pohledávek",
+        "right": false
+      },
+      {
+        "body": "pravomocného rozhodnutí soudu",
+        "right": false
+      },
+      {
+        "body": "rozhodnutím valné hromady o zrušení společnosti",
+        "right": false
+      },
+      {
+        "body": "výmazu z obchodního rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nutnost skládat základní kapitál, neomezený počet vlastníků, dvojí zdanění daní z příjmů, existence podniku spojena s jedním nebo několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "komanditní společnost",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "družstva",
+        "right": false
+      },
+      {
+        "body": "akciové společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je ohroženo dosahování cílů podniku nebo jeho další existence, tak potom se z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "růstu",
+        "right": false
+      },
+      {
+        "body": "stabilizace",
+        "right": false
+      },
+      {
+        "body": "zakládání",
+        "right": false
+      },
+      {
+        "body": "krize",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Manažerská technika, která spočívá v dohodě manažera a podřízeného zaměstnance ohledně předmětu práce a jeho cíle, přičemž splnění cíle je základem hodnocení podřízeného zaměstnance, se nazývá",
+    "answers": [
+      {
+        "body": "řízení delegací úkolů",
+        "right": false
+      },
+      {
+        "body": "řízení podle výjimek",
+        "right": false
+      },
+      {
+        "body": "řízení pomocí regulace systému",
+        "right": false
+      },
+      {
+        "body": "řízení podle cílů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik není schopen dostát svým splatným závazkům, tak potom se jedná o porušení principu",
+    "answers": [
+      {
+        "body": "závislého na hospodářském výsledku",
+        "right": false
+      },
+      {
+        "body": "o porušení žádného principu se nejedná",
+        "right": false
+      },
+      {
+        "body": "hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "finanční rovnováhy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže existuje pojišťovna se sídlem v Praze, která má 1200 zaměstnanců, obrat 1 mld. Kč, bilanční suma 500 mil Kč a je akciovou společností, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "podnik poskytující nehmotné statky",
+        "right": false
+      },
+      {
+        "body": "střední podnik",
+        "right": false
+      },
+      {
+        "body": "materiálově náročný podnik",
+        "right": false
+      },
+      {
+        "body": "podnik závislý na pracovní síle",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro Masarykovu univerzitu platí",
+    "answers": [
+      {
+        "body": "poskytuje veřejný statek",
+        "right": false
+      },
+      {
+        "body": "má především etickou funkci",
+        "right": false
+      },
+      {
+        "body": "zakladatelem je subjekt veřejné správy",
+        "right": false
+      },
+      {
+        "body": "zabezpečuje především individuální potřeby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi orgány společnosti s ručením omezeným nepatří",
+    "answers": [
+      {
+        "body": "jednatel",
+        "right": false
+      },
+      {
+        "body": "dozorčí rada",
+        "right": false
+      },
+      {
+        "body": "valná hromada",
+        "right": false
+      },
+      {
+        "body": "představenstvo",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Soubor opatření přijímaných ze strany vedení podniku k ozdravení a obnově finanční výkonnosti a prosperity podniku, který mění rozsah podnikání, organizační strukturu, atd. se nazývá",
+    "answers": [
+      {
+        "body": "fůze",
+        "right": false
+      },
+      {
+        "body": "rekonstrukce",
+        "right": false
+      },
+      {
+        "body": "konsolidace",
+        "right": false
+      },
+      {
+        "body": "sanace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro veřejnou vysokou školu (např. Masarykovu univerzitu) není charakteristické",
+    "answers": [
+      {
+        "body": "samospráva",
+        "right": false
+      },
+      {
+        "body": "založení (vznik) ze zákona",
+        "right": false
+      },
+      {
+        "body": "poskytování smíšeného statku",
+        "right": false
+      },
+      {
+        "body": "řízení ministerstvem školství",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kritériem členění podniků dle velikosti v EU není",
+    "answers": [
+      {
+        "body": "velikost bilační sumy",
+        "right": false
+      },
+      {
+        "body": "velikost obratu",
+        "right": false
+      },
+      {
+        "body": "počet zaměstnanců",
+        "right": false
+      },
+      {
+        "body": "velikost základního kapitálu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Oprávnění k provozování činnosti se prokazuje",
+    "answers": [
+      {
+        "body": "živnostenským oprávněním",
+        "right": false
+      },
+      {
+        "body": "koncesní listinou",
+        "right": false
+      },
+      {
+        "body": "výpisem z živnostenského rejstříku",
+        "right": false
+      },
+      {
+        "body": "výpisem z obchodního rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi funkce řízení v organizaci nepatří",
+    "answers": [
+      {
+        "body": "kontrolování",
+        "right": false
+      },
+      {
+        "body": "plánování",
+        "right": false
+      },
+      {
+        "body": "rozhodování",
+        "right": false
+      },
+      {
+        "body": "financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže řízení podniku vykonávají osoby, které zároveň nesou podnikatelské riziko, jedná se o podnik",
+    "answers": [
+      {
+        "body": "smíšený",
+        "right": false
+      },
+      {
+        "body": "zaměstnanecký",
+        "right": false
+      },
+      {
+        "body": "manažerský",
+        "right": false
+      },
+      {
+        "body": "vlastnický",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je cíl zaměstnance a cíl organizace odlišný, tak potom nastává cílový konflikt",
+    "answers": [
+      {
+        "body": "systémový",
+        "right": false
+      },
+      {
+        "body": "uvnitř organizace",
+        "right": false
+      },
+      {
+        "body": "hierarchicky podmíněný",
+        "right": false
+      },
+      {
+        "body": "individuální",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
         "right": true
       }
     ]
