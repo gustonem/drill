@@ -1386,6 +1386,1203 @@
     ]
   },
   {
+    "name": "Mezi odměny vyplácené podle pracovního výkonu nepatří",
+    "answers": [
+      {
+        "body": "provize",
+        "right": false
+      },
+      {
+        "body": "časové mzdy a platy",
+        "right": false
+      },
+      {
+        "body": "honorář",
+        "right": false
+      },
+      {
+        "body": "tantiémy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mzdový systém podniku",
+    "answers": [
+      {
+        "body": "je nezávislý na vnějším prostředí – vychází z podmínek podniku",
+        "right": false
+      },
+      {
+        "body": "jeho jediným cílem je zajistit mzdovou diferenciaci",
+        "right": false
+      },
+      {
+        "body": "se zaměřuje čistě na objektivní složku mzdy – mzdu spojenou s výkonem pracovního místa",
+        "right": false
+      },
+      {
+        "body": "zahrnuje v sobě stimulační prvky, které však mohou být omezeny objemem mzdových prostředků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Finanční opotřebení dlouhodobého majetku, které vyjadřují postupné snižování jeho hodnoty, se nazývá",
+    "answers": [
+      {
+        "body": "znehodnocení",
+        "right": false
+      },
+      {
+        "body": "oprávky",
+        "right": false
+      },
+      {
+        "body": "opotřebení",
+        "right": false
+      },
+      {
+        "body": "odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi mzdové formy patří",
+    "answers": [
+      {
+        "body": "výkonnostní mzda",
+        "right": false
+      },
+      {
+        "body": "podílová mzda",
+        "right": false
+      },
+      {
+        "body": "tarifní mzda",
+        "right": false
+      },
+      {
+        "body": "časová mzda",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících orgánů nevytváří družstvo",
+    "answers": [
+      {
+        "body": "kontrolní komise",
+        "right": false
+      },
+      {
+        "body": "členská schůze",
+        "right": false
+      },
+      {
+        "body": "představenstvo",
+        "right": false
+      },
+      {
+        "body": "dozorčí rada",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Zednictví",
+    "answers": [
+      {
+        "body": "je vázaná živnost",
+        "right": false
+      },
+      {
+        "body": "je koncesovanou živností",
+        "right": false
+      },
+      {
+        "body": "je obchodní živností",
+        "right": false
+      },
+      {
+        "body": "podmínkou k získání této živnosti je vyučení v oboru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "U Halseyova prémiového systému průměrná mzda s růstem výkonu roste",
+    "answers": [
+      {
+        "body": "degresivně ",
+        "right": false
+      },
+      {
+        "body": "progresivně ",
+        "right": false
+      },
+      {
+        "body": "skokem ",
+        "right": false
+      },
+      {
+        "body": "lineárně ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výroba zbraní",
+    "answers": [
+      {
+        "body": "je obchodní živností",
+        "right": false
+      },
+      {
+        "body": "patří mezi volné živnosti",
+        "right": false
+      },
+      {
+        "body": "je živností ohlašovací",
+        "right": false
+      },
+      {
+        "body": "na získání oprávnění k provozování této živnosti není právní nárok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V komanditní společnosti se, pokud ve smlouvě není uvedeno jinak, ze zákona rozděluje zisk",
+    "answers": [
+      {
+        "body": "nejprve část komplementářům a zbytek rovným dílem mezi společníky",
+        "right": false
+      },
+      {
+        "body": "mezi společníky rovným dílem",
+        "right": false
+      },
+      {
+        "body": "podle výše ručitelského majetku",
+        "right": false
+      },
+      {
+        "body": "polovina komplementářům a polovina komandistům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Komanditní společnost",
+    "answers": [
+      {
+        "body": "její společníci se mohou skládat výhradně z komandistů (bez účasti komplementářů)",
+        "right": false
+      },
+      {
+        "body": "její komandisté ručí neomezeně",
+        "right": false
+      },
+      {
+        "body": "zisk jejích komplementářů podléhá dvojímu zdanění",
+        "right": false
+      },
+      {
+        "body": "lze zařadit mezi osobní společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Konkurzní řízení řídí",
+    "answers": [
+      {
+        "body": "likvidátor ",
+        "right": false
+      },
+      {
+        "body": "podnikatel ",
+        "right": false
+      },
+      {
+        "body": "soud ",
+        "right": false
+      },
+      {
+        "body": "správce konkurzní podstaty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Malé a střední podnikání",
+    "answers": [
+      {
+        "body": "jako kategorii tvoří pouze podniky jednotlivců(podniky fyzických osob)",
+        "right": false
+      },
+      {
+        "body": "podle kategorizace Ministerstva průmyslu a obchodu tvoří podniky s počtem zaměstnanců do 500 osob",
+        "right": false
+      },
+      {
+        "body": "jedním z příkladů je Nestlé",
+        "right": false
+      },
+      {
+        "body": "v ČR existují zvláštní programy pro jejich podporu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Návrh aby konkurz byl ukončen nuceným vyrovnáním",
+    "answers": [
+      {
+        "body": "může podat 3/4 většina zůčastněních věřitelů",
+        "right": false
+      },
+      {
+        "body": "dluhy musí být splaceny pouze peněžní formou",
+        "right": false
+      },
+      {
+        "body": "musí zahrnovat uhrazení všech dluhů v plné výši",
+        "right": false
+      },
+      {
+        "body": "může podat pouze dlužník ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Období, po které je účelné zařízení hospodářsky využívat, se označuje jako",
+    "answers": [
+      {
+        "body": "doba životnosti",
+        "right": false
+      },
+      {
+        "body": "technická životnost",
+        "right": false
+      },
+      {
+        "body": "užitné období",
+        "right": false
+      },
+      {
+        "body": "ekonomická životnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Aplikované podnikové hospodářství si vybírá své problémy s ohledem na cíle, které sledují lidé přijímající rozhodnutí v podniku. Tyto cíle se",
+    "answers": [
+      {
+        "body": "odvozují z ideologických představ ",
+        "right": false
+      },
+      {
+        "body": "odvozují z národohospodářských potřeb ",
+        "right": false
+      },
+      {
+        "body": "odvozují z norem ",
+        "right": false
+      },
+      {
+        "body": "musí zjišťovat empiricky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže zvýšení plnění prvního cíle nevede zároveň ani ke zvýšení, ani ke snížení plnění druhého cíle, jedná se o cíle",
+    "answers": [
+      {
+        "body": "konkurenční ",
+        "right": false
+      },
+      {
+        "body": "identické ",
+        "right": false
+      },
+      {
+        "body": "komplementární ",
+        "right": false
+      },
+      {
+        "body": "indiferentní ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cenová zkušenostní křivka",
+    "answers": [
+      {
+        "body": "patří mezi nástroje řízení podniku",
+        "right": false
+      },
+      {
+        "body": "vyplývá z ní, že zdvojnásobení vyrobeného množství, sledovaného od zavedení výrobku do produkce, je spojeno s poklesem jednotkových nákladů o 20-30%",
+        "right": false
+      },
+      {
+        "body": "zabývá se vztahem mezi cenou a celkovými náklady ",
+        "right": false
+      },
+      {
+        "body": "ukazuje, že v době zavádění výrobku leží cena obvykle pod jednotkovými náklady ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Procesní organizace",
+    "answers": [
+      {
+        "body": "je založena na analýze a syntéze úkolů",
+        "right": false
+      },
+      {
+        "body": "je příkladem neformální organizace podniku ",
+        "right": false
+      },
+      {
+        "body": "je založena na vymezení pravomoci a odpovědnosti pracovníků",
+        "right": false
+      },
+      {
+        "body": "si klade za cíl dosáhnout co nejvyššího rovnoměrného využití disponibilních kapacit hmotného investičního majetku a pracovníků při současné minimalizaci průběžných časů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Soukromé domácnosti",
+    "answers": [
+      {
+        "body": "odvozují své hospodaření od potřeb společnosti",
+        "right": false
+      },
+      {
+        "body": "jsou chápány jako kombinace výrobních faktorů ",
+        "right": false
+      },
+      {
+        "body": "jsou složkou výrobního hospodářství",
+        "right": false
+      },
+      {
+        "body": "jsou samostatně hospodařícími jednotkami ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Princip orgánu",
+    "answers": [
+      {
+        "body": "je součástí výstavby organizační struktury podniku formou divizionální organizace",
+        "right": false
+      },
+      {
+        "body": "je vyjádřením způsobu organizačního uspořádání uvnitř podniku",
+        "right": false
+      },
+      {
+        "body": "umožňuje podniku aktivně se přizpůsobovat cenám na trhu",
+        "right": false
+      },
+      {
+        "body": "souvisí s centrálně plánovaným systémem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle převládajícího výrobního faktoru při členění podniků lze rozlišovat",
+    "answers": [
+      {
+        "body": "podniky hromadné výroby",
+        "right": false
+      },
+      {
+        "body": "podniky vyrábějící výrobní prostředky",
+        "right": false
+      },
+      {
+        "body": "technologicky náročné podniky",
+        "right": false
+      },
+      {
+        "body": "investičně náročné podniky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Štábně-liniový systém",
+    "answers": [
+      {
+        "body": "využívá štáb jako kolektivní rozhodovací orgán k udílení příkazů nižším místům",
+        "right": false
+      },
+      {
+        "body": "je nejpřísnější formou organizačního členění podniku",
+        "right": false
+      },
+      {
+        "body": "je modelem víceliniového řídícího systému",
+        "right": false
+      },
+      {
+        "body": "výhodou je přísné dodržení instanční cesty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Slabinami tržního systému jsou tendence k",
+    "answers": [
+      {
+        "body": "konkurenci",
+        "right": false
+      },
+      {
+        "body": "přerozdělování zdrojů",
+        "right": false
+      },
+      {
+        "body": "nespravedlivému rozdělování",
+        "right": false
+      },
+      {
+        "body": "nerovnému rozdělování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi materiálně nedirektivní nástroje řízení patří",
+    "answers": [
+      {
+        "body": "podnikové sociální požitky",
+        "right": false
+      },
+      {
+        "body": "pracovní pohoda",
+        "right": false
+      },
+      {
+        "body": "regulace konfliktů",
+        "right": false
+      },
+      {
+        "body": "pracovní podmínky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže při modelování nastává riziková situace, tzn. že proměnné modelu mohou nabývat různé hodnoty, přičemž známe jejich pravděpodobnosti, hovoříme o",
+    "answers": [
+      {
+        "body": "rozhodovacích modelech",
+        "right": false
+      },
+      {
+        "body": "modelech her",
+        "right": false
+      },
+      {
+        "body": "deterministických modelech",
+        "right": false
+      },
+      {
+        "body": "stochastických modelech ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Sytém podnikových výrobních faktorů dle podnik. hospodářství",
+    "answers": [
+      {
+        "body": "jako jeden z výrobních faktorů označuje kapitál v jeho peněžní podobě",
+        "right": false
+      },
+      {
+        "body": "rozlišuje výrobní faktor práce na originální, tj. výkonnou práci a odvozenou, tj. vedení podniku",
+        "right": false
+      },
+      {
+        "body": "rozlišuje pouze tři nákladové druhy – mzdy, pozemkovou rentu a úrok",
+        "right": false
+      },
+      {
+        "body": "rozlišuje práci jako dispozitivní faktor na originální – vedení podniku a odvozenou – plánování, organizaci a dohled",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Princip řízení, kdy jsou formulována přesná pravidla, podle nichž se uskutečňují rozhodnutí, se nazývá",
+    "answers": [
+      {
+        "body": "řízení podle cílů",
+        "right": false
+      },
+      {
+        "body": "řízení delegací úkolů",
+        "right": false
+      },
+      {
+        "body": "řízení podle výsledku",
+        "right": false
+      },
+      {
+        "body": "řízení podle rozhodovacích pravidel",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi základní determinanty užívané při konstrukci čtyřsektorové matice Boston-portfolia patří",
+    "answers": [
+      {
+        "body": "růst rentability",
+        "right": false
+      },
+      {
+        "body": "růst kvality",
+        "right": false
+      },
+      {
+        "body": "růst podniku",
+        "right": false
+      },
+      {
+        "body": "růst tržního podílu vůči největšímu konkurentovi",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "",
     "answers": [
       {
