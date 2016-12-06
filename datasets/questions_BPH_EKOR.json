@@ -444,7 +444,7 @@
     "name": "Jestliže existuje pojišťovna se sídlem v Praze, která má 1200 zaměstnanců, obrat 1 mld. Kč, bilanční suma 500 mil Kč a je akciovou společností, tak potom se jedná o",
     "answers": [
       {
-        "body": "podnik poskytující nehmotné statky",
+        "body": "podnik závislý na pracovní síle",
         "right": false
       },
       {
@@ -456,7 +456,7 @@
         "right": false
       },
       {
-        "body": "podnik závislý na pracovní síle",
+        "body": "podnik poskytující nehmotné statky",
         "right": true
       }
     ]
@@ -1974,631 +1974,736 @@
     ]
   },
   {
-    "name": "",
+    "name": "Formu dočasného sdružení má",
     "answers": [
       {
-        "body": "",
+        "body": "kartel",
         "right": false
       },
       {
-        "body": "",
+        "body": "zájmové sdružení",
         "right": false
       },
       {
-        "body": "",
+        "body": "koncern",
         "right": false
       },
       {
-        "body": "",
+        "body": "konsorcium",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Pro trust je charakteristické",
     "answers": [
       {
-        "body": "",
+        "body": "hospodářská samostatnost",
         "right": false
       },
       {
-        "body": "",
+        "body": "právní samostatnost",
         "right": false
       },
       {
-        "body": "",
+        "body": "dočasné spojení ",
         "right": false
       },
       {
-        "body": "",
+        "body": "diagonální sdružování ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Pomocné látky jsou takové statky, které",
     "answers": [
       {
-        "body": "",
+        "body": "nejsou přetvářeny ve výrobek",
         "right": false
       },
       {
-        "body": "",
+        "body": "nevcházejí do výrobku ",
         "right": false
       },
       {
-        "body": "",
+        "body": "jsou přetvářeny ve výrobek ",
         "right": false
       },
       {
-        "body": "",
+        "body": "vstupují do výrobku, ale hrají jen malou roli ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Jestliže ve společenské smlouvě veřejné obchodní společnosti není uvedeno jinak, pak ze zákona charakterizují v.o.s. tyto znaky",
     "answers": [
       {
-        "body": "",
+        "body": "ručení majetkem v rovné výši",
         "right": false
       },
       {
-        "body": "",
+        "body": "počet zakladatelů 2 fyzické nebo 1 právnická osoba",
         "right": false
       },
       {
-        "body": "",
+        "body": "účast na zisku podle kapitálového vkladu",
         "right": false
       },
       {
-        "body": "",
+        "body": "rovnost hlasů společníků ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Správce konkurzní podstaty nemusí",
     "answers": [
       {
-        "body": "",
+        "body": "mít přiměřenou odbornou způsobilost",
         "right": false
       },
       {
-        "body": "",
+        "body": "být plně způsobilý k právním úkonům",
         "right": false
       },
       {
-        "body": "",
+        "body": "být zapsán v seznamu správců příslušného soudu",
         "right": false
       },
       {
-        "body": "",
+        "body": "být fyzická osoba ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Veřejná obchodní společnost",
     "answers": [
       {
-        "body": "",
+        "body": "je podnikem jednotlivce (individual proprietorship) ",
         "right": false
       },
       {
-        "body": "",
+        "body": "její společníci mají povinnost vložit do společnosti min. 5 000 Kč",
         "right": false
       },
       {
-        "body": "",
+        "body": "je subjektem daně z příjmu",
         "right": false
       },
       {
-        "body": "",
+        "body": "se zapisuje vždy do obchodního rejstříku",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Dobrovolné sociální požitky",
     "answers": [
       {
-        "body": "",
+        "body": "jsou přístupné jen managementu",
         "right": false
       },
       {
-        "body": "",
+        "body": "jsou podmíněny pracovním výkonem",
         "right": false
       },
       {
-        "body": "",
+        "body": "jsou formou odměny za práci ",
         "right": false
       },
       {
-        "body": "",
+        "body": "zpravidla nemají vztah k pracovním výkonům",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "O předlužení jde tehdy",
     "answers": [
       {
-        "body": "",
+        "body": "jestliže podnik má více věřitelů",
         "right": false
       },
       {
-        "body": "",
+        "body": "jestliže podnik má více věřitelů a není po delší dobu schopen plnit své splatné závazky",
         "right": false
       },
       {
-        "body": "",
+        "body": "není po delší dobu schopen plnit své splatné závazky",
         "right": false
       },
       {
-        "body": "",
+        "body": "jestliže podnik má více věřitelů a jeho splatné závazky jsou vyšší než jeho majetek",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Výše prémie se zpravidla stanovuje",
     "answers": [
       {
-        "body": "",
+        "body": "v předem stanovené pevné výši",
         "right": false
       },
       {
-        "body": "",
+        "body": "podle obecně platných podnikohospodářských norem",
         "right": false
       },
       {
-        "body": "",
+        "body": "podle subjektivního posouzení ",
         "right": false
       },
       {
-        "body": "",
+        "body": "v pohyblivé výši v závislosti na výkonu",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Hotové součástky jsou takové statky, které",
     "answers": [
       {
-        "body": "",
+        "body": "nejsou přetvářeny ve výrobek",
         "right": false
       },
       {
-        "body": "",
+        "body": "opracovávají se při výrobě ",
         "right": false
       },
       {
-        "body": "",
+        "body": "nevcházejí do výrobku",
         "right": false
       },
       {
-        "body": "",
+        "body": "jsou použity při konstrukci výrobku",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Suroviny jsou takové statky, které se při výrobě spotřebovávají a",
     "answers": [
       {
-        "body": "",
+        "body": "nevcházejí do výrobku",
         "right": false
       },
       {
-        "body": "",
+        "body": "nejsou přetvářeny ve výrobek",
         "right": false
       },
       {
-        "body": "",
+        "body": "vstupují do výrobku, ale hrají jen malou roli",
         "right": false
       },
       {
-        "body": "",
+        "body": "jsou přetvářeny ve výrobek ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Likvidace není",
     "answers": [
       {
-        "body": "",
+        "body": "mimosoudním vypořádáním majetkových vztahů",
         "right": false
       },
       {
-        "body": "",
+        "body": "zákonem řízený postup",
         "right": false
       },
       {
-        "body": "",
+        "body": "zánikem společnosti ",
         "right": false
       },
       {
-        "body": "",
+        "body": "oddlužením společnosti",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Mezi nevýhody malých a středních podniků patří",
     "answers": [
       {
-        "body": "",
+        "body": "odolnost proti hospodářské recesi",
         "right": false
       },
       {
-        "body": "",
+        "body": "vytváření nových pracovních příležitostí ",
         "right": false
       },
       {
-        "body": "",
+        "body": "inovativnost ",
         "right": false
       },
       {
-        "body": "",
+        "body": "omezené možnosti získávání výhod z rozsahu produkce ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Základní mzda",
     "answers": [
       {
-        "body": "",
+        "body": "je totéž co zaručená mzda ",
         "right": false
       },
       {
-        "body": "",
+        "body": "je stanovena zákonem",
         "right": false
       },
       {
-        "body": "",
+        "body": "má konstantní velikost",
         "right": false
       },
       {
-        "body": "",
+        "body": "její výše je ovlivněna použitou mzdovou formou",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "U diferenciální kusové mzdy podle Taylora průměrná mzda s růstem výkonu roste",
     "answers": [
       {
-        "body": "",
+        "body": "degresivně ",
         "right": false
       },
       {
-        "body": "",
+        "body": "skokem ",
         "right": false
       },
       {
-        "body": "",
+        "body": "lineárně ",
         "right": false
       },
       {
-        "body": "",
+        "body": "progresivně ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Jestliže ve společenské smlouvě komanditní společnosti není uvedeno jinak, pak ze zákona charakterizují k.s. tyto znaky",
     "answers": [
       {
-        "body": "",
+        "body": "ručení majetkem v rovné výši ",
         "right": false
       },
       {
-        "body": "",
+        "body": "rozdělení zisku podle kapitálových vkladů ",
         "right": false
       },
       {
-        "body": "",
+        "body": "rovnost hlasů společníků ",
         "right": false
       },
       {
-        "body": "",
+        "body": "počet zakladatelů nejméně 2 fyzické osob",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Příkladem sdružení se ztrátou právní samostatnosti členů je",
     "answers": [
       {
-        "body": "",
+        "body": "koncern ",
         "right": false
       },
       {
-        "body": "",
+        "body": "konsorcium ",
         "right": false
       },
       {
-        "body": "",
+        "body": "franchising ",
         "right": false
       },
       {
-        "body": "",
+        "body": "trust ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Období, po které dané zařízení poskytuje technicky nezávadný užitek, se označuje jako",
     "answers": [
       {
-        "body": "",
+        "body": "užitné období",
         "right": false
       },
       {
-        "body": "",
+        "body": "ekonomická životnost ",
         "right": false
       },
       {
-        "body": "",
+        "body": "doba životnosti",
         "right": false
       },
       {
-        "body": "",
+        "body": "technická životnost ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Které z následujících orgánů vytváří akciová společnost",
     "answers": [
       {
-        "body": "",
+        "body": "jednatelé ",
         "right": false
       },
       {
-        "body": "",
+        "body": "kontrolní komise",
         "right": false
       },
       {
-        "body": "",
+        "body": "členská schůze ",
         "right": false
       },
       {
-        "body": "",
+        "body": "představenstvo ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Které z následujících orgánů nevytváří družstvo",
     "answers": [
       {
-        "body": "",
+        "body": "členská schůze",
         "right": false
       },
       {
-        "body": "",
+        "body": "kontrolní komise",
         "right": false
       },
       {
-        "body": "",
+        "body": "představenstvo ",
         "right": false
       },
       {
-        "body": "",
+        "body": "jednatelé ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Mzdová spravedlnost",
     "answers": [
       {
-        "body": "",
+        "body": "je koncipovaná jako absolutní ",
         "right": false
       },
       {
-        "body": "",
+        "body": "projevuje se jen ve složce mzdy tvořené mzdovými formami ",
         "right": false
       },
       {
-        "body": "",
+        "body": "projevuje se jen ve složce mzdy tvořené mzdovým tarifem ",
         "right": false
       },
       {
-        "body": "",
+        "body": "je vyjádřena mzdovou diferenciací ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Provozní látky jsou takové statky, které",
     "answers": [
       {
-        "body": "",
+        "body": "vcházejí do výrobku ",
         "right": false
       },
       {
-        "body": "",
+        "body": "vstupují do výrobku, ale hrají jen malou roli",
         "right": false
       },
       {
-        "body": "",
+        "body": "jsou přetvářeny ve výrobek",
         "right": false
       },
       {
-        "body": "",
+        "body": "spotřebovávají se při výrobě ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Mezi všeobecné podmínky provozování živnosti fyzickými osobami patří",
     "answers": [
       {
-        "body": "",
+        "body": "čistý trestní rejstřík ",
         "right": false
       },
       {
-        "body": "",
+        "body": "přiměřené kapitálové zázemí ",
         "right": false
       },
       {
-        "body": "",
+        "body": "dosažení 21 let věku ",
         "right": false
       },
       {
-        "body": "",
+        "body": "způsobilost k právním úkonům",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Pro relativní výši odměny za práci není směrodatné",
     "answers": [
       {
-        "body": "",
+        "body": "obtížnost práce ",
         "right": false
       },
       {
-        "body": "",
+        "body": "délka práce ",
         "right": false
       },
       {
-        "body": "",
+        "body": "množství práce",
         "right": false
       },
       {
-        "body": "",
+        "body": "pracovní prostředí ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Dlouhodobý hmotný majetek je charakteristický",
     "answers": [
       {
-        "body": "",
+        "body": "okamžitou ztrátou hodnoty",
         "right": false
       },
       {
-        "body": "",
+        "body": "okamžitou tvorbou hodnoty ",
         "right": false
       },
       {
-        "body": "",
+        "body": "spotřebováním v jednom výrobním cyklu ",
         "right": false
       },
       {
-        "body": "",
+        "body": "postupným poklesem hodnoty ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Vnější příčinou krize může být",
     "answers": [
       {
-        "body": "",
+        "body": "nedostatečná výrobková inovace ",
         "right": false
       },
       {
-        "body": "",
+        "body": "chybná cenová politika",
         "right": false
       },
       {
-        "body": "",
+        "body": "problém s kvalitou výrobků",
         "right": false
       },
       {
-        "body": "",
+        "body": "změna legislativy ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Hmotný investiční majetek",
     "answers": [
       {
-        "body": "",
+        "body": "jeho užitná hodnota klesá stejně rychle jako jeho tržní hodnota",
         "right": false
       },
       {
-        "body": "",
+        "body": "v poslední době ustupuje stále více ve prospěch nasazení práce jako výrobního faktoru",
         "right": false
       },
       {
-        "body": "",
+        "body": "jeho obhospodařování souvisí s principem just-in time production",
         "right": false
       },
       {
-        "body": "",
+        "body": "podléhá opotřebení vyjádřenému odpisy",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Mezi faktory ovlivňující snahu o pracovní výkon v podniku patří",
     "answers": [
       {
-        "body": "",
+        "body": "nadání ",
         "right": false
       },
       {
-        "body": "",
+        "body": "zkušenosti ",
         "right": false
       },
       {
-        "body": "",
+        "body": "fyzické a psychické schopnosti",
         "right": false
       },
       {
-        "body": "",
+        "body": "pracovní podmínky",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Jestliže zařízení je schopno vyprodukovat 10 kusů za minutu a pracovník pracující na tomto zařízení vyrobí 400 ks/hod. přičemž průměrný pracovník vyrobí 500 ks/hod. je",
     "answers": [
       {
-        "body": "",
+        "body": "výkonnost pracovníka 66,6 % ",
         "right": false
       },
       {
-        "body": "",
+        "body": "stupeň využití kapacity stroje 80 %",
         "right": false
       },
       {
-        "body": "",
+        "body": "stupeň využití kapacity stroje 150 %",
         "right": false
       },
       {
-        "body": "",
+        "body": "výkonnost pracovníka 80 %",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Družstvo",
     "answers": [
       {
-        "body": "",
+        "body": "je zaměřeno v prvé řadě na tvorbu zisku ",
         "right": false
       },
       {
-        "body": "",
+        "body": "je kapitálovou společností",
         "right": false
       },
       {
-        "body": "",
+        "body": "jeho nejvyšším orgánem je valná hromada ",
         "right": false
       },
       {
-        "body": "",
+        "body": "je subjektem daně z příjmu ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Osobní společnost je charakterizována tím, že",
+    "answers": [
+      {
+        "body": "jejím nejvyšším orgánem je valná hromad",
+        "right": false
+      },
+      {
+        "body": "její všichni společníci ručí vždy neomezeně",
+        "right": false
+      },
+      {
+        "body": "může mít jediného společníka ",
+        "right": false
+      },
+      {
+        "body": "je právnickou osobou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Manažerská technika, která spočívá v delegaci běžných (rutinních) úkolů na podřízeného, přičemž manažer zasahuje jen v případě vzniku odchylek nebo ve zvláštních situacích, se nazývá",
+    "answers": [
+      {
+        "body": "řízení pomocí regulace systému",
+        "right": false
+      },
+      {
+        "body": "řízení delegací úkolů ",
+        "right": false
+      },
+      {
+        "body": "řízení podle cílů ",
+        "right": false
+      },
+      {
+        "body": "řízení podle výjimek ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 1 Živnostenského zákona jsou upraveny živnosti",
+    "answers": [
+      {
+        "body": "vázané",
+        "right": false
+      },
+      {
+        "body": "volné ",
+        "right": false
+      },
+      {
+        "body": "koncesované ",
+        "right": false
+      },
+      {
+        "body": "řemeslné ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární mimoekonomický lze klasifikovat cíl",
+    "answers": [
+      {
+        "body": "růst podílu na trhu ",
+        "right": false
+      },
+      {
+        "body": "růst obratu ",
+        "right": false
+      },
+      {
+        "body": "maximalizace rentability vlastního kapitálu ",
+        "right": false
+      },
+      {
+        "body": "zajištění zásobování obyvatelstva",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik provádí průzkum trhu a další analýzy podnikatelského prostředí a zároveň jsou příjmy (výnosy) z jeho činnosti minimální, tak potom se, z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "stabilizace",
+        "right": false
+      },
+      {
+        "body": "krize ",
+        "right": false
+      },
+      {
+        "body": "růstu ",
+        "right": false
+      },
+      {
+        "body": "zakládání ",
         "right": true
       }
     ]
