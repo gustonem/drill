@@ -3759,6 +3759,1074 @@
     ]
   },
     {
+    "name": "Z 200 kg materiálového odpadu může být vyrobeno 400 náhradních dílců. Odpad lze ocenit na 4 €/kg. Cena jednoho náhradního dílce je potom 16 €. Jak vysoká je produktivita (kvantitativní hospodárnost)?",
+    "answers": [
+      {
+        "body": "50",
+        "right": false
+      },
+      {
+        "body": "4",
+        "right": false
+      },
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "2",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Ze 4 kg těsta může být vyrobeno 400 koblížků. Cena těsta činí 10 Kč/kg. Cena jednoho koblížků je 2 Kč. Jak vysoká je hodnotově vyjádřená hospodárnost spotřeby 4 kg těsta na výrobu 400 koblížků?",
+    "answers": [
+      {
+        "body": "5",
+        "right": false
+      },
+      {
+        "body": "40",
+        "right": false
+      },
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "20",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce firma LEGO získat na provoz nové výrobní linky úvěr o velikosti 175 000 € a hradit za něj co nejnižší úroky, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "Tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+{
+    "name": "Z 200 kg materiálového odpadu může být vyrobeno 400 náhradních dílců.
+Odpad lze ocenit na 4 €/kg. Cena jednoho náhradního dílce je potom 16 €. Jak vysoká
+je produktivita (kvantitativní hospodárnost)?
+",
+    "answers": [
+      {
+        "body": "50",
+        "right": false
+      },
+      {
+        "body": "4",
+        "right": false
+      },
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "2",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Ze 4 kg těsta může být vyrobeno 400 koblížků. Cena těsta činí 10 Kč/kg.
+Cena jednoho koblížků je 2 Kč. Jak vysoká je hodnotově vyjádřená hospodárnost
+spotřeby 4 kg těsta na výrobu 400 koblížků?
+",
+    "answers": [
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "40",
+        "right": false
+      },
+      {
+        "body": "5",
+        "right": false
+      },
+      {
+        "body": "20",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce firma LEGO získat na provoz nové výrobní linky úvěr o
+velikosti 175 000 € a hradit za něj co nejnižší úroky, tak potom se jedná o:
+",
+    "answers": [
+      {
+        "body": "Minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "Tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce firma LEGO získat na provoz nové výrobní linky úvěr o
+velikosti 175 000 € a hradit za něj co nejnižší úroky, tak potom se jedná o:
+",
+    "answers": [
+      {
+        "body": "Minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "Tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi znaky nezávislé na hospodářském systému patří:",
+    "answers": [
+      {
+        "body": "Princip autonomie",
+        "right": false
+      },
+      {
+        "body": "Princip soukromého vlastnictví",
+        "right": false
+      },
+      {
+        "body": "Ziskový princip",
+        "right": false
+      },
+      {
+        "body": "Princip finanční rovnováhy",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Jestliže podnikatel Ole Kirk Kristiansen není schopen dostát svým splatným
+závazkům, tak potom se jedná o porušení principu:
+",
+    "answers": [
+      {
+        "body": "Závislého na hospodářském systému",
+        "right": false
+      },
+      {
+        "body": "Hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "O porušení žádného principu se nejedná",
+        "right": false
+      },
+      {
+        "body": "Finanční rovnováhy",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Z 500 kilogramů umělé hmoty může být vyrobeno 750 stavebnic LEGA.
+Cena umělé hmoty činí 5 €/kg. Cena jedné stavebnice je 40 €. Produktivita výrobní
+linky vzrostla o 20%, při konstantním množství vyrobených stavebnic. Jakým způsobem
+se změní hodnotově vyjádřená hospodárnost spotřeby 500 kilogramů umělé hmoty?
+",
+    "answers": [
+      {
+        "body": "5 %",
+        "right": false
+      },
+      {
+        "body": "10%",
+        "right": false
+      },
+      {
+        "body": "25%",
+        "right": false
+      },
+      {
+        "body": " 20%",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": ". Jestliže existuje banka se sídlem v Brně, která má 1500 zaměstnanců, obrat
+1 mld. Kč, bilanční sumu 700 mil. Kč a je akciovou společností, tak potom se jedná o:
+",
+    "answers": [
+      {
+        "body": "Střední podnik",
+        "right": false
+      },
+      {
+        "body": "Podnik neziskového sektoru",
+        "right": false
+      },
+      {
+        "body": "Materiálově náročný podnik",
+        "right": false
+      },
+      {
+        "body": "Podnik poskytující nehmotné statky",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro dánskou firmu LEGO a.s. vyrábějící hračky pro všechny děti bez rozdílu
+platí:
+",
+    "answers": [
+      {
+        "body": "Poskytuje veřejný statek",
+        "right": false
+      },
+      {
+        "body": "Je podnik závislý na přírodních zdrojích",
+        "right": false
+      },
+      {
+        "body": "Funguje na principu veřejného vlastnictví",
+        "right": false
+      },
+      {
+        "body": "Uspokojuje především individuální potřeby",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": ". Veřejná obchodní společnost měla v uplynulém období zisk 459 000 Kč.
+Sazba daně z příjmu právnických osob je ve výši 20% a sazba daně z příjmu fyzických
+osob je ve výši 10%. Jaký zisk (zdaňte) připadne každému ze tří společníků, pokud ve
+společenské smlouvě není uvedeno jinak?
+",
+    "answers": [
+      {
+        "body": "122 400 Kč",
+        "right": false
+      },
+      {
+        "body": "137 700 Kč",
+        "right": false
+      },
+      {
+        "body": "z údajů dostupných v zadání nelze vypočítat",
+        "right": false
+      },
+      {
+        "body": "110 160 Kč",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Komanditní společnost měla v uplynulém období zisk 300 000 Kč.
+Společnost byla založena jedním komanditistou a jedním komplementářem. Jakým
+způsobem si rozdělí zisk (zdaňte), pokud sazba daně z příjmu právnických osob je 20%
+a sazba daně z příjmu fyzických osob je 10%?
+",
+    "answers": [
+      {
+        "body": "Komplementář dostane 108 000 Kč, komanditista dostane 120 000 Kč",
+        "right": false
+      },
+      {
+        "body": ") Komplementář dostane 108 000 Kč, komanditista dostane 135 000 Kč",
+        "right": false
+      },
+      {
+        "body": "Komplementář dostane 150 000 Kč, komanditista dostane 135 000 Kč",
+        "right": false
+      },
+      {
+        "body": "Komplementář dostane 135 000 Kč, komanditista dostane 108 000 Kč",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Kvantitativní ekonomický princip lze vyjádřit jako:",
+    "answers": [
+      {
+        "body": "Daného zisku je třeba dosáhnout s daným množstvím spotřebovaných výrobních
+faktorů
+",
+        "right": false
+      },
+      {
+        "body": "Daného množství vyprodukovaných statků je nutno dosáhnout s daným množstvím
+spotřebovaných výrobních faktorů
+",
+        "right": false
+      },
+      {
+        "body": "S daným množstvím výrobních faktorů je třeba dosáhnout co nejvyššího zisku",
+        "right": false
+      },
+      {
+        "body": "Daného množství vyprodukovaných statků je nutno dosáhnout s co nejnižším
+množstvím spotřebovaných výrobních faktorů
+",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Mezi základní charakteristiky podniků nepatří:",
+    "answers": [
+      {
+        "body": "Organizovaná hospodářská jednotka ",
+        "right": false
+      },
+      {
+        "body": "Zhotovování statků a služeb",
+        "right": false
+      },
+      {
+        "body": "Založení ze zákona",
+        "right": false
+      },
+      {
+        "body": "Soukromé vlastnictví",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Princip autonomie znamená, že:",
+    "answers": [
+      {
+        "body": "Organizace sama určuje ceny vstupů a výstupů",
+        "right": false
+      },
+      {
+        "body": "Organizace je nezávislá na zahraničních subjektech",
+        "right": false
+      },
+      {
+        "body": "Organizace je řízena demokraticky zvolenými zástupci",
+        "right": false
+      },
+      {
+        "body": " Organizace si sama určuje výrobní plán",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Mezi prostředky odstraňování slabin tržní ekonomiky nepatří:",
+    "answers": [
+      {
+        "body": "Intervence centrální banky",
+        "right": false
+      },
+      {
+        "body": "Existence progresivní daně z příjmů",
+        "right": false
+      },
+      {
+        "body": "Zákon o ochraně hospodářské soutěže",
+        "right": false
+      },
+      {
+        "body": "Existence jedné politické strany",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": " Klasifikace CZ-NACE dělí české organizace na základě:",
+    "answers": [
+      {
+        "body": "Velikosti organizace",
+        "right": false
+      },
+      {
+        "body": "Sídla organizace",
+        "right": false
+      },
+      {
+        "body": "Dosažených hospodářských výsledků",
+        "right": false
+      },
+      {
+        "body": " Odvětví hospodářské činnosti",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Jestliže podnikatel připravuje podnikatelský záměr, shání kapitál a pořizuje
+majetek, jedná se z hlediska životního cyklu o fázi podniku:
+",
+    "answers": [
+      {
+        "body": "Růstu",
+        "right": false
+      },
+      {
+        "body": "Stabilizace",
+        "right": false
+      },
+      {
+        "body": "Krize",
+        "right": false
+      },
+      {
+        "body": "Zakládání",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro fázi stabilizace podniku je typické:",
+    "answers": [
+      {
+        "body": "Převis nákladů nad výnosy, restrukturalizace",
+        "right": false
+      },
+      {
+        "body": "Nábor nových zaměstnanců",
+        "right": false
+      },
+      {
+        "body": "Formulace vize a strategie podniku, tvorba společenské smlouvy",
+        "right": false
+      },
+      {
+        "body": "Maximalizace zisku, výše investic odpovídají výši odpisů DHM",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro fázi krize podniku je typické:",
+    "answers": [
+      {
+        "body": "Akvizice jiných podniků",
+        "right": false
+      },
+      {
+        "body": "Růst tržního podílu",
+        "right": false
+      },
+      {
+        "body": "Zvyšování mzdových nákladů",
+        "right": false
+      },
+      {
+        "body": "Sanační opatření",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "V případě reorganizace zpravidla platí, že:",
+    "answers": [
+      {
+        "body": "Dispozitivní práce je zcela nahrazena výkonnou",
+        "right": false
+      },
+      {
+        "body": "Jsou odprodána veškerá aktiva podniku",
+        "right": false
+      },
+      {
+        "body": "Je soudem přidělen reorganizační správce",
+        "right": false
+      },
+      {
+        "body": "Podnik dále provozuje svou činnost",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "V případě konkurzu zpravidla platí, že:",
+    "answers": [
+      {
+        "body": "Podnik omezí objem výroby na zákonem stanovenou mez",
+        "right": false
+      },
+      {
+        "body": "Podnik ukončí svou činnost a zaniká",
+        "right": false
+      },
+      {
+        "body": "Pohledávky věřitelů jsou zcela uspokojeny",
+        "right": false
+      },
+      {
+        "body": "Je v konkurzním řízení vybráno nové vedení podniku",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "V případě, že se podnik ruší bez likvidace, tak zpravidla:",
+    "answers": [
+      {
+        "body": "Pohledávky a závazky přecházejí na právního nástupce",
+        "right": false
+      },
+      {
+        "body": "Sanační opatření byla úspěšná",
+        "right": false
+      },
+      {
+        "body": "Aktiva podniku jsou v plné výši převedena na stát",
+        "right": false
+      },
+      {
+        "body": "Jsou všichni zaměstnanci ze zákona propuštěni",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Sanační opatření zpravidla zahrnují:",
+    "answers": [
+      {
+        "body": "Okamžité splacení závazků z obchodních vztahů",
+        "right": false
+      },
+      {
+        "body": "Výběr právního nástupce podniku",
+        "right": false
+      },
+      {
+        "body": "Vyhlášení konkurzu u příslušného soudu",
+        "right": false
+      },
+      {
+        "body": "Změnu organizační struktury",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro krizi vedení je typické:",
+    "answers": [
+      {
+        "body": "Nedostatek elektrické energie pro výrobní proces",
+        "right": false
+      },
+      {
+        "body": "Zaměstnanci nedocházejí do zaměstnání",
+        "right": false
+      },
+      {
+        "body": "Pracovníci úklidu vědí všechno první",
+        "right": false
+      },
+      {
+        "body": "Přetížení vlastníků a top managementů",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro krizi kontroly je typické:",
+    "answers": [
+      {
+        "body": "Hierarchická organizační struktura",
+        "right": false
+      },
+      {
+        "body": "Chybí delegace pravomocí",
+        "right": false
+      },
+      {
+        "body": "Neudržitelný růst mezd manažerů",
+        "right": false
+      },
+      {
+        "body": "Vnitřní konflikty, nedostatek koordinace a komunikace",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Mezi důvody zrušení podniku patří:",
+    "answers": [
+      {
+        "body": "Prodej kontrolního balíku akcií do Číny",
+        "right": false
+      },
+      {
+        "body": "Dosažení záporného mimořádného výsledku hospodaření",
+        "right": false
+      },
+      {
+        "body": " Dosažení účelu, pro který byl podnik zřízen",
+        "right": false
+      },
+      {
+        "body": "Smrt jednoho z jednatelů",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro založení podniku je nezbytné:",
+    "answers": [
+      {
+        "body": "Vygenerování UČO a nahlášení ministerstvu průmyslu a obchodu",
+        "right": false
+      },
+      {
+        "body": "Registrace v Krajské hospodářské komoře",
+        "right": false
+      },
+      {
+        "body": "Ukončení stávající podnikatelské činnosti",
+        "right": false
+      },
+      {
+        "body": "Zaregistrování obchodního jména firmy",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Teorie životního cyklu podniku vychází zejména z:",
+    "answers": [
+      {
+        "body": "Zkušeností vlastníků a manažerů",
+        "right": false
+      },
+      {
+        "body": "Objemu pořizovaných technologií",
+        "right": false
+      },
+      {
+        "body": "Výše mzdových nákladů",
+        "right": false
+      },
+      {
+        "body": "Průběhu příjmů a výdajů",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro životní cyklus organizace veřejné správy je typické:",
+    "answers": [
+      {
+        "body": "Zaměstnanci jsou dosazováni na politickou objednávku",
+        "right": false
+      },
+      {
+        "body": "Alokace prostředků probíhá chaoticky a nesystémově",
+        "right": false
+      },
+      {
+        "body": "Všechny uvedené možnosti jsou bohužel správně",
+        "right": false
+      },
+      {
+        "body": "Růst organizace je způsoben legislativně",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "V rámci likvidace podniku v popisu práce likvidátora není:",
+    "answers": [
+      {
+        "body": "Vypořádání odvodů, daní a poplatků",
+        "right": false
+      },
+      {
+        "body": "Prodej majetku veřejnou dražbou",
+        "right": false
+      },
+      {
+        "body": "Řešení pracovněprávních vztahů",
+        "right": false
+      },
+      {
+        "body": "Převod akcií společnosti na právního nástupce",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Mezi externí příčiny krize organizace nepatří:",
+    "answers": [
+      {
+        "body": "Vývoj měnových kurzů",
+        "right": false
+      },
+      {
+        "body": "Situace na trhu práce",
+        "right": false
+      },
+      {
+        "body": "Legislativní změny",
+        "right": false
+      },
+      {
+        "body": "Nedostatečná distribuční síť",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Jako podnik (podle obchodního zákoníku) označujeme:",
+    "answers": [
+      {
+        "body": "Občanské sdružení",
+        "right": false
+      },
+      {
+        "body": "Ministerstvo",
+        "right": false
+      },
+      {
+        "body": "Živnostník",
+        "right": false
+      },
+      {
+        "body": "Akciová společnost",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro podnik jednotlivce je typické:",
+    "answers": [
+      {
+        "body": "Existence podniku spojena s rodinnými příslušníky podnikatele",
+        "right": false
+      },
+      {
+        "body": "Dvojí zdanění daní z příjmů",
+        "right": false
+      },
+      {
+        "body": "Pevně dané místo podnikání",
+        "right": false
+      },
+      {
+        "body": "Neomezené ručení",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": " Pro veřejnou obchodní společnost je typické:",
+    "answers": [
+      {
+        "body": "Složení základního kapitálu ve výši 200 000 Kč",
+        "right": false
+      },
+      {
+        "body": "Oddělení vlastnictví od řízení",
+        "right": false
+      },
+      {
+        "body": "Poskytování veřejných statků",
+        "right": false
+      },
+      {
+        "body": "Existence podniku spojena s několika vlastníky",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Pro společnost s ručením omezeným je typické:",
+    "answers": [
+      {
+        "body": "Jedno zdanění daní z příjmu fyzických osob",
+        "right": false
+      },
+      {
+        "body": "Smí založit pouze fyzická osoba",
+        "right": false
+      },
+      {
+        "body": "Maximální výše základního kapitálu při založení",
+        "right": false
+      },
+      {
+        "body": "Zařazení mezi obchodní společnosti",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Akciová společnost má dáno zákonem:",
+    "answers": [
+      {
+        "body": "Počet členů představenstva",
+        "right": false
+      },
+      {
+        "body": "Veřejná obchodovatelnost na burze",
+        "right": false
+      },
+      {
+        "body": "Výše roční emise akcií",
+        "right": false
+      },
+      {
+        "body": "Výši minimálního základního kapitálu",
+        "right": true
+      }
+    ]
+  },
+ 
+   {
+    "name": "Pro družstvo je typické:",
+    "answers": [
+      {
+        "body": "Maximální počet členů",
+        "right": false
+      },
+      {
+        "body": "Existence pouze v centrálně plánovaném hospodářství",
+        "right": false
+      },
+      {
+        "body": "Podnikání v sektoru zemědělství",
+        "right": false
+      },
+      {
+        "body": "Dvojí zdanění daní z příjmů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro veřejnou vysokou školu (například Masarykovu univerzitu) je
+charakteristické:
+",
+    "answers": [
+      {
+        "body": "Poskytování statků za účelem zisku",
+        "right": false
+      },
+      {
+        "body": "Zaměstnanci pracují na živnostenský list",
+        "right": false
+      },
+      {
+        "body": "Zápis v obchodním rejstříku",
+        "right": false
+      },
+      {
+        "body": "Vznik ze zákona",
+        "right": true
+      }
+    ]
+  }, 
+    {
+    "name": "Mezi orgány společnosti s ručením omezeným patří:",
+    "answers": [
+      {
+        "body": "Členská schůze",
+        "right": false
+      },
+      {
+        "body": "Představenstvo",
+        "right": false
+      },
+      {
+        "body": "Sdružení vlastníků",
+        "right": false
+      },
+      {
+        "body": "Valná hromada",
+        "right": true
+      }
+    ]
+  },
+    {
+    "name": "Mezi orgány akciové společnosti patří:",
+    "answers": [
+      {
+        "body": "Jednatelé",
+        "right": false
+      },
+      {
+        "body": "Akcionáři",
+        "right": false
+      },
+      {
+        "body": "Komplementáři",
+        "right": false
+      },
+      {
+        "body": "Představenstvo",
+        "right": true
+      }
+    ]
+  },
+    {
+    "name": "Pro družstvo je charakteristické:",
+    "answers": [
+      {
+        "body": "Nejvyšším orgánem je představenstvo",
+        "right": false
+      },
+      {
+        "body": "Statutárním orgánem je členská schůze",
+        "right": false
+      },
+      {
+        "body": "Zisk je zdaněn pouze daní z příjmu fyzických osob",
+        "right": false
+      },
+      {
+        "body": "Základní kapitál má minimální povinnou výši",
+        "right": true
+      }
+    ]
+  },
+    {
+    "name": "Pro státní podniky zpravidla platí:",
+    "answers": [
+      {
+        "body": "V tržním hospodářství neexistují",
+        "right": false
+      },
+      {
+        "body": "Vypisují státní zakázky",
+        "right": false
+      },
+      {
+        "body": "Cílem je poskytovat veřejné statky",
+        "right": false
+      },
+      {
+        "body": "Hospodaří se státním majetkem",
+        "right": true
+      }
+    ]
+  },
+    {
+    "name": "Tantiémy jsou vypláceny:",
+    "answers": [
+      {
+        "body": "Tetám vlastníků s německým občanstvím",
+        "right": false
+      },
+      {
+        "body": "Z hrubého zisku",
+        "right": false
+      },
+      {
+        "body": " Družstevníkům",
+        "right": false
+      },
+      {
+        "body": " Členům dozorčí rady",
+        "right": true
+      }
+    ]
+  },
+    {
+    "name": " Emisní ážio je:",
+    "answers": [
+      {
+        "body": "Množství emitovaných akcií",
+        "right": false
+      },
+      {
+        "body": "Rozdíl mezi aktuální a poslední uskutečněnou emisí akcií",
+        "right": false
+      },
+      {
+        "body": "Doba, po kterou lze emitované akcie zakoupit",
+        "right": false
+      },
+      {
+        "body": "Rozdíl mezi nominální hodnotou a emisní hodnotou akcií",
+        "right": true
+      }
+    ]
+  },
+    {
+    "name": "Podnikání dle obchodního zákoníku znamená:",
+    "answers": [
+      {
+        "body": "Činnost prováděná za účelem udržení zaměstnanosti",
+        "right": false
+      },
+      {
+        "body": "Činnost prováděná pod marketingovou značkou",
+        "right": false
+      },
+      {
+        "body": "Činnost prováděná na odpovědnost státu",
+        "right": false
+      },
+      {
+        "body": "Činnost prováděná za účelem dosažení zisku",
+        "right": true
+      }
+    ]
+  },
+    {
+    "name": "Obchodní firmou se dle obchodního zákoníku myslí:",
+    "answers": [
+      {
+        "body": "Mikroekonomické označení pro podnik",
+        "right": false
+      },
+      {
+        "body": "Speciální forma podniku",
+        "right": false
+      },
+      {
+        "body": "Označení zahraničních podnikatelských subjektů",
+        "right": false
+      },
+      {
+        "body": "Název, pod kterým je podnikatel zapsán v obchodním rejstříku",
+        "right": true
+      }
+    ]
+  },
+    {
     "name": "",
     "answers": [
       {
