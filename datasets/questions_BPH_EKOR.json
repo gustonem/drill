@@ -189,27 +189,6 @@
     ]
   },
   {
-    "name": "Mezi podnikohospodářské výrobní faktory nepatří",
-    "answers": [
-      {
-        "body": "práce řídící",
-        "right": false
-      },
-      {
-        "body": "práce výkonná",
-        "right": false
-      },
-      {
-        "body": "materiál",
-        "right": false
-      },
-      {
-        "body": "práce",
-        "right": true
-      }
-    ]
-  },
-  {
     "name": "Řízení a správa společností, která se zabývá nejlepším možným rozdělením dispozičních práv (kompetencí) pro úspěšné řízení a kontrolu organizace, se nazývá",
     "answers": [
       {
@@ -268,27 +247,6 @@
       },
       {
         "body": "pro úmyslný trestný čin k nepodmíněnému trestu alespoň jeden rok",
-        "right": true
-      }
-    ]
-  },
-  {
-    "name": "Nutnost skládat základní kapitál, neomezený počet vlastníků, dvojí zdanění daní z příjmů, existence podniku spojena s několika vlastníky, jsou charakteristiky",
-    "answers": [
-      {
-        "body": "družstva",
-        "right": false
-      },
-      {
-        "body": "společnosti s ručením omezeným",
-        "right": false
-      },
-      {
-        "body": "komanditní společnosti",
-        "right": false
-      },
-      {
-        "body": "akciové společnosti",
         "right": true
       }
     ]
@@ -357,27 +315,6 @@
     ]
   },
   {
-    "name": "Nutnost skládat základní kapitál, neomezený počet vlastníků, dvojí zdanění daní z příjmů, existence podniku spojena s jedním nebo několika vlastníky, jsou charakteristiky",
-    "answers": [
-      {
-        "body": "komanditní společnost",
-        "right": false
-      },
-      {
-        "body": "společnosti s ručením omezeným",
-        "right": false
-      },
-      {
-        "body": "družstva",
-        "right": false
-      },
-      {
-        "body": "akciové společnosti",
-        "right": true
-      }
-    ]
-  },
-  {
     "name": "Jestliže je ohroženo dosahování cílů podniku nebo jeho další existence, tak potom se z hlediska životního cyklu jedná o fázi",
     "answers": [
       {
@@ -394,27 +331,6 @@
       },
       {
         "body": "krize",
-        "right": true
-      }
-    ]
-  },
-  {
-    "name": "Manažerská technika, která spočívá v dohodě manažera a podřízeného zaměstnance ohledně předmětu práce a jeho cíle, přičemž splnění cíle je základem hodnocení podřízeného zaměstnance, se nazývá",
-    "answers": [
-      {
-        "body": "řízení delegací úkolů",
-        "right": false
-      },
-      {
-        "body": "řízení podle výjimek",
-        "right": false
-      },
-      {
-        "body": "řízení pomocí regulace systému",
-        "right": false
-      },
-      {
-        "body": "řízení podle cílů",
         "right": true
       }
     ]
@@ -504,7 +420,7 @@
     ]
   },
   {
-    "name": "Soubor opatření přijímaných ze strany vedení podniku k ozdravení a obnově finanční výkonnosti a prosperity podniku, který mění rozsah podnikání, organizační strukturu, atd. se nazývá",
+    "name": "Soubor opatření přijímaných ze strany vedení podniku k ozdravení a obnově finanční výkonnosti a prosperity podniku, který mění rozsah podnikání, organizační strukturu apod., se nazývá",
     "answers": [
       {
         "body": "fůze",
@@ -672,7 +588,7 @@
     ]
   },
   {
-    "name": "Jestliže chce podnikatel získat co nejvyšší úvěr a hradit ho co nejnižšími úroky, jedná se o",
+    "name": "Jestliže chce podnikatel získat co nejvyšší úvěr a hradit za něj co nejnižší úroky, tak potom se jedná o",
     "answers": [
       {
         "body": "minimalizaci hodnotově vyjádřené hospodárnosti",
@@ -759,7 +675,7 @@
     "name": "Mezi státní podniky (s ohledem na právní formu) patří",
     "answers": [
       {
-        "body": "ČEZ (částečně vlastněné státem)",
+        "body": "ČEZ",
         "right": false
       },
       {
@@ -771,7 +687,7 @@
         "right": false
       },
       {
-        "body": "Lesy ČR ( Budějovický Budvar, n.p.)",
+        "body": "Lesy ČR",
         "right": true
       }
     ]
@@ -882,7 +798,7 @@
     ]
   },
   {
-    "name": "Manažerská technika, která spočívá v dohodě manažera a podřízeného zaměstnance ohledně předmětu práce a jeho cíle, přičemž splnění cíle je základem hodnocení zaměstnance, se nazývá",
+    "name": "Manažerská technika, která spočívá v dohodě manažera a podřízeného zaměstnance ohledně předmětu práce a jeho cíle, přičemž splnění cíle je základem hodnocení podřízeného zaměstnance, se nazývá",
     "answers": [
       {
         "body": "řízení pomocí regulace systému",
@@ -1239,10 +1155,10 @@
     ]
   },
   {
-    "name": "Nutnost skládat základní kapitál, neomezený počet vlastníků, dvojí zdanění z příjmů, existence podniku spojena s jedním nebo více vlastníky, jsou charakteristiky",
+    "name": "Nutnost skládat základní kapitál všemi společníky, neomezený počet vlastníků, dvojí zdanění daní z příjmů u všech společníků, existence podniku spojena s jedním nebo několika vlastníky, jsou charakteristiky",
     "answers": [
       {
-        "body": "k. s.",
+        "body": "komanditní společnosti",
         "right": false
       },
       {
@@ -1250,11 +1166,11 @@
         "right": false
       },
       {
-        "body": "s.r.o.",
+        "body": "společnosti s ručením omezeným",
         "right": false
       },
       {
-        "body": "a.s.",
+        "body": "akciové společnosti",
         "right": true
       }
     ]
@@ -2632,7 +2548,7 @@
         "right": false
       },
       {
-        "body": "řízení delegací úkolů ",
+        "body": "řízení podle výjimek",
         "right": false
       },
       {
@@ -2640,7 +2556,7 @@
         "right": false
       },
       {
-        "body": "řízení podle výjimek ",
+        "body": "řízení delegací úkolů",
         "right": true
       }
     ]
@@ -2703,7 +2619,7 @@
         "right": false
       },
       {
-        "body": "zakládání ",
+        "body": "zakládání",
         "right": true
       }
     ]
@@ -2787,13 +2703,13 @@
         "right": false
       },
       {
-        "body": "dlouhodobý majetek ",
+        "body": "dlouhodobý majetek",
         "right": true
       }
     ]
   },
   {
-    "name": "Pokud tvoří vrcholové řízení několik osob, přičemž každá z těchto osob má stejné oprávnění (tzn., že se celá skupina musí na rozhodnutí shodnout), jedná se o uplatnění principu",
+    "name": "Pokud tvoří vrcholové řízení několik osob, přičemž každá z těchto osob má stejné oprávnění (tzn. že se celá skupina musí na rozhodnutí shodnout), jedná se o uplatnění principu",
     "answers": [
       {
         "body": "autoritativního",
@@ -2846,11 +2762,11 @@
         "right": false
       },
       {
-        "body": "podniku jednotlivce",
+        "body": "veřejné obchodní společnosti",
         "right": false
       },
       {
-        "body": "veřejné obchodní společnosti ",
+        "body": "podniku jednotlivce",
         "right": true
       }
     ]
@@ -4783,6 +4699,909 @@
       },
       {
         "body": "Název, pod kterým je podnikatel zapsán v obchodním rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce pan Novák podniknout co nejdelší cestu po Evropě a hradit za ní co nejméně peněz, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "maximalizaci racionality",
+        "right": false
+      },
+      {
+        "body": "maximalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "maximalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "tuto situaci nelze optimalizovat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je v tržním hospodářském systému organizaci určován plán její činnosti státní autoritou (např. ministerstvem), potom se jedná o porušení principu",
+    "answers": [
+      {
+        "body": "orgánu",
+        "right": false
+      },
+      {
+        "body": "plnění plánu",
+        "right": false
+      },
+      {
+        "body": "soukromého vlastnictv",
+        "right": false
+      },
+      {
+        "body": "autonomie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik dosahuje maxima zisku a s ohledem na trh má optimální velikost, tak potom se z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "krize",
+        "right": false
+      },
+      {
+        "body": "růstu",
+        "right": false
+      },
+      {
+        "body": "zakládání",
+        "right": false
+      },
+      {
+        "body": "stabilizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Opatření, které mění strukturu práce (např. zavádí rozhodovací a kontrolní pravomoci), se nazývá",
+    "answers": [
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": false
+      },
+      {
+        "body": "pracovní rotace",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z účetního hlediska patří mezi výrobní faktory organizace",
+    "answers": [
+      {
+        "body": "zásoby hotových výrobků",
+        "right": false
+      },
+      {
+        "body": "peníze na běžném účtě",
+        "right": false
+      },
+      {
+        "body": "pohledávky",
+        "right": false
+      },
+      {
+        "body": "zásoby materiálu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dnem ohlášení živnosti nelze zahájit podnikatelskou činnost v rámci živnosti",
+    "answers": [
+      {
+        "body": "řemeslné",
+        "right": false
+      },
+      {
+        "body": "volné",
+        "right": false
+      },
+      {
+        "body": "vázané",
+        "right": false
+      },
+      {
+        "body": "koncesované",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Manažerská technika, která spočívá v delegaci jasně vymezených úkolů na podřízeného, přičemž manažer pouze kontroluje výsledky, se nazývá",
+    "answers": [
+      {
+        "body": "řízení podle cílů",
+        "right": false
+      },
+      {
+        "body": "řízení pomocí regulace systému",
+        "right": false
+      },
+      {
+        "body": "řízení podle výjimek",
+        "right": false
+      },
+      {
+        "body": "řízení delegací úkolů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi právní formy podniku (podle zákona o obchodních korporacích) nepatří",
+    "answers": [
+      {
+        "body": "akciová společnost",
+        "right": false
+      },
+      {
+        "body": "společnost s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "komanditní společnost",
+        "right": false
+      },
+      {
+        "body": "podnik jednotlivce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vrcholovým cílem podniku v tržní ekonomice je zpravidla",
+    "answers": [
+      {
+        "body": "zajištění plné zaměstnanosti",
+        "right": false
+      },
+      {
+        "body": "zajištění vzdělanosti obyvatelstva",
+        "right": false
+      },
+      {
+        "body": "růst podílu na trhu",
+        "right": false
+      },
+      {
+        "body": "dlouhodobá maximalizace zisku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle snížení nákladů ve výrobě (při zachování kvality) produktu a růst obratu jsou s ohledem na vzájemný vztah cíle",
+    "answers": [
+      {
+        "body": "konkurenční",
+        "right": false
+      },
+      {
+        "body": "indiferentní",
+        "right": false
+      },
+      {
+        "body": "protikladné",
+        "right": false
+      },
+      {
+        "body": "komplementární",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže dva útvary v rámci organizace sledují rozdílné (vzájemně konkurenční) cíle, tak potom nastává cílový konflikt",
+    "answers": [
+      {
+        "body": "hierarchicky podmíněný",
+        "right": false
+      },
+      {
+        "body": "manažerský",
+        "right": false
+      },
+      {
+        "body": "individuální",
+        "right": false
+      },
+      {
+        "body": "uvnitř organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi orgány akciové společnosti nepatří",
+    "answers": [
+      {
+        "body": "představenstvo",
+        "right": false
+      },
+      {
+        "body": "dozorčí rada",
+        "right": false
+      },
+      {
+        "body": "valná hromada",
+        "right": false
+      },
+      {
+        "body": "jednatel (jednatelé)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Zvláštní podmínky provozování živnosti (odbornou nebo jinou způsobilost) není nutno prokazovat v rámci živnosti",
+    "answers": [
+      {
+        "body": "řemeslné",
+        "right": false
+      },
+      {
+        "body": "koncesované",
+        "right": false
+      },
+      {
+        "body": "vázané",
+        "right": false
+      },
+      {
+        "body": "volné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nízké náklady založení (bez nutnosti skládat základní kapitál všemi společníky), neomezené ručení, jedno zdanění daní z příjmů u všech společníků, existence podniku spojena s několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "družstva",
+        "right": false
+      },
+      {
+        "body": "podniku jednotlivce",
+        "right": false
+      },
+      {
+        "body": "veřejné obchodní společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud obchodní jmění podniku (včetně pohledávek a závazků) přechází na právního nástupce, tak potom se podnik zpravidla",
+    "answers": [
+      {
+        "body": "nezruší",
+        "right": false
+      },
+      {
+        "body": "zruší výmazem z obchodního rejstříku",
+        "right": false
+      },
+      {
+        "body": "zruší s likvidací",
+        "right": false
+      },
+      {
+        "body": "zruší bez likvidace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle výlučné vlastnictví dlouhodobého majetku podniku a společné vlastnictví budovy s dalším podnikatelským subjektem jsou s ohledem na vzájemný vztah cíle",
+    "answers": [
+      {
+        "body": "indiferentní",
+        "right": false
+      },
+      {
+        "body": "konkurenční",
+        "right": false
+      },
+      {
+        "body": "komplementární",
+        "right": false
+      },
+      {
+        "body": "protikladné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro veřejnou vysokou školu (například Masarykovu univerzitu) není charakteristické:samospráva",
+    "answers": [
+      {
+        "body": "samospráva",
+        "right": false
+      },
+      {
+        "body": "založení (vznik) ze zákona",
+        "right": false
+      },
+      {
+        "body": "poskytování smíšeného statku",
+        "right": false
+      },
+      {
+        "body": "řízení ministrem školství",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi důvody zrušení podniku nepatří",
+    "answers": [
+      {
+        "body": "dosažení účelu, pro který byl podnik zřízen",
+        "right": false
+      },
+      {
+        "body": "rozhodnutí soudu o zrušení podniku",
+        "right": false
+      },
+      {
+        "body": "uplynutí doby, na kterou byl podnik založen",
+        "right": false
+      },
+      {
+        "body": "zahájení insolvenčního řízení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nutnost skládat základní kapitál u všech společníků, neomezený počet vlastníků, dvojí zdanění daní z příjmů u všech společníků, existence podniku spojena s několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "akciové společnosti",
+        "right": false
+      },
+      {
+        "body": "komanditní společnosti",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "družstva",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dispozitivní práce je vůči ostatním podnikohospodářským výrobním faktorům v postavení",
+    "answers": [
+      {
+        "body": "žádná odpověď není správná",
+        "right": false
+      },
+      {
+        "body": "nadřazeném",
+        "right": false
+      },
+      {
+        "body": "podřazeném",
+        "right": false
+      },
+      {
+        "body": "rovnocenném",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce podnikatel získat 50 000 Kč úvěr a hradit za něj co nejnižší úroky, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl monetární lze klasifikovat cíl",
+    "answers": [
+      {
+        "body": "zajištění zásobování obyvatelstva",
+        "right": false
+      },
+      {
+        "body": "růst podílu na trhu",
+        "right": false
+      },
+      {
+        "body": "ochrana životního prostředí",
+        "right": false
+      },
+      {
+        "body": "růst tržeb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "",
+    "answers": [
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
+        "right": false
+      },
+      {
+        "body": "",
         "right": true
       }
     ]
