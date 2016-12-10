@@ -756,27 +756,6 @@
     ]
   },
   {
-    "name": "Pokud využívám ve výrobní organizaci úkolovou mzdu ve formě časového úkolu, tak potom základem pro stanovení výše mzdy je",
-    "answers": [
-      {
-        "body": "peněžní sazba na hodinu práce",
-        "right": false
-      },
-      {
-        "body": "množství odpracovaného času",
-        "right": false
-      },
-      {
-        "body": "peněžní sazba na vyrobený kus",
-        "right": false
-      },
-      {
-        "body": "peněžní sazba na čas připadající na vyrobený kus",
-        "right": true
-      }
-    ]
-  },
-  {
     "name": "Základem maticové organizační struktury je seskupení činností na základě",
     "answers": [
       {
@@ -882,27 +861,6 @@
     ]
   },
   {
-    "name": "Jestliže rozhodovatel nezná všechny stavy okolí a s jistotou neví, jaká situace nastane (míru jistoty může nastavit), potom hovoříme o rozhodovací situaci za podmínek",
-    "answers": [
-      {
-        "body": "pravděpodobnosti",
-        "right": false
-      },
-      {
-        "body": "jistoty",
-        "right": false
-      },
-      {
-        "body": "nejistoty",
-        "right": false
-      },
-      {
-        "body": "rizika",
-        "right": true
-      }
-    ]
-  },
-  {
     "name": "Jako cíl nemonetární mimoekonomický lze klasifikovat cíl",
     "answers": [
       {
@@ -966,7 +924,7 @@
     ]
   },
   {
-    "name": "Množství produkce, které je nutné vyrábět s využitím DLHM  s ohledem např. na prudkou změnu nákladů a následnou rentabilitu výroby, se nazývá",
+    "name": "Množství produkce, které je nutné vyrábět s využitím dlouhodobého majetku s ohledem např. na prudkou změnu nákladů a následnou rentabilitu výroby, se nazývá",
     "answers": [
       {
         "body": "technická kapacita",
@@ -1074,11 +1032,11 @@
     "name": "Výkonnost pracovníka je ovlivněna především",
     "answers": [
       {
-        "body": "",
+        "body": "výší odměny za práci",
         "right": false
       },
       {
-        "body": "odbornou výchovou",
+        "body": "pracovními podmínkami",
         "right": false
       },
       {
@@ -1086,7 +1044,7 @@
         "right": false
       },
       {
-        "body": "pracovními podmínkami",
+        "body": "odbornou výchovou",
         "right": true
       }
     ]
@@ -1095,7 +1053,7 @@
     "name": "Jestliže ředitel organizace má pod sebou 2 náměstky a ti mají pod sebou (každý) další 4 pracovníky, tak potom počet stupňů řízení v organizaci je",
     "answers": [
       {
-        "body": "nelze určit",
+        "body": "2",
         "right": false
       },
       {
@@ -1107,7 +1065,7 @@
         "right": false
       },
       {
-        "body": "2",
+        "body": "nelze určit",
         "right": true
       }
     ]
@@ -2229,19 +2187,19 @@
     "name": "Příkladem sdružení se ztrátou právní samostatnosti členů je",
     "answers": [
       {
-        "body": "koncern ",
+        "body": "koncern",
         "right": false
       },
       {
-        "body": "konsorcium ",
+        "body": "konsorcium",
         "right": false
       },
       {
-        "body": "franchising ",
+        "body": "franchising",
         "right": false
       },
       {
-        "body": "trust ",
+        "body": "trust",
         "right": true
       }
     ]
@@ -2548,7 +2506,7 @@
         "right": false
       },
       {
-        "body": "řízení podle výjimek",
+        "body": "řízení delegací úkolů",
         "right": false
       },
       {
@@ -2556,7 +2514,7 @@
         "right": false
       },
       {
-        "body": "řízení delegací úkolů",
+        "body": "řízení podle výjimek",
         "right": true
       }
     ]
@@ -2772,48 +2730,6 @@
     ]
   },
   {
-    "name": "Jestliže organizace přijme normy bezpečnosti práce, pak se z časového hlediska jedná o organizační pravidlo typu",
-    "answers": [
-      {
-        "body": "regulace",
-        "right": false
-      },
-      {
-        "body": "improvizace",
-        "right": false
-      },
-      {
-        "body": "dispozice",
-        "right": false
-      },
-      {
-        "body": "organizace",
-        "right": true
-      }
-    ]
-  },
-  {
-    "name": "Mezi nástroje odbytové politiky organizace nepatří",
-    "answers": [
-      {
-        "body": "distribuční politika",
-        "right": false
-      },
-      {
-        "body": "výrobková",
-        "right": false
-      },
-      {
-        "body": "cenová",
-        "right": false
-      },
-      {
-        "body": "zaměstnanecká",
-        "right": true
-      }
-    ]
-  },
-  {
     "name": "Pokud využívám ve výrobní organizaci úkolovou mzdu ve formě časového úkolu, tak potom základem pro stanovení výše mzdy je",
     "answers": [
       {
@@ -2856,27 +2772,6 @@
     ]
   },
   {
-    "name": "Množství produkce, které je nutné vyrábět s využitím DLHM  s ohledem např. na prudkou změnu nákladů a následnou rentabilitu výroby, se nazývá",
-    "answers": [
-      {
-        "body": "technická kapacita",
-        "right": false
-      },
-      {
-        "body": "maximální kapacita",
-        "right": false
-      },
-      {
-        "body": "ekonomická kapacita",
-        "right": false
-      },
-      {
-        "body": "minimální kapacita",
-        "right": true
-      }
-    ]
-  },
-  {
     "name": "Materiál, který není ve výrobním procesu přetvářen, ale je zabudován do produktu, se nazývá",
     "answers": [
       {
@@ -2893,27 +2788,6 @@
       },
       {
         "body": "hotová součástka ",
-        "right": true
-      }
-    ]
-  },
-  {
-    "name": "Výkonnost pracovníka je ovlivněna především",
-    "answers": [
-      {
-        "body": "",
-        "right": false
-      },
-      {
-        "body": "personálním výběrem ",
-        "right": false
-      },
-      {
-        "body": "pracovními podmínkami",
-        "right": false
-      },
-      {
-        "body": "odbornou výchovou",
         "right": true
       }
     ]
@@ -4809,27 +4683,6 @@
     ]
   },
   {
-    "name": "Dnem ohlášení živnosti nelze zahájit podnikatelskou činnost v rámci živnosti",
-    "answers": [
-      {
-        "body": "řemeslné",
-        "right": false
-      },
-      {
-        "body": "volné",
-        "right": false
-      },
-      {
-        "body": "vázané",
-        "right": false
-      },
-      {
-        "body": "koncesované",
-        "right": true
-      }
-    ]
-  },
-  {
     "name": "Manažerská technika, která spočívá v delegaci jasně vymezených úkolů na podřízeného, přičemž manažer pouze kontroluje výsledky, se nazývá",
     "answers": [
       {
@@ -6048,253 +5901,253 @@
     ]
   },
   {
-    "name": "",
+    "name": "V rámci výrobkové politiky je nutné vyřešit",
     "answers": [
       {
-        "body": "",
+        "body": "podporu prodeje",
         "right": false
       },
       {
-        "body": "",
+        "body": "fyzickou distribuci",
         "right": false
       },
       {
-        "body": "",
+        "body": "platební podmínky",
         "right": false
       },
       {
-        "body": "",
+        "body": "služby zákazníkům",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Formulace a plánování základních principů organizace, které mohou obsahovat i sociální rozměr a které jsou zpravidla velmi obecná, se nazývá",
     "answers": [
       {
-        "body": "",
+        "body": "taktické plánování",
         "right": false
       },
       {
-        "body": "",
+        "body": "strategické plánování",
         "right": false
       },
       {
-        "body": "",
+        "body": "operativní plánování",
         "right": false
       },
       {
-        "body": "",
+        "body": "plánování vize",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Mezi výhody pružnosti organizace patří",
     "answers": [
       {
-        "body": "",
+        "body": "menší závislost na vykonavatelíc",
         "right": false
       },
       {
-        "body": "",
+        "body": "vyšší motivace pracovníků",
         "right": false
       },
       {
-        "body": "",
+        "body": "vyšší kvalita produkce",
         "right": false
       },
       {
-        "body": "",
+        "body": "lepší koordinace organizace",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Materiál, který vstupuje do produktu, ale netvoří jeho hlavní část, se nazývá",
     "answers": [
       {
-        "body": "",
+        "body": "surovina",
         "right": false
       },
       {
-        "body": "",
+        "body": "provozní látka",
         "right": false
       },
       {
-        "body": "",
+        "body": "hotová součástka",
         "right": false
       },
       {
-        "body": "",
+        "body": "pomocná látka",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "V nejužším pojetí se výrobou rozumí",
     "answers": [
       {
-        "body": "",
+        "body": "tvorba podnikových výkonů",
         "right": false
       },
       {
-        "body": "",
+        "body": "poskytování služeb",
         "right": false
       },
       {
-        "body": "",
+        "body": "všechny funkce organizace",
         "right": false
       },
       {
-        "body": "",
+        "body": "zhotovování výrobků",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Jestliže nadřízený pracovník pověří svého podřízeného pracovníka, aby za něj vykonal nějaký úkon, neboť ho nadřízený pracovník z důvodu dopravních problémů nemůže momentálně vykonat, potom se z časového hlediska jedná o organizační pravidlo typu",
     "answers": [
       {
-        "body": "",
+        "body": "regulace",
         "right": false
       },
       {
-        "body": "",
+        "body": "improvizace",
         "right": false
       },
       {
-        "body": "",
+        "body": "organizace",
         "right": false
       },
       {
-        "body": "",
+        "body": "dispozice",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Jestliže dojde k přeměně dlouhodobého úvěru věřitele v majetkovou účast v organizaci, potom se z hlediska kapitálové transformace jedná",
     "answers": [
       {
-        "body": "",
+        "body": "přeměna jednoho druhu vlastního kapitálu v jiný druh",
         "right": false
       },
       {
-        "body": "",
+        "body": "přeměna vlastního kapitálu v cizí kapitál",
         "right": false
       },
       {
-        "body": "",
+        "body": "přeměna jednoho druhu cizího kapitálu v jiný druh",
         "right": false
       },
       {
-        "body": "",
+        "body": "přeměna cizího kapitálu ve vlastní kapitál",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Jestliže s růstem výkonu nad 100% roste výše mzdy degresivně, jedná se o prémiový mzdový systém",
     "answers": [
       {
-        "body": "",
+        "body": "Taylorův",
         "right": false
       },
       {
-        "body": "",
+        "body": "Halseyův",
         "right": false
       },
       {
-        "body": "",
+        "body": "Bedauxův",
         "right": false
       },
       {
-        "body": "",
+        "body": "Rowanův",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Strategické podnikatelské jednotky, které jsou charakteristické relativně vysokým tržním růstem a relativně vysokým tržním podílem se dle matice Boston-portfolia nazývají",
     "answers": [
       {
-        "body": "",
+        "body": "dojné krávy",
         "right": false
       },
       {
-        "body": "",
+        "body": "problémové výrobky",
         "right": false
       },
       {
-        "body": "",
+        "body": "otazníky",
         "right": false
       },
       {
-        "body": "",
+        "body": "hvězdy",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Příkladem sdružení se ztrátou hospodářské samostatnosti při zachováním právní samostatnosti členů je",
     "answers": [
       {
-        "body": "",
+        "body": "konsorcium ",
         "right": false
       },
       {
-        "body": "",
+        "body": "franchising ",
         "right": false
       },
       {
-        "body": "",
+        "body": "kartel ",
         "right": false
       },
       {
-        "body": "",
+        "body": "koncern ",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Základem divizionální organizační struktury je seskupení činností na základě",
     "answers": [
       {
-        "body": "",
+        "body": "žádná odpověď není správně",
         "right": false
       },
       {
-        "body": "",
+        "body": "smíšené (jak funkční tak předmětné specializace)",
         "right": false
       },
       {
-        "body": "",
+        "body": "funkční specializace",
         "right": false
       },
       {
-        "body": "",
+        "body": "předmětné specializace",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Mezi nástroje odbytové politiky patří",
     "answers": [
       {
-        "body": "",
+        "body": "odpisová politika",
         "right": false
       },
       {
-        "body": "",
+        "body": "zaměstnanecká politika",
         "right": false
       },
       {
-        "body": "",
+        "body": "mzdová politika",
         "right": false
       },
       {
-        "body": "",
+        "body": "výrobková politika",
         "right": true
       }
     ]
