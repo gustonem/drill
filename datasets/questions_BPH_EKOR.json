@@ -5166,6 +5166,888 @@
     ]
   },
   {
+    "name": "Obchodní firmou se dle obchodního zákoníku myslí:",
+    "answers": [
+      {
+        "body": "Mikroekonomické označení pro podnik",
+        "right": false
+      },
+      {
+        "body": "Speciální forma podniku",
+        "right": false
+      },
+      {
+        "body": "Označení zahraničních podnikatelských subjektů",
+        "right": false
+      },
+      {
+        "body": "Název, pod kterým je podnikatel zapsán v obchodním rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Živnost je charakteristická:",
+    "answers": [
+      {
+        "body": "Povinností vytvářet základní kapitál",
+        "right": false
+      },
+      {
+        "body": "Vlastnictvím pouze jediné fyzické osoby",
+        "right": false
+      },
+      {
+        "body": "Povinnou registrací u Evropské komise",
+        "right": false
+      },
+      {
+        "body": "Vlastnictvím pouze jediného podnikatele nebo několika společníků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi všeobecné podmínky provozování živností patří:",
+    "answers": [
+      {
+        "body": "Doložená praxe v oboru",
+        "right": false
+      },
+      {
+        "body": "Fyzická osoba",
+        "right": false
+      },
+      {
+        "body": "Věk 15 let",
+        "right": false
+      },
+      {
+        "body": "Bezúhonnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 1 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Vázané",
+        "right": false
+      },
+      {
+        "body": "Volné",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 2 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Volné",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": false
+      },
+      {
+        "body": "Vázané",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 3 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Vázané",
+        "right": false
+      },
+      {
+        "body": "Volné",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 4 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Vázané",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": false
+      },
+      {
+        "body": "Volné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kritériem členění podniků dle velikosti v EU je:",
+    "answers": [
+      {
+        "body": "Velikost příjmů",
+        "right": false
+      },
+      {
+        "body": "Velikost produkce v objemovém vyjádření",
+        "right": false
+      },
+      {
+        "body": "Velikost základního kapitálu",
+        "right": false
+      },
+      {
+        "body": "Velikost bilanční sumy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Koncesované živnosti se vyznačují:",
+    "answers": [
+      {
+        "body": "Vysoké riziko ohrožení mravní výchovy mládeže",
+        "right": false
+      },
+      {
+        "body": "Na získání koncese je právní nárok",
+        "right": false
+      },
+      {
+        "body": "Omezený počet koncesí pro obor",
+        "right": false
+      },
+      {
+        "body": "Spolehlivost podnikatele i jeho zaměstnanců",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vztah živnosti a malého podniku je:",
+    "answers": [
+      {
+        "body": "Podnikatel si musí vybrat, zda chce být živnostníkem nebo podnikem jednotlivce",
+        "right": false
+      },
+      {
+        "body": "Do malých podniků se počítají jen živnosti právnických osob",
+        "right": false
+      },
+      {
+        "body": "Živnosti tvoří zlomek z počtu malých podniků",
+        "right": false
+      },
+      {
+        "body": "Živnosti jsou brány jako malé podniky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi výhody malých a středních podniků nepatří:",
+    "answers": [
+      {
+        "body": "Pružné reagování na změny",
+        "right": false
+      },
+      {
+        "body": "Odolnost proti hospodářské recesi",
+        "right": false
+      },
+      {
+        "body": "Inovativnost",
+        "right": false
+      },
+      {
+        "body": "Malá konkurence",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nevýhody malých a středních podniků nepatří:",
+    "answers": [
+      {
+        "body": "Omezené možnosti získávání výhod z rozsahu produkce",
+        "right": false
+      },
+      {
+        "body": "Nižší likvidita a rentabilita",
+        "right": false
+      },
+      {
+        "body": "Omezené prostředky na propagaci a reklamu",
+        "right": false
+      },
+      {
+        "body": "Vyšší intenzita práce a méně příznivé pracovní podmínky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hlavní formy podpory malého a středního podnikání nepatří:",
+    "answers": [
+      {
+        "body": "Slevy na dani",
+        "right": false
+      },
+      {
+        "body": "Dotace",
+        "right": false
+      },
+      {
+        "body": "Záruky za úvěry",
+        "right": false
+      },
+      {
+        "body": "Příspěvky a finanční výpomoci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro výrobní faktory není typické:",
+    "answers": [
+      {
+        "body": "Jejich kombinací vzniká výstup",
+        "right": false
+      },
+      {
+        "body": "Jejich strukturu si podnik určuje individuálně",
+        "right": false
+      },
+      {
+        "body": "Jejich cena je dána trhem",
+        "right": false
+      },
+      {
+        "body": "Jejich množství je neomezené",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory patří:",
+    "answers": [
+      {
+        "body": "Základní kapitál",
+        "right": false
+      },
+      {
+        "body": "Půda",
+        "right": false
+      },
+      {
+        "body": "Vlastníci",
+        "right": false
+      },
+      {
+        "body": "Materiál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do originální činnosti dispozitivního výrobního faktoru v organizaci nespadá: ",
+    "answers": [
+      {
+        "body": "Vedení",
+        "right": false
+      },
+      {
+        "body": "Stanovení cílů",
+        "right": false
+      },
+      {
+        "body": "Rozhodování",
+        "right": false
+      },
+      {
+        "body": "Montování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vůči ostatním výrobním faktorům je v nadřazeném postavení:",
+    "answers": [
+      {
+        "body": "Materiál",
+        "right": false
+      },
+      {
+        "body": "Hmotný investiční majetek",
+        "right": false
+      },
+      {
+        "body": "Výkonná práce",
+        "right": false
+      },
+      {
+        "body": "Dispozitivní práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi funkce řízení v organizaci patří:",
+    "answers": [
+      {
+        "body": "Investování",
+        "right": false
+      },
+      {
+        "body": "Financování",
+        "right": false
+      },
+      {
+        "body": "Nakupování",
+        "right": false
+      },
+      {
+        "body": "Plánování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako náklad na výrobní faktor dlouhodobý majetek označujeme:",
+    "answers": [
+      {
+        "body": "Renta",
+        "right": false
+      },
+      {
+        "body": "Přidaná hodnota",
+        "right": false
+      },
+      {
+        "body": "Mzda",
+        "right": false
+      },
+      {
+        "body": "Odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro vlastnický podnik je typické:",
+    "answers": [
+      {
+        "body": "Podnik nemá zaměstnance",
+        "right": false
+      },
+      {
+        "body": "Náklady na práci jsou rovny mzdě vlastníků",
+        "right": false
+      },
+      {
+        "body": "Jedinou možnou právní formou je veřejná obchodní společnost",
+        "right": false
+      },
+      {
+        "body": "Vlastníci nesou podnikatelské riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro manažerskou organizaci je typické:",
+    "answers": [
+      {
+        "body": "Typickým příkladem je veřejná obchodní společnost",
+        "right": false
+      },
+      {
+        "body": "Manažeři a vlastníci jsou tytéž osoby",
+        "right": false
+      },
+      {
+        "body": "Počet manažerů musí být vyšší než počet vlastníků",
+        "right": false
+      },
+      {
+        "body": "Manažeři jsou zaměstnanci organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Oddělení vlastnictví od řízení je v podnicích nejčastěji spojeno s následujícím problémem: ",
+    "answers": [
+      {
+        "body": "Nucené ukončení činnosti firmy",
+        "right": false
+      },
+      {
+        "body": "Potřeba dvou oddělených výrobních závodů",
+        "right": false
+      },
+      {
+        "body": "Ztráta suverenity podniku",
+        "right": false
+      },
+      {
+        "body": "Protichůdnost zájmů vlastníků a managementu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro direktoriální princip je typické:",
+    "answers": [
+      {
+        "body": "Pouze jedna osoba ředitele",
+        "right": false
+      },
+      {
+        "body": "Generálním ředitelem je vlastník",
+        "right": false
+      },
+      {
+        "body": "Všechny stupně řízení mají stejné oprávnění",
+        "right": false
+      },
+      {
+        "body": "Při rozhodování má konečné slovo jediná osoba",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cílem corporate governance je:",
+    "answers": [
+      {
+        "body": "Řízení organizace výhradně externími odborníky",
+        "right": false
+      },
+      {
+        "body": "Řízení organizace dle modelu veřejných společností",
+        "right": false
+      },
+      {
+        "body": "Řízení organizace s nejnižšími možnými náklady",
+        "right": false
+      },
+      {
+        "body": "Řízení organizace na základě optimálního rozdělení dispozičních práv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Posledním krokem v řídícím procesu dispozitivního faktoru je:",
+    "answers": [
+      {
+        "body": "Plánování",
+        "right": false
+      },
+      {
+        "body": "Kontrola",
+        "right": false
+      },
+      {
+        "body": "Delegování",
+        "right": false
+      },
+      {
+        "body": "Výběr vhodné varianty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do výrobního faktoru dlouhodobý hmotný majetek patří:",
+    "answers": [
+      {
+        "body": "Tažná zvířata",
+        "right": false
+      },
+      {
+        "body": "Goodwill",
+        "right": false
+      },
+      {
+        "body": "Nedokončená výroba",
+        "right": false
+      },
+      {
+        "body": "Cenné papíry",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do výrobního faktoru materiál patří:",
+    "answers": [
+      {
+        "body": "Uklízečky",
+        "right": false
+      },
+      {
+        "body": "Mobilní telefony",
+        "right": false
+      },
+      {
+        "body": "Akcie",
+        "right": false
+      },
+      {
+        "body": "Polotovary",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro výrobní faktor dispozitivní práce platí:",
+    "answers": [
+      {
+        "body": "Je vždy k dispozici",
+        "right": false
+      },
+      {
+        "body": "Zpravidla nevyužívá výrobní faktor materiál",
+        "right": false
+      },
+      {
+        "body": "Je vždy ze všech výrobních faktorů nejnákladnějších",
+        "right": false
+      },
+      {
+        "body": "Řídí výkonnou práci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vrcholovým cílem podniku v tržní ekonomice je zpravidla:",
+    "answers": [
+      {
+        "body": "Maximalizace daňových odvodů",
+        "right": false
+      },
+      {
+        "body": "Dobré vztahy s odboráři",
+        "right": false
+      },
+      {
+        "body": "Maximalizace počtu akcionářů",
+        "right": false
+      },
+      {
+        "body": "Dlouhodobá maximalizace zisku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl monetární lze klasifikovat cíl:",
+    "answers": [
+      {
+        "body": "Růst tržního podílu",
+        "right": false
+      },
+      {
+        "body": "Zajištění zaměstnanosti",
+        "right": false
+      },
+      {
+        "body": "Získání politického vlivu",
+        "right": false
+      },
+      {
+        "body": "Růst obratu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární ekonomický lze klasifikovat cíl:",
+    "answers": [
+      {
+        "body": "Růst hospodářského výsledku po zdanění",
+        "right": false
+      },
+      {
+        "body": "Růst obratu aktiv",
+        "right": false
+      },
+      {
+        "body": "Růst tržeb",
+        "right": false
+      },
+      {
+        "body": "Vedení v nejnižších nákladech",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární mimoekonomický lze klasifikovat cíl:",
+    "answers": [
+      {
+        "body": "Dominantní postavení na lokálním trhu",
+        "right": false
+      },
+      {
+        "body": "Růst krátkodobé likvidity",
+        "right": false
+      },
+      {
+        "body": "Minimalizace daňových odvodů",
+        "right": false
+      },
+      {
+        "body": "Ochrana životního prostředí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle minimalizace osobních nákladů a maximalizace čistého zisku jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Konkurenční",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": false
+      },
+      {
+        "body": "Komplementární",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle maximalizace objemu zásob a minimalizace nedokončené výroby jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Komplementární",
+        "right": false
+      },
+      {
+        "body": "Konkurenční",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle maximalizace tržního podílu a snížení nákladu na pořízení materiálu jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Komplementární",
+        "right": false
+      },
+      {
+        "body": "Konkurenční",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle růst běžné likvidity a růst rentability celkových aktiv jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Komplementární",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": false
+      },
+      {
+        "body": "Konkurenční",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže oddělení marketingu žádá o maximální příspěvky na reklamu a finanční oddělení chce minimalizovat režijní náklady, jedná se o cílový konflikt: ",
+    "answers": [
+      {
+        "body": "Individuální",
+        "right": false
+      },
+      {
+        "body": "Hierarchicky podmíněný",
+        "right": false
+      },
+      {
+        "body": "Manažerský",
+        "right": false
+      },
+      {
+        "body": "Uvnitř organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "K motivaci zaměstnanců zpravidla nepřispívá:",
+    "answers": [
+      {
+        "body": "Pracovní podmínky",
+        "right": false
+      },
+      {
+        "body": "Odměna za práci",
+        "right": false
+      },
+      {
+        "body": "Podnikové sociální požitky",
+        "right": false
+      },
+      {
+        "body": "Protipožární směrnice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obohacení práce znamená:",
+    "answers": [
+      {
+        "body": "Změna pracovního kolektivu",
+        "right": false
+      },
+      {
+        "body": "Změna odměny za práci",
+        "right": false
+      },
+      {
+        "body": "Změna pracovních předpisů",
+        "right": false
+      },
+      {
+        "body": "Změna struktury práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro řízení dle výjimek je typické:",
+    "answers": [
+      {
+        "body": "Práce pouze na výjimečných úkolech",
+        "right": false
+      },
+      {
+        "body": "Přenechávání práce výjimečným zaměstnancům",
+        "right": false
+      },
+      {
+        "body": "Nahodilá a občasná kontrola práce podřízených",
+        "right": false
+      },
+      {
+        "body": "Samostatná práce s minimálními zásahy nadřízených",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro řízení delegací úkolů je typické:",
+    "answers": [
+      {
+        "body": "Dispozitivní práce je zcela delegována na práci výkonnou",
+        "right": false
+      },
+      {
+        "body": "Všechny stupně řízení mohou své úkoly libovolně přenechávat nižším stupňům",
+        "right": false
+      },
+      {
+        "body": "Delegovány jsou klíčové strategické úkoly",
+        "right": false
+      },
+      {
+        "body": "Pracovníci se sami rozhodují v rámci vymezených úkolů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro řízení podle cílů je typické:",
+    "answers": [
+      {
+        "body": "Všechny podnikové cíle jsou komplementární nebo indiferentní",
+        "right": false
+      },
+      {
+        "body": "Cíle podniku vycházejí z cílů konkurence",
+        "right": false
+      },
+      {
+        "body": "Strategické cíle jsou upřednostňovány před dlouhodobými cíli podniku",
+        "right": false
+      },
+      {
+        "body": "Úkoly a odpovědnost zaměstnance jsou určeny dle cílů, kterých má dosáhnout",
+        "right": true
+      }
+    ]
+  },
+  {
     "name": "",
     "answers": [
       {
