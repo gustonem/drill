@@ -6153,211 +6153,547 @@
     ]
   },
   {
-    "name": "",
+    "name": "Časový fond výrobního zařízení, který je odvozen od počtu dnů v kalendářním nebo účetním roce, se nazývá",
     "answers": [
       {
-        "body": "",
+        "body": "využitelný",
         "right": false
       },
       {
-        "body": "",
+        "body": "účetní",
         "right": false
       },
       {
-        "body": "",
+        "body": "nominální",
         "right": false
       },
       {
-        "body": "",
+        "body": "kalendářní",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "ABC analýzu v materiálovém hospodářství lze využít při rozhodování o výběru",
     "answers": [
       {
-        "body": "",
+        "body": "plánovacího postupu",
         "right": false
       },
       {
-        "body": "",
+        "body": "dlouhodobého majetku",
         "right": false
       },
       {
-        "body": "",
+        "body": "pracovních sil",
         "right": false
       },
       {
-        "body": "",
+        "body": "odběratelů",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Jestliže je nákup surovin nebo materiálu kvantitativně a časově plně orientován na spotřebu, hovoříme o",
     "answers": [
       {
-        "body": "",
+        "body": "odbytovém nákupu",
         "right": false
       },
       {
-        "body": "",
+        "body": "příležitostném nákupu",
         "right": false
       },
       {
-        "body": "",
+        "body": "nákupu do zásoby",
         "right": false
       },
       {
-        "body": "",
+        "body": "výrobně synchronním nákupu",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Pojem Cash Flow označuje",
     "answers": [
       {
-        "body": "",
+        "body": "tok zisku",
         "right": false
       },
       {
-        "body": "",
+        "body": "hodnotový tok",
         "right": false
       },
       {
-        "body": "",
+        "body": "schopnost podniku dostát svým závazkům",
         "right": false
       },
       {
-        "body": "",
+        "body": "peněžní tok",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Stav zásob, při jehož dosažení musíme objednat novou zásobu, abychom se vyhnuli nákladům z předčasného vyčerpání zásob, nazýváme",
     "answers": [
       {
-        "body": "",
+        "body": "maximální zásoba",
         "right": false
       },
       {
-        "body": "",
+        "body": "minimální zásoba",
         "right": false
       },
       {
-        "body": "",
+        "body": "pojistná zásoba",
         "right": false
       },
       {
-        "body": "",
+        "body": "signální zásoba",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Obstarávání finančních prostředků se nazývá",
     "answers": [
       {
-        "body": "",
+        "body": "likvidita",
         "right": false
       },
       {
-        "body": "",
+        "body": "podnikový obrat",
         "right": false
       },
       {
-        "body": "",
+        "body": "investování",
         "right": false
       },
       {
-        "body": "",
+        "body": "financování",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Podnikové početnictví ve svých složkách nezahrnuje",
     "answers": [
       {
-        "body": "",
+        "body": "vnitropodnikové účetnictví a kalkulace",
         "right": false
       },
       {
-        "body": "",
+        "body": "finanční účetnictví a výkazy",
         "right": false
       },
       {
-        "body": "",
+        "body": "plánované propočty",
         "right": false
       },
       {
-        "body": "",
+        "body": "statické a dynamické propočty investic",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Vlastnost majetkové složky se více nebo méně snadno proměnit na platební prostředky se nazývá",
     "answers": [
       {
-        "body": "",
+        "body": "solventnost",
         "right": false
       },
       {
-        "body": "",
+        "body": "platební schopnost",
         "right": false
       },
       {
-        "body": "",
+        "body": "likvidita",
         "right": false
       },
       {
-        "body": "",
+        "body": "likvidnost",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Výrobní náklady podniku neovlivňuje",
     "answers": [
       {
-        "body": "",
+        "body": "kvalita výrobního faktoru",
         "right": false
       },
       {
-        "body": "",
+        "body": "množství výrobního faktor",
         "right": false
       },
       {
-        "body": "",
+        "body": "hodnota výrobního faktoru",
         "right": false
       },
       {
-        "body": "",
+        "body": "počet distribučních orgánů",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Inovace se dle věcného hlediska nečlení na",
     "answers": [
       {
-        "body": "",
+        "body": "kombinované",
         "right": false
       },
       {
-        "body": "",
+        "body": "procesní",
         "right": false
       },
       {
-        "body": "",
+        "body": "výrobkové",
         "right": false
       },
       {
-        "body": "",
+        "body": "strukturní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Silná konkurence a silná poptávka je charakteristická pro",
+    "answers": [
+      {
+        "body": "trh budoucnosti",
+        "right": false
+      },
+      {
+        "body": "smršťující se trh",
+        "right": false
+      },
+      {
+        "body": "tržní výklenek",
+        "right": false
+      },
+      {
+        "body": "masový trh",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Financování z rezervního fondu lze systematicky považovat za způsob financování",
+    "answers": [
+      {
+        "body": "ze zisku",
+        "right": false
+      },
+      {
+        "body": "z cizích zdrojů",
+        "right": false
+      },
+      {
+        "body": "vnější",
+        "right": false
+      },
+      {
+        "body": "z vlastních zdrojů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Plánování výrobního procesu a výrobního programu se shodně zaměřuje na to",
+    "answers": [
+      {
+        "body": "jaké výrobky vyrábět",
+        "right": false
+      },
+      {
+        "body": "kolik výrobků vyrábět",
+        "right": false
+      },
+      {
+        "body": "jakým způsobem vyrábět",
+        "right": false
+      },
+      {
+        "body": "v jakém období vyrábět",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud v podniku dojde k úhradě jeho závazků využitím krátkodobého úvěru, potom se",
+    "answers": [
+      {
+        "body": "bilanční suma zvýší",
+        "right": false
+      },
+      {
+        "body": "změní struktura aktiv",
+        "right": false
+      },
+      {
+        "body": "bilanční suma sníží",
+        "right": false
+      },
+      {
+        "body": "změní struktura pasiv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje Public Relations patří",
+    "answers": [
+      {
+        "body": "ochutnávky (např. v supermarketech)",
+        "right": false
+      },
+      {
+        "body": "množstevní slevy",
+        "right": false
+      },
+      {
+        "body": "inzerce v médiích",
+        "right": false
+      },
+      {
+        "body": "tiskové konference",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Penetrační cenová strategie se vyznačuje",
+    "answers": [
+      {
+        "body": "vysokou zaváděcí cenou a velkým množstvím",
+        "right": false
+      },
+      {
+        "body": "nízkou zaváděcí cenou a malým množstvím",
+        "right": false
+      },
+      {
+        "body": "vysokou zaváděcí cenou a malým množstvím",
+        "right": false
+      },
+      {
+        "body": "nízkou zaváděcí cenou a velkým množstvím",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hmotné investice (dlouhodobý hmotný majetek) patří",
+    "answers": [
+      {
+        "body": "pohledávky",
+        "right": false
+      },
+      {
+        "body": "zásoby",
+        "right": false
+      },
+      {
+        "body": "patenty",
+        "right": false
+      },
+      {
+        "body": "pozemky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže jedno zboží doplňuje druhé zboží, hovoříme o",
+    "answers": [
+      {
+        "body": "kompletu služeb",
+        "right": false
+      },
+      {
+        "body": "vzájemně se vylučujícím zboží",
+        "right": false
+      },
+      {
+        "body": "substitučním zboží",
+        "right": false
+      },
+      {
+        "body": "komplementárním zboží",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nebezpečí, že se objednané zboží v termínu nedostane do výroby nebo k dalšímu prodeji se nazývá",
+    "answers": [
+      {
+        "body": "dopravní riziko",
+        "right": false
+      },
+      {
+        "body": "odbytové dopravní riziko",
+        "right": false
+      },
+      {
+        "body": "časové riziko",
+        "right": false
+      },
+      {
+        "body": "časové dopravní riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro podnik nacházející se v bodu zvratu platí následující",
+    "answers": [
+      {
+        "body": "příjmy se přesně rovnají výdajům",
+        "right": false
+      },
+      {
+        "body": "příjmy jsou vyšší nebo rovny výdajům",
+        "right": false
+      },
+      {
+        "body": "výnosy jsou vyšší nebo rovny nákladům",
+        "right": false
+      },
+      {
+        "body": "výnosy se přesně rovnají nákladům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mimozemský urychlovač na transformaci drátu na chleba je schopen za hodinu přetvořit kilogram drátu na 100 chlebů. Je v provozu celoročně (365 dní) a to každý den 10 hodin. 10% disponibilního časového fondu se plánuje na prostoje. Jaké je procentuální využití výrobní kapacity, pokud bylo vyrobeno 229 950 chlebů?",
+    "answers": [
+      {
+        "body": "60%",
+        "right": false
+      },
+      {
+        "body": "63%",
+        "right": false
+      },
+      {
+        "body": "50%",
+        "right": false
+      },
+      {
+        "body": "70%",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hodnocení pracovního výkonu organizace nevychází z",
+    "answers": [
+      {
+        "body": "časové mzdy",
+        "right": false
+      },
+      {
+        "body": "prémií",
+        "right": false
+      },
+      {
+        "body": "úkolové mzdy",
+        "right": false
+      },
+      {
+        "body": "hodnocení pracovních podmínek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Investice, které tvoří dlouhodobý (zpravidla hmotný) majetek, který vede ke zvýšení kapacit organizace, se nazývají",
+    "answers": [
+      {
+        "body": "hrubé investice",
+        "right": false
+      },
+      {
+        "body": "reinvestice",
+        "right": false
+      },
+      {
+        "body": "obnovovací investice",
+        "right": false
+      },
+      {
+        "body": "čisté investice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Časový fond výrobního zařízení, který je skutečným časem provozu zařízení, se nazývá",
+    "answers": [
+      {
+        "body": "účetní",
+        "right": false
+      },
+      {
+        "body": "kalendářní",
+        "right": false
+      },
+      {
+        "body": "nominální",
+        "right": false
+      },
+      {
+        "body": "využitelný",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže dojde k přeměně dlouhodobého úvěru věřitele v majetkovou účast v organizaci, potom se z hlediska kapitálové transformace jedná o",
+    "answers": [
+      {
+        "body": "přeměnu jednoho druhu vlastního kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměnu vlastního kapitálu v cizí kapitál",
+        "right": false
+      },
+      {
+        "body": "přeměnu jednoho druhu cizího kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměnu cizího kapitálu ve vlastní kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dlouhodobý majetek je z podnikohospodářského hlediska charakteristický",
+    "answers": [
+      {
+        "body": "jednorázovým převodem ceny do nákladů",
+        "right": false
+      },
+      {
+        "body": "spotřebou v jednom výrobním cyklu",
+        "right": false
+      },
+      {
+        "body": "minimální pořizovací cenou 40 000kč",
+        "right": false
+      },
+      {
+        "body": "dobou použitelnosti delší než jeden rok",
         "right": true
       }
     ]
