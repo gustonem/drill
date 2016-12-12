@@ -3,5 +3,10 @@
     "name": "BPH_EKOR",
     "id": "BPH_EKOR",
     "dataset": "datasets/questions_BPH_EKOR.json"
+  },
+  {
+    "name": "BPH_EKOR 7-12",
+    "id": "BPH_EKOR",
+    "dataset": "datasets/questions_BPH_EKOR_7-12.json"
   }
 ]
