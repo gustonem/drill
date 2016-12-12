@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Opatření, které odstraňuje monotónnost pracovního procesu, se nazývá",
+    "answers": [
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": false
+      },
+      {
+        "body": "pracovní rotace",
+        "right": true
+      }
+    ]
+  }
+]
