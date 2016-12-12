@@ -398,5 +398,25 @@
       }
     ]
   },
-  
+  {
+    "name": "Mezi mzdové formy patří",
+    "answers": [
+      {
+        "body": "výkonnostní mzda",
+        "right": false
+      },
+      {
+        "body": "podílová mzda",
+        "right": false
+      },
+      {
+        "body": "tarifní mzda",
+        "right": false
+      },
+      {
+        "body": "časová mzda",
+        "right": true
+      }
+    ]
+  }
 ]
