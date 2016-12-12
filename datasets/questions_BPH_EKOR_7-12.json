@@ -19,5 +19,384 @@
         "right": true
       }
     ]
-  }
+  },
+  {
+    "name": "Opatření, které odstraňuje roztříštěnost pracovního procesu tím, že zaměstnanci svěří k provedení ucelený soubor prací, se nazývá",
+    "answers": [
+      {
+        "body": "pracovní rotace",
+        "right": false
+      },
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Jestliže organizace přijme normy bezpečnosti práce, pak se z časového hlediska jedná o organizační pravidlo typu",
+    "answers": [
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "improvizace",
+        "right": false
+      },
+      {
+        "body": "dispozice",
+        "right": false
+      },
+      {
+        "body": "organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Doba, během níž může dlouhodobý majetek poskytovat technicky nezávadný užitek, se nazývá",
+    "answers": [
+      {
+        "body": "minimální",
+        "right": false
+      },
+      {
+        "body": "ekonomická",
+        "right": false
+      },
+      {
+        "body": "optimální životnost",
+        "right": false
+      },
+      {
+        "body": "technická životnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje odbytové politiky organizace nepatří",
+    "answers": [
+      {
+        "body": "distribuční politika",
+        "right": false
+      },
+      {
+        "body": "výrobková",
+        "right": false
+      },
+      {
+        "body": "cenová",
+        "right": false
+      },
+      {
+        "body": "zaměstnanecká",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základem maticové organizační struktury je seskupení činností na základě",
+    "answers": [
+      {
+        "body": "funkční specializace",
+        "right": false
+      },
+      {
+        "body": "předmětné specializace",
+        "right": false
+      },
+      {
+        "body": "žádná odpověď není správná",
+        "right": false
+      },
+      {
+        "body": "smíšené (jak funkční, tak předmětné)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Snaha o výkon závisí především na",
+    "answers": [
+      {
+        "body": "tělesné konstituci",
+        "right": false
+      },
+      {
+        "body": "zkušenostech",
+        "right": false
+      },
+      {
+        "body": "věku",
+        "right": false
+      },
+      {
+        "body": "dobrovolných sociálních požitcích",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Množství produkce, které je nutné vyrábět s využitím dlouhodobého majetku s ohledem např. na prudkou změnu nákladů a následnou rentabilitu výroby, se nazývá",
+    "answers": [
+      {
+        "body": "technická kapacita",
+        "right": false
+      },
+      {
+        "body": "maximální kapacita",
+        "right": false
+      },
+      {
+        "body": "minimální kapacita",
+        "right": false
+      },
+      {
+        "body": "ekonomická kapacita",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Materiál, který není ve výrobním procesu přetvářen, ale je zabudován do produktu, se nazývá",
+    "answers": [
+      {
+        "body": "pomocná látka",
+        "right": false
+      },
+      {
+        "body": "provozní látka",
+        "right": false
+      },
+      {
+        "body": "surovina",
+        "right": false
+      },
+      {
+        "body": "hotová součástka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže pracovníci jednoho úseku převezmou na jeden měsíc práci druhého úseku, potom se z časového hlediska jedná o organizační pravidlo typu",
+    "answers": [
+      {
+        "body": "dispozice",
+        "right": false
+      },
+      {
+        "body": "organizace",
+        "right": false
+      },
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "improvizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V rámci distribuční politiky je nutné vyřešit",
+    "answers": [
+      {
+        "body": "podporu prodeje",
+        "right": false
+      },
+      {
+        "body": "služby zákazníkům",
+        "right": false
+      },
+      {
+        "body": "platební podmínky",
+        "right": false
+      },
+      {
+        "body": "fyzickou distribuci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podpůrné funkce organizace",
+    "answers": [
+      {
+        "body": "odbyt",
+        "right": false
+      },
+      {
+        "body": "zásobování",
+        "right": false
+      },
+      {
+        "body": "prodej",
+        "right": false
+      },
+      {
+        "body": "financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výkonnost pracovníka je ovlivněna především",
+    "answers": [
+      {
+        "body": "výší odměny za práci",
+        "right": false
+      },
+      {
+        "body": "pracovními podmínkami",
+        "right": false
+      },
+      {
+        "body": "personálním výběrem",
+        "right": false
+      },
+      {
+        "body": "odbornou výchovou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Finanční opotřebení konkrétního dlouhodobého hmnotného majetku za určité období (účetní) nebo kalendářní rok vyjadřují",
+    "answers": [
+      {
+        "body": "opravné položky",
+        "right": false
+      },
+      {
+        "body": "rezervy ",
+        "right": false
+      },
+      {
+        "body": "oprávky",
+        "right": false
+      },
+      {
+        "body": "odpisy",
+        "right": true
+      }
+    ]
+  },
+   {
+    "name": "Finanční opotřebení dlouhodobého majetku, které vyjadřují postupné snižování jeho hodnoty, se nazývá",
+    "answers": [
+      {
+        "body": "znehodnocení",
+        "right": false
+      },
+      {
+        "body": "odpisy",
+        "right": false
+      },
+      {
+        "body": "opotřebení",
+        "right": false
+      },
+      {
+        "body": "oprávky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je organizace financována z rezerv, jedná se o financování",
+    "answers": [
+      {
+        "body": "vnější a cizí",
+        "right": false
+      },
+      {
+        "body": "vnější a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a cizí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Mezi výhody výběru pracovníků vnitřním výběrem patří",
+    "answers": [
+      {
+        "body": "nižší náklady na podnikové vzdělávání",
+        "right": false
+      },
+      {
+        "body": "omezení fluktuace pracovníků",
+        "right": false
+      },
+      {
+        "body": "odstranění tzv. podnikové slepoty",
+        "right": false
+      },
+      {
+        "body": "zajištění výběru nejvhodnějšího pracovníka na danou pozici",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi odměny vyplácené podle pracovního výkonu nepatří",
+    "answers": [
+      {
+        "body": "provize",
+        "right": false
+      },
+      {
+        "body": "časové mzdy a platy",
+        "right": false
+      },
+      {
+        "body": "honorář",
+        "right": false
+      },
+      {
+        "body": "tantiémy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mzdový systém podniku",
+    "answers": [
+      {
+        "body": "je nezávislý na vnějším prostředí – vychází z podmínek podniku",
+        "right": false
+      },
+      {
+        "body": "jeho jediným cílem je zajistit mzdovou diferenciaci",
+        "right": false
+      },
+      {
+        "body": "se zaměřuje čistě na objektivní složku mzdy – mzdu spojenou s výkonem pracovního místa",
+        "right": false
+      },
+      {
+        "body": "zahrnuje v sobě stimulační prvky, které však mohou být omezeny objemem mzdových prostředků",
+        "right": true
+      }
+    ]
+  },
+  
 ]
