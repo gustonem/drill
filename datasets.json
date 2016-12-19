@@ -14,4 +14,9 @@
     "id": "BPH_EKOR_7-12",
     "dataset": "datasets/questions_BPH_EKOR_7-12.json"
   }
+  {
+    "name": "BPF_ZAFI",
+    "id": "BPF_ZAFI",
+    "dataset": "datasets/questions_BPF_ZAFI.json"
+  }
 ]
