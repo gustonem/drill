@@ -1,42 +1,840 @@
 [
   {
-    "name": "",
+    "name": "Pojmem depozita se označují:",
     "answers": [
       {
-        "body": "",
+        "body": "mince a papírové bankovky",
         "right": false
       },
       {
-        "body": "",
+        "body": "oběživo a bezhotovostní peníze domácí měny",
         "right": false
       },
       {
-        "body": "",
+        "body": "peníze zahraničních měn v hotovosti a bezhotovostní pohledávky na cizí měnu",
         "right": false
       },
       {
-        "body": "",
+        "body": "peněžní prostředky uložené na účtech u bank a jiných finančních institucí",
         "right": true
       }
     ]
   },
   {
-    "name": "",
+    "name": "Cenné papíry, které nahrazují akcie v situaci, kdy upisovatel před zápisem akciové společnosti do obchodního rejstříku nesplatil celý emisní kurz upsané akcie, se nazývají:",
     "answers": [
       {
-        "body": "",
+        "body": "kupóny",
         "right": false
       },
       {
-        "body": "",
+        "body": "podílové listy",
         "right": false
       },
       {
-        "body": "",
+        "body": "poukázky na akcie",
         "right": false
       },
       {
-        "body": "",
+        "body": "zatímní listy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "RM-systém je:",
+    "answers": [
+      {
+        "body": "mimoburzovním trhem, na kterém jsou obchodovány výhradně cenné papíry spojené s privatizací",
+        "right": false
+      },
+      {
+        "body": "mimoburzovním trhem, na kterém jsou obchodovány domácí i zahraniční investiční instrumenty",
+        "right": false
+      },
+      {
+        "body": "mimoburzovním trhem, na kterém jsou obchodovány pouze domácí cenné papíry",
+        "right": false
+      },
+      {
+        "body": "burzovním trhem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Funkce finančního systému, která spočívá v alokaci shromážděných dočasně volných finančních prostředků přebytkových subjektů (věřitelů) k subjektům deficitním (dlužníkům), se nazývá funkcí:",
+    "answers": [
+      {
+        "body": "depozitní",
+        "right": false
+      },
+      {
+        "body": "politickou",
+        "right": false
+      },
+      {
+        "body": "zajištění bohatství",
+        "right": false
+      },
+      {
+        "body": "alokační",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi speciální banky můžeme zařadit:",
+    "answers": [
+      {
+        "body": "Stavební spořitelny",
+        "right": false
+      },
+      {
+        "body": "Investiční banky",
+        "right": false
+      },
+      {
+        "body": "ČNB",
+        "right": false
+      },
+      {
+        "body": "Českou exportní banku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "S označením monobanka se setkáme v:",
+    "answers": [
+      {
+        "body": "komerčním bankovnictví, jedná se o termín, který označuje banku s dominantním postavením na trhu",
+        "right": false
+      },
+      {
+        "body": "systému s více centrálními bankami, ale pouze s jednou bankou komerční",
+        "right": false
+      },
+      {
+        "body": "dvoustupňovém bankovním systému",
+        "right": false
+      },
+      {
+        "body": "jednostupňovém bankovním systému",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Uzavřený fond:",
+    "answers": [
+      {
+        "body": "nemá omezen počet podílových listů, které může emitovat, může ovšem emitovat pouze 25 % státních dluhopisů",
+        "right": false
+      },
+      {
+        "body": "má při svém vzniku přesně definovaný počet akcií uzavřeného fondu, které může emitovat",
+        "right": false
+      },
+      {
+        "body": "nemá omezen počet akcií, které může emitovat, hodnota investovaných prostředků do tzv. blue-chips nesmí překročit 38 % hodnoty fondu",
+        "right": false
+      },
+      {
+        "body": "má při svém vzniku přesně definovaný počet podílových listů, které může emitovat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Penzijní fond představuje:",
+    "answers": [
+      {
+        "body": "fyzickou osobu, která musí být v České republice založena jako akciová společnost",
+        "right": false
+      },
+      {
+        "body": "právnickou osobu, která musí mít základní kapitál v minimální výši 25 000 000 Kč",
+        "right": false
+      },
+      {
+        "body": "právnickou osobu, která je dohlížena orgánem pro dozor nad penzijními fondy, který je zřízen pod ministerstvem financí",
+        "right": false
+      },
+      {
+        "body": "právnickou osobu, která musí být v České republice založena jako akciová společnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Fisherova rovnice říká, že:",
+    "answers": [
+      {
+        "body": "reálná úroková míra je rovna součtu nominální úrokové míry a koeficientu inflace",
+        "right": false
+      },
+      {
+        "body": "devizový kurz je dán poměrem hodnot cenových hladin v obou zemích",
+        "right": false
+      },
+      {
+        "body": "investor volí takovou investici, která nabízí vyšší nominální úrokovou míru než reálnou",
+        "right": false
+      },
+      {
+        "body": "nominální úroková míra je rovna součtu reálné úrokové míry a očekávané míry inflace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaká je výše reálné úrokové míry, pokud nominální úroková míra je 6 % a očekávaná míra inflace v daném roce je 12 %? Při výpočtu vycházejte z Fisherovy rovnice.",
+    "answers": [
+      {
+        "body": "18 %",
+        "right": false
+      },
+      {
+        "body": "12 %",
+        "right": false
+      },
+      {
+        "body": "6 %",
+        "right": false
+      },
+      {
+        "body": "- 6 %",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Financování různých sociálních výdajů a stimulace občanů, podniků a organizací k určitému chování (např. ekologickému) je cílem:",
+    "answers": [
+      {
+        "body": "podnikových financí",
+        "right": false
+      },
+      {
+        "body": "osobních financí",
+        "right": false
+      },
+      {
+        "body": "mezinárodních financí",
+        "right": false
+      },
+      {
+        "body": "veřejných financí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi regulované trhy v České republice řadíme:",
+    "answers": [
+      {
+        "body": "pouze Burzu cenných papírů Praha",
+        "right": false
+      },
+      {
+        "body": "Burzu cenných papírů Praha a MTF trh na RM-Systému Česká burza",
+        "right": false
+      },
+      {
+        "body": "Burzu cenných papírů Praha a Centrální depozitář cenných papírů",
+        "right": false
+      },
+      {
+        "body": "Burzu cenných papírů Praha a RM-Systém Česká burza",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaká je hodnota kupónu u kupónového dluhopisu, jehož jmenovitá hodnota je 1.000 Kč a úroková míra 5 %. Dluhopis je emitován na 10 let a požadovaná výnosová míra z investice je 7 %.",
+    "answers": [
+      {
+        "body": "70 Kč",
+        "right": false
+      },
+      {
+        "body": "150 Kč",
+        "right": false
+      },
+      {
+        "body": "100 Kč",
+        "right": false
+      },
+      {
+        "body": "50 Kč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle časového hlediska (tj. splatnosti produktů) se finanční trh člení na:",
+    "answers": [
+      {
+        "body": "trh peněžní a trh sekundární",
+        "right": false
+      },
+      {
+        "body": "trh akciový a trh dluhopisový",
+        "right": false
+      },
+      {
+        "body": "trh finanční a trh reálný",
+        "right": false
+      },
+      {
+        "body": "trh peněžní a trh kapitálový",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Minimální výše základního kapitálu banky v České republice činí:",
+    "answers": [
+      {
+        "body": "250 000 000 Kč",
+        "right": false
+      },
+      {
+        "body": "800 000 000 Kč",
+        "right": false
+      },
+      {
+        "body": "1 000 000 000 Kč",
+        "right": false
+      },
+      {
+        "body": "500 000 000 Kč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pojišťovny vytváří pojistně technické rezervy za účelem:",
+    "answers": [
+      {
+        "body": "zhodnocení vkladů investorů penzijního připojištění",
+        "right": false
+      },
+      {
+        "body": "zajišťovací činnosti pojišťovny",
+        "right": false
+      },
+      {
+        "body": "dodatečné investiční činnosti pojišťovny",
+        "right": false
+      },
+      {
+        "body": "krytí budoucích závazků z daného pojištění",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud pravidelně spoříme částku 1.000 Kč, kterou ukládáme koncem každého měsíce na náš účet u komerční banky, tak s ohledem na konečnou výši investice nás zajímá:",
+    "answers": [
+      {
+        "body": "současná hodnota předlhůtní anuity",
+        "right": false
+      },
+      {
+        "body": "budoucí hodnota předlhůtní anuity",
+        "right": false
+      },
+      {
+        "body": "současná hodnota polhůtní anuity",
+        "right": false
+      },
+      {
+        "body": "budoucí hodnota polhůtní anuity",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V případě výpočtu čisté současné hodnoty se:",
+    "answers": [
+      {
+        "body": "všechny platby úročí, neboť referenční doba je časově za všemi platbami",
+        "right": false
+      },
+      {
+        "body": "všechny platby upravují o tzv. koeficient čisté současné hodnoty",
+        "right": false
+      },
+      {
+        "body": "polovina plateb úročí a polovina diskontuje, referenční doba je v polovině intervalu pro výpočet čisté současné hodnoty",
+        "right": false
+      },
+      {
+        "body": "všechny platby diskontují, neboť referenční doba je časově před všemi platbami",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Trhy s novými emisemi investičních produktů se nazývají trhy:",
+    "answers": [
+      {
+        "body": "peněžními",
+        "right": false
+      },
+      {
+        "body": "dluhovými",
+        "right": false
+      },
+      {
+        "body": "promptními",
+        "right": false
+      },
+      {
+        "body": "primárními",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "To, že centrální banka bývá označována jako banka státu, znamená, že:",
+    "answers": [
+      {
+        "body": "je jedinou institucí, která má právo emitovat bezhotovostní peněžní prostředky",
+        "right": false
+      },
+      {
+        "body": "reguluje jako jediná instituce finanční systém v dané zemi",
+        "right": false
+      },
+      {
+        "body": "je jedinou bankovní institucí v zemi",
+        "right": false
+      },
+      {
+        "body": "provádí bankovní operace pro vládu nebo jiné centrální orgány",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Broker, jako obchodník s cennými papíry:",
+    "answers": [
+      {
+        "body": "obchoduje svým jménem, ale vždy na vlastní účet a cizí riziko",
+        "right": false
+      },
+      {
+        "body": "obchoduje svým jménem na vlastní účet",
+        "right": false
+      },
+      {
+        "body": "obchoduje vždy cizím jménem, ale na vlastní účet a vlastní riziko",
+        "right": false
+      },
+      {
+        "body": "může jednat svým jménem, ale vždy jedná na cizí účet a tedy i na cizí riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Peněžní zásobu tvoří:",
+    "answers": [
+      {
+        "body": "oběživo a bezhotovostní peníze, většinu dnes tvoří oběživo",
+        "right": false
+      },
+      {
+        "body": "mince a papírové bankovky, většinu dnes tvoří papírové bankovky",
+        "right": false
+      },
+      {
+        "body": "mince a papírové bankovky, většinu dnes tvoří mince",
+        "right": false
+      },
+      {
+        "body": "oběživo a bezhotovostní peníze, většinu dnes tvoří bezhotovostní peníze",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základní členění bankovního systému je na:",
+    "answers": [
+      {
+        "body": "jednostupňový systém s monopolní obchodní bankou a dvoustupňový systém s oligopolní strukturou obchodních bank",
+        "right": false
+      },
+      {
+        "body": "jednostupňový bankovní systém, kde veškeré operace provádí jedna obchodní banka, funkci centrální banky vykonává ministerstvo financí, a dvoustupňový systém s centrální bankou, která plní funkci centrální i komerční banky",
+        "right": false
+      },
+      {
+        "body": "třístupňový bankovní systém s ministerstvem financí, centrální bankou a obchodními bankami, a jednostupňový systém s monopolní komerční bankou",
+        "right": false
+      },
+      {
+        "body": "jednostupňový, kde jsou veškeré bankovní operace prováděny jedinou bankou, která současně plní také funkci centrální banky, a dvoustupňový systém s odděleným centrálním a komerčním bankovnictvím",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle zákona o bankách musí banka v České republice splňovat následující kritéria:",
+    "answers": [
+      {
+        "body": "musí být založena jako akciová společnost nebo společnost s ručením omezeným, musí přijímat vklady od veřejnosti a poskytovat úvěry a musí svou činnost vykonávat na základě licence udělené ČNB",
+        "right": false
+      },
+      {
+        "body": "musí být založena jako akciová společnost, musí přijímat vklady od veřejnosti a může poskytovat úvěry a musí svou činnost vykonávat na základě licence udělené ČNB a ministerstvem financí",
+        "right": false
+      },
+      {
+        "body": "musí být založena jako akciová společnost, společnost s ručením omezeným nebo družstvo (pak se tato banka označuje jako kampelička) a svou činnost musí vykonávat na základě povolení (licence) vydaného ČNB",
+        "right": false
+      },
+      {
+        "body": "musí být založena jako akciová společnost, musí přijímat vklady od veřejnosti a poskytovat úvěry a musí svou činnost vykonávat na základě licence udělené ČNB",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Standardní fond představuje:",
+    "answers": [
+      {
+        "body": "fond, který nesplňuje požadavky práva Evropského společenství a může vzniknout jako investiční fond, otevřený podílový fond nebo uzavřený podílový fond",
+        "right": false
+      },
+      {
+        "body": "fond bez povinnosti zakládat depozitář fondu",
+        "right": false
+      },
+      {
+        "body": "fond, který může mít maximálně 100 akcionářů a minimální vstupní investice je 1 000 000 Kč",
+        "right": false
+      },
+      {
+        "body": "fond, který splňuje požadavky práva Evropského společenství a může mít pouze formu otevřeného podílového fondu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Faktura v hodnotě 1.000 Kč je po splatnosti, penále činí 0,1 % za každý započatý den. Jaká je výše penále na konci 20dne, kdy je faktura po splatnosti?",
+    "answers": [
+      {
+        "body": "5, 50 Kč",
+        "right": false
+      },
+      {
+        "body": "200 Kč",
+        "right": false
+      },
+      {
+        "body": "1000 Kč",
+        "right": false
+      },
+      {
+        "body": "20 Kč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Riziko ztráty v případě malé likvidity trhu se nazývá:",
+    "answers": [
+      {
+        "body": "tržní riziko",
+        "right": false
+      },
+      {
+        "body": "operační riziko",
+        "right": false
+      },
+      {
+        "body": "riziko cash-flow",
+        "right": false
+      },
+      {
+        "body": "riziko tržní likvidity",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V rámci osobních financí rozlišujeme čtyři základní fáze podle věku, které po sobě obecně následují v tomto pořadí:",
+    "answers": [
+      {
+        "body": "investice, nízké úspory, výpůjčky, čerpání vytvořeného majetku",
+        "right": false
+      },
+      {
+        "body": "výpůjčky, nízké úspory, čerpání vytvořeného majetku, investice",
+        "right": false
+      },
+      {
+        "body": "nízké úspory, investice, výpůjčky, čerpání vytvořeného majetku",
+        "right": false
+      },
+      {
+        "body": "nízké úspory, výpůjčky, investice, čerpání vytvořeného majetku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Aktivní investiční strategie, která se zaměřuje na dlouhodobé zhodnocení kapitálu a jeho maximální růst na finančních trzích v průběhu času, přičemž je možné vysoké kolísání tržní hodnoty portfolia, se nazývá:",
+    "answers": [
+      {
+        "body": "strategie orientace na celkový výnos",
+        "right": false
+      },
+      {
+        "body": "strategie ochrany kapitálu",
+        "right": false
+      },
+      {
+        "body": "příjmová strategie",
+        "right": false
+      },
+      {
+        "body": "růstová strategie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Debetní operace:",
+    "answers": [
+      {
+        "body": "jsou součástí obchodní bilance",
+        "right": false
+      },
+      {
+        "body": "vytváří na trhu devizovou nabídku",
+        "right": false
+      },
+      {
+        "body": "jsou součástí bilance výnosů",
+        "right": false
+      },
+      {
+        "body": "vytváří na trhu poptávku po devizách",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kreditní operace:",
+    "answers": [
+      {
+        "body": "představují devizovou poptávku",
+        "right": false
+      },
+      {
+        "body": "jsou součástí bilance výnosů",
+        "right": false
+      },
+      {
+        "body": "jsou součástí obchodní bilance",
+        "right": false
+      },
+      {
+        "body": "vytváří na trhu devizovou nabídku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Co je cílem optimalizace finanční struktury podniku?",
+    "answers": [
+      {
+        "body": "navrhnout takovou alokaci finančních zdrojů, aby rentabilita podniku byla maximální",
+        "right": false
+      },
+      {
+        "body": "najít takový poměr stálých a oběžných aktiv, aby se podnik nedostal do platební neschopnosti",
+        "right": false
+      },
+      {
+        "body": "najít takový poměr vlastního a cizího kapitálu, při kterém bude podnik likvidní",
+        "right": false
+      },
+      {
+        "body": "najít takovou míru zadlužení podniku, při které jsou náklady na celkový kapitál minimální",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi stálá aktiva podniku řadíme také:",
+    "answers": [
+      {
+        "body": "zásoby zboží, materiálu, polotovarů, pomocných látek",
+        "right": false
+      },
+      {
+        "body": "krátkodobé pohledávky se splatností do jednoho roku",
+        "right": false
+      },
+      {
+        "body": "peněžní prostředky podniku",
+        "right": false
+      },
+      {
+        "body": "dlouhodobý finanční majetek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které tvrzení o finanční struktuře podniku je pravdivé?",
+    "answers": [
+      {
+        "body": "představuje podrobnou strukturu aktiv podniku",
+        "right": false
+      },
+      {
+        "body": "poskytuje informace o tom, jaká část majetku podniku se vyskytuje ve vázané a jaká část v likvidní formě",
+        "right": false
+      },
+      {
+        "body": "vyjadřuje vztah mezi stálými a oběžnými pasivy podniku",
+        "right": false
+      },
+      {
+        "body": "vypovídá o tom, z jakých zdrojů byl financován majetek podniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro standard zlaté mince nebyla charakteristická:",
+    "answers": [
+      {
+        "body": "volná ražba zlatých mincí",
+        "right": false
+      },
+      {
+        "body": "směnitelnost ostatních druhů peněz (zejména bankovek) za zlato",
+        "right": false
+      },
+      {
+        "body": "volný dovoz a vývoz zlata",
+        "right": false
+      },
+      {
+        "body": "mezinárodní dohoda o vzniku mezinárodních finančních institucí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hlavní cíle Mezinárodního měnového fondu nepatří:",
+    "answers": [
+      {
+        "body": "podporovat vyrovnanost platebních bilancí",
+        "right": false
+      },
+      {
+        "body": "podporovat rozvoj mezinárodního obchodu",
+        "right": false
+      },
+      {
+        "body": "poskytovat pomoc při řešení finančních krizí",
+        "right": false
+      },
+      {
+        "body": "podporovat příliv soukromého kapitálu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících rizik nepatří mezi tržní rizika?",
+    "answers": [
+      {
+        "body": "kurzové riziko",
+        "right": false
+      },
+      {
+        "body": "komoditní riziko",
+        "right": false
+      },
+      {
+        "body": "akciové riziko",
+        "right": false
+      },
+      {
+        "body": "úvěrové riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Devizovými tuzemci rozumíme:",
+    "answers": [
+      {
+        "body": "fyzické a právnické osoby, které mohou nakupovat i prodávat devizy",
+        "right": false
+      },
+      {
+        "body": "fyzické a právnické osoby, které mohou nakupovat devizy",
+        "right": false
+      },
+      {
+        "body": "fyzické a právnické osoby, které mohou prodávat devizy",
+        "right": false
+      },
+      {
+        "body": "fyzické osoby s trvalým pobytem na území daného státu a právnické osoby, které mají na území daného státu své sídlo",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi debetní operace v rámci platební bilance patří:",
+    "answers": [
+      {
+        "body": "export zboží, snížení devizových rezerv, import kapitálu",
+        "right": false
+      },
+      {
+        "body": "import služeb, import transferů, zvýšení devizových rezerv",
+        "right": false
+      },
+      {
+        "body": "export kapitálu, import důchodů, snížení devizových rezerv",
+        "right": false
+      },
+      {
+        "body": "import zboží, export důchodů, zvýšení devizových rezerv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Součástí cizího kapitálu nejsou:",
+    "answers": [
+      {
+        "body": "rezervy",
+        "right": false
+      },
+      {
+        "body": "bankovní úvěry a výpomoci",
+        "right": false
+      },
+      {
+        "body": "krátkodobé a dlouhodobé závazky",
+        "right": false
+      },
+      {
+        "body": "rezervní fondy",
         "right": true
       }
     ]
