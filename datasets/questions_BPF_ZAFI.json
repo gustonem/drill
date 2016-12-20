@@ -838,5 +838,299 @@
         "right": true
       }
     ]
+  },
+  {
+    "name": "Cenou cizího kapitálu je:",
+    "answers": [
+      {
+        "body": "dividenda",
+        "right": false
+      },
+      {
+        "body": "zisk",
+        "right": false
+      },
+      {
+        "body": "daňová sazba",
+        "right": false
+      },
+      {
+        "body": "úrok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Součástí skupiny Světové banky není:",
+    "answers": [
+      {
+        "body": "Mezinárodní finanční korporace",
+        "right": false
+      },
+      {
+        "body": "Mezinárodní sdružení pro rozvoj",
+        "right": false
+      },
+      {
+        "body": "Mezinárodní centrum pro řešení investičních sporů",
+        "right": false
+      },
+      {
+        "body": "Evropská investiční banka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nejstarší doposud fungující mezinárodní měnovou institucí je:",
+    "answers": [
+      {
+        "body": "Mezinárodní banka pro obnovu a rozvoj",
+        "right": false
+      },
+      {
+        "body": "Citibank",
+        "right": false
+      },
+      {
+        "body": "Mezinárodní měnový fond",
+        "right": false
+      },
+      {
+        "body": "Banka pro mezinárodní platby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících tvrzení o pasivním investování je pravdivé?",
+    "answers": [
+      {
+        "body": "zastánci pasivního investování hledají na trhu podhodnocené cenné papíry, které nakupují do svého portfolia",
+        "right": false
+      },
+      {
+        "body": "zastánci pasivního investování hledají na trhu nadhodnocené cenné papíry, které prodávají ze svého portfolia",
+        "right": false
+      },
+      {
+        "body": "zastánci pasivního investování se snaží obchodováním dosáhnout vyšší výnosnosti, než je výnosnost daného trhu",
+        "right": false
+      },
+      {
+        "body": "složení portfolia kopíruje složení vybraného podkladového indexu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících tvrzení o aktivním investování není pravdivé?",
+    "answers": [
+      {
+        "body": "zastánci pasivního investování hledají na trhu podhodnocené cenné papíry, které nakupují do svého portfolia",
+        "right": false
+      },
+      {
+        "body": "zastánci pasivního investování hledají na trhu nadhodnocené cenné papíry, které prodávají ze svého portfolia",
+        "right": false
+      },
+      {
+        "body": "zastánci pasivního investování se snaží obchodováním dosáhnout vyšší výnosnosti, než je výnosnost daného trhu",
+        "right": false
+      },
+      {
+        "body": "složení portfolia kopíruje složení vybraného podkladového indexu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Křížový kurz znamená:",
+    "answers": [
+      {
+        "body": "vymezení kurzu jedné měny v jednotkách jiné měny",
+        "right": false
+      },
+      {
+        "body": "vymezení ústředního kurzu měny",
+        "right": false
+      },
+      {
+        "body": "kurz, který se uplatňuje zásadně u nesměnitelných měn",
+        "right": false
+      },
+      {
+        "body": "vyjádření kurzu jedné měny v jednotkách jiné měny v prostoru třetí země, tedy země, kde se platí jinou měnou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Maximalizace tržní hodnoty podniku v případě akciové společnosti představuje:",
+    "answers": [
+      {
+        "body": "maximalizaci dividendových výnosů",
+        "right": false
+      },
+      {
+        "body": "maximalizaci zadlužení podniku",
+        "right": false
+      },
+      {
+        "body": "maximalizaci tržního podílu",
+        "right": false
+      },
+      {
+        "body": "maximalizace tržní hodnoty akcií",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Při optimalizaci finanční struktury podniku vycházíme z předpokladu, že:",
+    "answers": [
+      {
+        "body": "s růstem zadluženosti klesají požadavky akcionářů na výši dividend",
+        "right": false
+      },
+      {
+        "body": "s růstem zadluženosti klesá požadovaná úroková míra",
+        "right": false
+      },
+      {
+        "body": "cizí kapitál je nákladnější než kapitál vlastní",
+        "right": false
+      },
+      {
+        "body": "cizí kapitál je levnější než vlastní kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "K rozpadu Bretton-woodského měnového systému došlo:",
+    "answers": [
+      {
+        "body": "po druhé světové válce",
+        "right": false
+      },
+      {
+        "body": "na počátku 30. let 20. století v souvislosti s vypuknutím světové hospodářské krize",
+        "right": false
+      },
+      {
+        "body": "v roce 1953",
+        "right": false
+      },
+      {
+        "body": "na počátku 70. let 20. století v souvislosti se zrušením směnitelnosti dolaru za zlato a zaváděním systému volně pohyblivých devizových kurzů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Riziko ztráty věřitele v případě, že dlužník nedostojí svým závazkům podle podmínek kontraktu, se nazývá:",
+    "answers": [
+      {
+        "body": "tržní riziko",
+        "right": false
+      },
+      {
+        "body": "úrokové riziko",
+        "right": false
+      },
+      {
+        "body": "akciové riziko",
+        "right": false
+      },
+      {
+        "body": "úvěrové riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Aktivní investiční strategie, jejímž cílem je získat z investice pravidelný 'příliv' hotovosti, se nazývá:",
+    "answers": [
+      {
+        "body": "růstová strategie",
+        "right": false
+      },
+      {
+        "body": "indexová strategie",
+        "right": false
+      },
+      {
+        "body": "strategie ochrany kapitálu",
+        "right": false
+      },
+      {
+        "body": "příjmová strategie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Platební bilancí rozumíme:",
+    "answers": [
+      {
+        "body": "systematický přehled všech plateb, které byly uskutečněny mezi devizovými tuzemci a cizozemci za určité zvolené období (zpravidla jeden rok)",
+        "right": false
+      },
+      {
+        "body": "systematický přehled devizových inkas a úhrad, které byly uskutečněny mezi devizovými tuzemci a cizozemci za určité zvolené období (zpravidla jeden rok)",
+        "right": false
+      },
+      {
+        "body": "systematický přehled devizových plateb, které byly uskutečněny mezi devizovými tuzemci a cizozemci za určité zvolené období (zpravidla jeden rok)",
+        "right": false
+      },
+      {
+        "body": "systematický statistický záznam všech ekonomických transakcí, které byly uskutečněny mezi devizovými tuzemci a devizovými cizozemci za určité zvolené období (zpravidla jeden rok)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Revalvace devizového kurzu znamená:",
+    "answers": [
+      {
+        "body": "zhodnocení měny působením tržních faktorů",
+        "right": false
+      },
+      {
+        "body": "pokles hodnoty měny zásahem centrální banky",
+        "right": false
+      },
+      {
+        "body": "pokles hodnoty měny působením tržních faktorů",
+        "right": false
+      },
+      {
+        "body": "zhodnocení ústředního kurzu v systému pevných kurzů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cenou vlastního kapitálu je:",
+    "answers": [
+      {
+        "body": "mzda zaměstnanců",
+        "right": false
+      },
+      {
+        "body": "daňová sazba",
+        "right": false
+      },
+      {
+        "body": "úroková míra",
+        "right": false
+      },
+      {
+        "body": "dividenda",
+        "right": true
+      }
+    ]
   }
 ]
