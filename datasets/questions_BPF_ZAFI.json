@@ -1132,5 +1132,1139 @@
         "right": true
       }
     ]
+  },
+  {
+    "name": "Podnikový majetek představuje",
+    "answers": [
+      {
+        "body": "souhrn všech peněžních prostředků v majetku podniku k určitému okamžiku",
+        "right": false
+      },
+      {
+        "body": "hotovost, vklady na bankovních účtech, cenné papíry peněžního trhu držené podnikem, cenné papíry, majetkové účasti",
+        "right": false
+      },
+      {
+        "body": "souhrn peněz, které podnik získá během určitého období prodejem svých výrobků a služeb",
+        "right": false
+      },
+      {
+        "body": "soubor hmotných i nehmotných aktiv podniku, které podnik vlastní za účelem jejich zhodnocování, podnikání a organizace své činnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "ISIN neboli International Securities Identification Number představuje",
+    "answers": [
+      {
+        "body": "název společnosti, která vydala akcii",
+        "right": false
+      },
+      {
+        "body": "mezinárodní číselný kód pro označení neveřejně obchodovaných cenných papírů, skládá se z 12 znaků",
+        "right": false
+      },
+      {
+        "body": "přiřazuje daný cenný papír do příslušné obchodní skupiny",
+        "right": false
+      },
+      {
+        "body": "mezinárodní číselný kód pro označení veřejně obchodovaných cenných papírů, skládá se z 12 znaků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi burzovní indexy v ČR řadíme",
+    "answers": [
+      {
+        "body": "PX 50",
+        "right": false
+      },
+      {
+        "body": "S & P 500",
+        "right": false
+      },
+      {
+        "body": "DAX",
+        "right": false
+      },
+      {
+        "body": "index PX a index RM",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V čem spočívá význam Black-Scholesova modelu",
+    "answers": [
+      {
+        "body": "popisuje vývoj akciových kurzů jako tzv. random walk",
+        "right": false
+      },
+      {
+        "body": "popisuje základní principy konstrukce investičního portfolia",
+        "right": false
+      },
+      {
+        "body": "pomáhá identifikovat fundamentálně podhodnocené společnosti",
+        "right": false
+      },
+      {
+        "body": "slouží pro výpočet hodnoty opcí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Za otce moderní teorie portfolia je považován",
+    "answers": [
+      {
+        "body": "William F. Sharpe",
+        "right": false
+      },
+      {
+        "body": "James Tobin",
+        "right": false
+      },
+      {
+        "body": "Merton Miller",
+        "right": false
+      },
+      {
+        "body": "Harry M. Markowitz",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle závěrů Modiglianiho a Millera platí, že tržní hodnota podniku",
+    "answers": [
+      {
+        "body": "roste s klesající mírou zadlužení a nezávisí na dividendové politice společnosti",
+        "right": false
+      },
+      {
+        "body": "roste s klesající mírou zadlužení a roste při konstantním tempu růstu dividend",
+        "right": false
+      },
+      {
+        "body": "roste s rostoucí mírou zadlužení a nezávisí na dividendové politice společnosti",
+        "right": false
+      },
+      {
+        "body": "je nezávislá na míře zadlužení a nezávislá na dividendové politice společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Model CAPM (Capital Assets Pricing Model) je spojen:",
+    "answers": [
+      {
+        "body": "se jménem Warren Buffett",
+        "right": false
+      },
+      {
+        "body": "se jmény Benjamin Graham a David Dodd",
+        "right": false
+      },
+      {
+        "body": "se jmény Fischer S. Black a Myron S. Scholes",
+        "right": false
+      },
+      {
+        "body": "se jménem William F. Sharpe",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle Markowitze diverzifikace představuje:",
+    "answers": [
+      {
+        "body": "zvýšení výnosu portfolia při zachování stejné úrovně rizika",
+        "right": false
+      },
+      {
+        "body": "způsob jak minimalizovat systematické riziko",
+        "right": false
+      },
+      {
+        "body": "nízký stupeň závislosti mezi pohyby cen investic obsažených v portfoliu",
+        "right": false
+      },
+      {
+        "body": "rozložení investic za účelem optimalizace podstoupeného rizika a očekávaného výnosu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Teorii efektivních trhů představil",
+    "answers": [
+      {
+        "body": "Edgar Lawrence Smith",
+        "right": false
+      },
+      {
+        "body": "Robert Merton",
+        "right": false
+      },
+      {
+        "body": "Benjamin Graham",
+        "right": false
+      },
+      {
+        "body": "Eugene Fama",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Přínos Edgara Lawrence Smitha k rozvoji teorie financí spočívá",
+    "answers": [
+      {
+        "body": "ve zpochybnění modelu CAPM",
+        "right": false
+      },
+      {
+        "body": "ve vytvoření tzv. teorie hlučného obchodování",
+        "right": false
+      },
+      {
+        "body": "v důkazu, že hodnota akcií musí záviset pouze na skutečných ziscích akciových společností",
+        "right": false
+      },
+      {
+        "body": "ve vytvoření metody ohodnocování akcií, která bere v úvahu očekávaný růst hodnoty akcií",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obchodní strategie sloužící k přesvědčení zákazníka koupit si s produktem, o který má zájem, také něco navíc, se nazývá",
+    "answers": [
+      {
+        "body": "cross buying",
+        "right": false
+      },
+      {
+        "body": "direkt selling",
+        "right": false
+      },
+      {
+        "body": "direkt buying",
+        "right": false
+      },
+      {
+        "body": "cross selling",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících tvrzení není pravdivé?",
+    "answers": [
+      {
+        "body": "Nekvalifikovaná pracovní síla v rozvinutých zemích je ohrožována levnou pracovní sílou z rozvojových zemí.",
+        "right": false
+      },
+      {
+        "body": "Globalizace urychluje vývoj díky rychlé výměně zkušeností.",
+        "right": false
+      },
+      {
+        "body": "Globalizace podporuje mezinárodní dělbu práce a snižuje náklady na produkci.",
+        "right": false
+      },
+      {
+        "body": "Centrální banky pro stimulaci hospodářství zvyšují úrokové sazby.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jak se nazývají tři základní sazby České národní banky?",
+    "answers": [
+      {
+        "body": "eskontní sazba, úroková sazba, repo sazba",
+        "right": false
+      },
+      {
+        "body": "margine lending facility, main refinancing operations, deposit facility",
+        "right": false
+      },
+      {
+        "body": "nominální úroková míra, reálná úroková míra, deflátor HDP",
+        "right": false
+      },
+      {
+        "body": "2T repo sazba, diskontní sazba, lombardní sazba",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Co představuje termín potlačená inflace?",
+    "answers": [
+      {
+        "body": "inflaci, která je doprovázena skutečným růstem cenové hladiny",
+        "right": false
+      },
+      {
+        "body": "inflaci, kdy tempo růstu inflace nepřekročí tempo růstu průmyslové produkce",
+        "right": false
+      },
+      {
+        "body": "inflaci, která vede k celkovému rozvratu peněžního systému",
+        "right": false
+      },
+      {
+        "body": "jedná se o jev, kdy existují příčiny pro růst cenové hladiny, ale inflace se nemůže projevit např. z důvodu cenové regulace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle Samuelsona je nejlepším odhadem vnitřní hodnoty akcie:",
+    "answers": [
+      {
+        "body": "historická cena",
+        "right": false
+      },
+      {
+        "body": "tzv. sure gain (jistý zisk)",
+        "right": false
+      },
+      {
+        "body": "tzv. Stínová cena akcie",
+        "right": false
+      },
+      {
+        "body": "tržní cena této akcie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Za otce fundamentální analýzy je považován:",
+    "answers": [
+      {
+        "body": "George Soros",
+        "right": false
+      },
+      {
+        "body": "Eugene Fama",
+        "right": false
+      },
+      {
+        "body": "Warren E. Buffett",
+        "right": false
+      },
+      {
+        "body": "Benjamin Graham",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Za počátek moderní finanční teorie je považován:",
+    "answers": [
+      {
+        "body": "rok 1964, kdy W. Sharpe představil teorii Capital Assets Pricing Model",
+        "right": false
+      },
+      {
+        "body": "rok 1934, kdy B. Graham a D. Dodd publikovali knihu Security Analysis",
+        "right": false
+      },
+      {
+        "body": "rok 1986, kdy F. Black představil teorii hlučného obchodování",
+        "right": false
+      },
+      {
+        "body": "rok 1952, kdy H. Markowitz publikoval svůj článek Portfolio Selection",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pod pojmem liberalizace chápeme:",
+    "answers": [
+      {
+        "body": "kolísání světového finančního trhu",
+        "right": false
+      },
+      {
+        "body": "snižování nákladů z důvodu rostoucí konkurence",
+        "right": false
+      },
+      {
+        "body": "fúze a akvizice, spojování dvou a více společností do jedné velké společnosti",
+        "right": false
+      },
+      {
+        "body": "odstranění omezení podnikání pro zahraniční společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nobelovu cenu za ekonomii v oblasti financí nezískal:",
+    "answers": [
+      {
+        "body": "Harry M. Markowitz",
+        "right": false
+      },
+      {
+        "body": "William F. Sharpe",
+        "right": false
+      },
+      {
+        "body": "James Tobin",
+        "right": false
+      },
+      {
+        "body": "Benjamin Graham",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "První Nobelovu cenu za ekonomii v oblasti financí získal",
+    "answers": [
+      {
+        "body": "Eugene Fama za rozvoj teorie efektivních trhů",
+        "right": false
+      },
+      {
+        "body": "Robert Merton za přínos v oblasti stanovení hodnoty opční prémie",
+        "right": false
+      },
+      {
+        "body": "William Sharpe za výzkum v oblasti výnosů a rizika finančních investic a ohodnocování akcií a dluhopisů",
+        "right": false
+      },
+      {
+        "body": "James Tobin za analýzu finančních trhů a jeho vliv na výdaje a úspory domácností a firem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kořeny soudobé finanční krize můžeme nalézt na:",
+    "answers": [
+      {
+        "body": "americkém akciovém trhu",
+        "right": false
+      },
+      {
+        "body": "evropském akciovém trhu",
+        "right": false
+      },
+      {
+        "body": "asijském dluhopisovém trhu",
+        "right": false
+      },
+      {
+        "body": "americkém hypotečním trhu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mzdové moratorium představuje jeden z nástrojů protiinflační politiky, jedná se o:",
+    "answers": [
+      {
+        "body": "dobrovolné omezení růstu mezd",
+        "right": false
+      },
+      {
+        "body": "maximální povolený nárůst mezd",
+        "right": false
+      },
+      {
+        "body": "maximální povolený nárůst mezd ve finančním sektoru",
+        "right": false
+      },
+      {
+        "body": "zákaz jakýchkoli mzdových úprav",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Který burzovní index je kalkulován jako tržní průměr?",
+    "answers": [
+      {
+        "body": "PX",
+        "right": false
+      },
+      {
+        "body": "DAX",
+        "right": false
+      },
+      {
+        "body": "S & P 500",
+        "right": false
+      },
+      {
+        "body": "Dow Jones Industrial Average",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z důvodu vysoké volatility (kolísání) světového finančního trhu:",
+    "answers": [
+      {
+        "body": "se snižují náklady na produkci",
+        "right": false
+      },
+      {
+        "body": "se zvyšuje kupní síla obyvatelstva",
+        "right": false
+      },
+      {
+        "body": "roste objem mezinárodního obchodu",
+        "right": false
+      },
+      {
+        "body": "roste rizikovost finančních investic",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi indexy cen výrobců, které sleduje Český statistický úřad, nepatří:",
+    "answers": [
+      {
+        "body": "Index cen průmyslových výrobců",
+        "right": false
+      },
+      {
+        "body": "Index cen tržních služeb",
+        "right": false
+      },
+      {
+        "body": "Index cen stavebních prací",
+        "right": false
+      },
+      {
+        "body": "Index cen farmaceutických firem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Důsledkem globalizace není:",
+    "answers": [
+      {
+        "body": "rozevírání nůžek mezi bohatými a chudými",
+        "right": false
+      },
+      {
+        "body": "zvyšování konkurence",
+        "right": false
+      },
+      {
+        "body": "masová výroba",
+        "right": false
+      },
+      {
+        "body": "růst nákladů na produkci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obchod, při němž se zboží nebo služby vyměňují za určité množství jiného zboží nebo služeb, se nazývá:",
+    "answers": [
+      {
+        "body": "zlatý standard",
+        "right": false
+      },
+      {
+        "body": "devizový obchod",
+        "right": false
+      },
+      {
+        "body": "hotovostní obchod",
+        "right": false
+      },
+      {
+        "body": "barterový obchod",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Způsob financování, kdy dochází k přesunu dočasně volných finančních prostředků od přebytkového subjektu (věřitele) přímo k subjektu deficitnímu (dlužníkovi) bez účasti finančního zprostředkovatele, se nazývá:",
+    "answers": [
+      {
+        "body": "polopřímé financování",
+        "right": false
+      },
+      {
+        "body": "úvěrové financování",
+        "right": false
+      },
+      {
+        "body": "nepřímé financování",
+        "right": false
+      },
+      {
+        "body": "přímé financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Způsob financování, kdy dochází k přesunu dočasně volných finančních prostředků od přebytkového subjektu (věřitele) k subjektu deficitnímu (dlužníkovi) za účasti finančního zprostředkovatele, který obchoduje na vlastní účet, se nazývá:",
+    "answers": [
+      {
+        "body": "sekuritizované financování",
+        "right": false
+      },
+      {
+        "body": "polopřímé financování",
+        "right": false
+      },
+      {
+        "body": "přímé financování",
+        "right": false
+      },
+      {
+        "body": "nepřímé financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hlavní činnosti bank podle definice patří:",
+    "answers": [
+      {
+        "body": "poskytovat vklady a přijímat úvěry",
+        "right": false
+      },
+      {
+        "body": "emitovat hotovostní peníze",
+        "right": false
+      },
+      {
+        "body": "pečovat o měnovou stabilitu",
+        "right": false
+      },
+      {
+        "body": "poskytovat úvěry a přijímat vklady",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V dvoustupňovém bankovním systému:",
+    "answers": [
+      {
+        "body": "centrální banka je jedinou bankou v celém systému",
+        "right": false
+      },
+      {
+        "body": "centrální banka má v tomto systému pouze doplňující funkci bez zvláštních pravomocí",
+        "right": false
+      },
+      {
+        "body": "centrální banka plní funkci komerční banky",
+        "right": false
+      },
+      {
+        "body": "je odděleno centrální bankovnictví od komerčního bankovnictví",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kolektivním investováním se rozumí:",
+    "answers": [
+      {
+        "body": "zvláštní druh spoření na stáří, který je založen na pravidelném investování malých částek převážně do státních dluhopisů",
+        "right": false
+      },
+      {
+        "body": "investování prostřednictvím družstevní investiční společnosti, která musí mít povolení pro výkon kolektivního investování od ČNB",
+        "right": false
+      },
+      {
+        "body": "spekulace, kdy se investuje výhradně do hedgeových fondů z oblasti tzv. "daňových rájů"",
+        "right": false
+      },
+      {
+        "body": "podnikání, jehož předmětem je shromažďování peněžních prostředků od veřejnosti upisováním akcií investičního fondu nebo podílových listů podílového fondu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Diskontní sazba představuje:",
+    "answers": [
+      {
+        "body": "základní sazbu pro provádění repo operací formou tendrů",
+        "right": false
+      },
+      {
+        "body": "úrokovou sazbu pro poskytování úvěrů bankám, které nemají šanci získat lombardní úvěr při problémech s likviditou",
+        "right": false
+      },
+      {
+        "body": "neměnnou sazbu vyhlášenou ČNB",
+        "right": false
+      },
+      {
+        "body": "jednu ze základních sazeb ČNB, za kterou poskytuje úvěry, respektive přijímá vklady od komerčních bank",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Reálná úroková míra:",
+    "answers": [
+      {
+        "body": "je v České republice představována diskontní sazbou",
+        "right": false
+      },
+      {
+        "body": "představuje tzv. nominální úrokovou míru",
+        "right": false
+      },
+      {
+        "body": "představuje minimální úrokovou míru, kterou se úročí např. státní dluhopisy",
+        "right": false
+      },
+      {
+        "body": "představuje úrokovou míru, která zohledňuje výši inflace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Peněžní prostředky podniku představují:",
+    "answers": [
+      {
+        "body": "souhrn všech peněz vložených do krátkodobých cenných papírů",
+        "right": false
+      },
+      {
+        "body": "hotovost, vklady na bankovních účtech, cenné papíry peněžního trhu držené podnikem, dlouhodobé cenné papíry, majetkové účasti",
+        "right": false
+      },
+      {
+        "body": "souhrn všech peněz, které podnik získá během určitého období prodejem svých výrobků a služeb",
+        "right": false
+      },
+      {
+        "body": "vysoce likvidní finanční aktiva podniku v podobě hotovosti a vkladů na běžných účtech",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hlavní funkcí peněžních prostředků je:",
+    "answers": [
+      {
+        "body": "zabezpečit dlouhodobě finanční stabilitu podniku",
+        "right": false
+      },
+      {
+        "body": "zabezpečit rentabilitu podniku",
+        "right": false
+      },
+      {
+        "body": "zabezpečit nárůst tržního podílu",
+        "right": false
+      },
+      {
+        "body": "zabezpečit likviditu (platební schopnost) podniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezinárodní finance chápeme jako:",
+    "answers": [
+      {
+        "body": "systém založený na směnitelnosti jednotlivých národních měn mezi sebou navzájem",
+        "right": false
+      },
+      {
+        "body": "systém založený na volném dovozu a vývozu zlata",
+        "right": false
+      },
+      {
+        "body": "systém obchodování s devizami",
+        "right": false
+      },
+      {
+        "body": "systém peněžních (zejména měnových a úvěrových) vztahů, jejichž prostřednictvím dochází k pohybu peněz v mezinárodním měřítku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Bretton-woodský měnový systém byl založen na:",
+    "answers": [
+      {
+        "body": "volně pohyblivých devizových kurzech",
+        "right": false
+      },
+      {
+        "body": "směnitelnosti všech národních měn za zlato",
+        "right": false
+      },
+      {
+        "body": "devizových kurzech s řízenou pohyblivostí",
+        "right": false
+      },
+      {
+        "body": "pevných devizových kurzech",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaký vztah existuje mezi výší úrokové sazby a situací na trhu dluhopisů?",
+    "answers": [
+      {
+        "body": "negativní korelace, kdy rostoucí úroveň úrokových sazeb zvyšuje cenu dluhopisů a naopak",
+        "right": false
+      },
+      {
+        "body": "pozitivní korelace, kdy rostoucí úroveň úrokových sazeb zvyšuje cenu dluhopisů a naopak",
+        "right": false
+      },
+      {
+        "body": "pozitivní korelace, kdy rostoucí úroveň úrokových sazeb snižuje cenu dluhopisů a naopak",
+        "right": false
+      },
+      {
+        "body": "negativní korelace, kdy rostoucí úroveň úrokových sazeb snižuje cenu dluhopisů a naopak",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Za průkopníka ve využívání globálních podílových fondů je považován:",
+    "answers": [
+      {
+        "body": "Eugene Fama",
+        "right": false
+      },
+      {
+        "body": "David Dodd",
+        "right": false
+      },
+      {
+        "body": "David Dodd",
+        "right": false
+      },
+      {
+        "body": "John Templeton",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud je dluhopis emitován v hodnotě 1.000 Kč, ale jeho prodejní cena (na primární trhu) je 950 Kč a během doby držení dluhopisu neobdrží klient žádnou mezičasovou platbu, pouze v den maturity dluhopisu je vyplacena jmenovitá hodnota dluhopisu, pak:",
+    "answers": [
+      {
+        "body": "se jedná o klasický kupónový dluhopis s kupónem 50 Kč",
+        "right": false
+      },
+      {
+        "body": "jedná se o konvertibilní dluhopis, který může být směněn za akcii s tržním kurzem 950 Kč",
+        "right": false
+      },
+      {
+        "body": "takový dluhopis není možné, podle zákona o dluhopisech, emitovat",
+        "right": false
+      },
+      {
+        "body": "se jedná o diskontovaný dluhopis s diskontem 5 %",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud investiční zprostředkovatel působí v pozici brokera, pak:",
+    "answers": [
+      {
+        "body": "jako zprostředkovatel, který propojuje kupujícího s prodávajícím, vydělává na spreadu (rozpětí) mezi nákupním a prodejním kurzem",
+        "right": false
+      },
+      {
+        "body": "nakupuje cenné papíry na vlastní účet",
+        "right": false
+      },
+      {
+        "body": "působí současně na burze v pozici tvůrce trhu",
+        "right": false
+      },
+      {
+        "body": "nenakupuje cenné papíry na vlastní účet, ale pouze zprostředkovává obchod pro kupujícího a prodávajícího",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud dochází k různé četnosti připisování úroků při různých úrovních úrokové míry, pak vhodnou veličinou, která nám umožní jednotlivé operace srovnat z hlediska výše roční úrokové míry je:",
+    "answers": [
+      {
+        "body": "lombardní sazba",
+        "right": false
+      },
+      {
+        "body": "Fisherovarovnice",
+        "right": false
+      },
+      {
+        "body": "repo sazba",
+        "right": false
+      },
+      {
+        "body": "efektivní úroková míra",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících tvrzení o Burze cenných papírů Praha není pravdivé?",
+    "answers": [
+      {
+        "body": "Burza cenných papírů Praha je dnes největším organizátorem trhu s cennými papíry v České republice.",
+        "right": false
+      },
+      {
+        "body": "Burza cenných papírů Praha je členem Federace evropských burz.",
+        "right": false
+      },
+      {
+        "body": "Na Burze cenných papírů Praha se dnes obchoduje s domácími i zahraničními investičními instrumenty.",
+        "right": false
+      },
+      {
+        "body": "Na Burze cenných papírů Praha se dosud neobchoduje s financial futures.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podílový fond:",
+    "answers": [
+      {
+        "body": "je zakládán investiční společností, ale má také vlastní právní subjektivitu",
+        "right": false
+      },
+      {
+        "body": "emituje akcie podílového fondu, tyto akcie jsou prodávány investorům, kteří mají zájem investovat prostřednictvím daného podílového fondu",
+        "right": false
+      },
+      {
+        "body": "je zakládán pouze jako otevřený fond nebo speciální fond",
+        "right": false
+      },
+      {
+        "body": "je zakládán investiční společností a nemá právní subjektivitu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obchodník s cennými papíry, který není bankou, může být v České republice podle zákona založen jako:",
+    "answers": [
+      {
+        "body": "akciová společnost, družstvo nebo společnost s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "pouze akciová společnost",
+        "right": false
+      },
+      {
+        "body": "pouze společnost s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "společnost s ručením omezeným nebo akciová společnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jaká je reálná úroková míra v dané ekonomice, pokud víte, že nominální úroková míra je 4 % a inflace 2 %?",
+    "answers": [
+      {
+        "body": "2,1 %",
+        "right": false
+      },
+      {
+        "body": "- 2 %",
+        "right": false
+      },
+      {
+        "body": "3 %",
+        "right": false
+      },
+      {
+        "body": "1,96 %",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud hodnota čisté současné hodnoty vyjde větší než nula, pak je investiční doporučení:",
+    "answers": [
+      {
+        "body": "investici nelze doporučit ani zamítnout",
+        "right": false
+      },
+      {
+        "body": "nelze přijmout konkrétní investiční doporučení",
+        "right": false
+      },
+      {
+        "body": "neinvestuj",
+        "right": false
+      },
+      {
+        "body": "investuj",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Transfery (neboli jednostranné převody):",
+    "answers": [
+      {
+        "body": "jsou vícestranné platby",
+        "right": false
+      },
+      {
+        "body": "jsou součástí devizových rezerv centrální banky",
+        "right": false
+      },
+      {
+        "body": "jsou převody, které jsou podchycené v platební bilanci",
+        "right": false
+      },
+      {
+        "body": "nevedou ke vzniku zahraničních pohledávek ani závazků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Volný floating je systém devizového kurzu:",
+    "answers": [
+      {
+        "body": "u kterého je vymezen ústřední kurz",
+        "right": false
+      },
+      {
+        "body": "který se uplatňuje zásadně u nesměnitelných měn",
+        "right": false
+      },
+      {
+        "body": "který vyžaduje intervence centrálních bank na devizovém trhu",
+        "right": false
+      },
+      {
+        "body": "založený na volném přizpůsobování devizového kurzu změnám poptávky a nabídky na devizovém trhu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi dílčí finanční cíle podniku nepatří:",
+    "answers": [
+      {
+        "body": "rentabilita podniku",
+        "right": false
+      },
+      {
+        "body": "finanční stabilita podniku",
+        "right": false
+      },
+      {
+        "body": "platební schopnost podniku",
+        "right": false
+      },
+      {
+        "body": "přirozená úroveň zaměstnanosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Přímá kotace devizového kurzu představuje:",
+    "answers": [
+      {
+        "body": "administrativní vyjádření ceny deviz",
+        "right": false
+      },
+      {
+        "body": "cenu valut",
+        "right": false
+      },
+      {
+        "body": "cenu domácí měny vyjádřenou v zahraniční měně",
+        "right": false
+      },
+      {
+        "body": "cenu zahraniční měny vyjádřenou v domácí měně",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cílem nepeněžní části finančního majetku podniku není:",
+    "answers": [
+      {
+        "body": "získání kontroly nad činností jiných ekonomických subjektů",
+        "right": false
+      },
+      {
+        "body": "dlouhodobé i krátkodobé zhodnocení přebytečných peněžních prostředků",
+        "right": false
+      },
+      {
+        "body": "zabezpečení likvidity podniku",
+        "right": false
+      },
+      {
+        "body": "zajištění schopnosti vyplácet dividendy akcionářům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Apreciace devizového kurzu znamená:",
+    "answers": [
+      {
+        "body": "zvýšení hodnoty měny zásahem centrální banky",
+        "right": false
+      },
+      {
+        "body": "pokles hodnoty měny působením tržních faktorů",
+        "right": false
+      },
+      {
+        "body": "pokles hodnoty měny zásahem centrální banky",
+        "right": false
+      },
+      {
+        "body": "zhodnocení měny působením tržních faktorů",
+        "right": true
+      }
+    ]
   }
 ]
