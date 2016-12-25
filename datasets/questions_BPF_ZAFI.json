@@ -2266,5 +2266,47 @@
         "right": true
       }
     ]
+  },
+  {
+    "name": "Předepsané pojistné je ukazatel, který",
+    "answers": [
+      {
+        "body": "vyjadřuje poměr mezi výší poskynutých pojistných plnění a výší předepsaného pojistného",
+        "right": false
+      },
+      {
+        "body": "vyjadřuje peněžní plnění komerční pojišťovny po vzniku pojistné události",
+        "right": false
+      },
+      {
+        "body": "vyjadřuje poměr předepsaného pojistného k hrubému domácímu produktu",
+        "right": false
+      },
+      {
+        "body": "představuje cenu za pojistnou ochranu či pojištění, je stanoveno na dohodnuté pojistné období",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podnikový kapitál představuje",
+    "answers": [
+      {
+        "body": "část pasiv podniku v podobě peněz a různých forem vkladů",
+        "right": false
+      },
+      {
+        "body": "souhrn peněz, které podnik získá během určitého období prodejem svých výrobků a služeb",
+        "right": false
+      },
+      {
+        "body": "část aktiv podniku v podobě peněz a různých forem vkladů",
+        "right": false
+      },
+      {
+        "body": "souhrn všech peněz vázaných v celkovém majetku podniku k určitému okamžiku",
+        "right": true
+      }
+    ]
   }
 ]
