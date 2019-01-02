@@ -1,26 +1,5 @@
 [
   {
-    "name": "1. Které z následujících možností obsahují relevantní bezpečnostní funkce systémů pro ochranu inf. soukromí?",
-    "answers": [
-      {
-        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita",
-        "right": true
-      },
-      {
-        "body": "nezjistitelnost, nespojitelnost, anonymita, pseudonymita",
-        "right": false
-      },
-      {
-        "body": "identita, nepozorovatelnost, anonymita, pseudonymita",
-        "right": false
-      },
-      {
-        "body": "nespojitelnost, nepozorovatelnost, anonymita, pseudonymita, identita",
-        "right": false
-      }
-    ]
-  },
-  {
     "name": "2. Anonymita (podle Společných kritérií) zajišťuje možnost použití zdrojů nebo služeb systému tak, že:",
     "answers": [
       {
