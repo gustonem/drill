@@ -1,0 +1,6701 @@
+[
+  {
+    "name": "Řemeslné živnosti",
+    "answers": [
+      {
+        "body": "jsou jedním z druhů živností při jejich dělení podle předmětu podnikání",
+        "right": false
+      },
+      {
+        "body": "podmínkou pro jejich provozování je odborná způsobilost upravená zvl. předpisy",
+        "right": false
+      },
+      {
+        "body": "patří mezi volné živnosti",
+        "right": false
+      },
+      {
+        "body": "patří mezi ohlašovací živnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Živnost není charakteristická",
+    "answers": [
+      {
+        "body": "provozováním za účelem zisku",
+        "right": false
+      },
+      {
+        "body": "samostatnou podnikatelskou činností",
+        "right": false
+      },
+      {
+        "body": "vlastnictvím pouze jediného podnikatele",
+        "right": false
+      },
+      {
+        "body": "vlastnictvím pouze jediné fyzické osoby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Opatření, které odstraňuje monotónnost pracovního procesu, se nazývá",
+    "answers": [
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": false
+      },
+      {
+        "body": "pracovní rotace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory nepatří",
+    "answers": [
+      {
+        "body": "práce řídící",
+        "right": false
+      },
+      {
+        "body": "práce výkonná",
+        "right": false
+      },
+      {
+        "body": "materiál",
+        "right": false
+      },
+      {
+        "body": "práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární ekonomický lze klasifikovat cíl",
+    "answers": [
+      {
+        "body": "maximalizace rentability vlastního kapitálu",
+        "right": false
+      },
+      {
+        "body": "ochrana životního prostředí",
+        "right": false
+      },
+      {
+        "body": "zajištění zásobování obyvatelstva",
+        "right": false
+      },
+      {
+        "body": "růst podílu na trhu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže cíl stanovený zaměstnanci není hodnotitelný, tak potom nastává cílový konflikt",
+    "answers": [
+      {
+        "body": "systémový",
+        "right": false
+      },
+      {
+        "body": "uvnitř organizace",
+        "right": false
+      },
+      {
+        "body": "individuální",
+        "right": false
+      },
+      {
+        "body": "hierarchicky podmíněný",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi znaky závislé na hospodářském systému patří",
+    "answers": [
+      {
+        "body": "kombinace výrobních faktorů",
+        "right": false
+      },
+      {
+        "body": "princip hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "princip finanční rovnováhy",
+        "right": false
+      },
+      {
+        "body": "princip autonomie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Opatření, které odstraňuje roztříštěnost pracovního procesu tím, že zaměstnanci svěří k provedení ucelený soubor prací, se nazývá",
+    "answers": [
+      {
+        "body": "pracovní rotace",
+        "right": false
+      },
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dnem ohlášení živnosti nelze zahájit podnikatelskou činnost v rámci živnosti",
+    "answers": [
+      {
+        "body": "řemeslné (příl. 1)",
+        "right": false
+      },
+      {
+        "body": "vázané (příl. 2)",
+        "right": false
+      },
+      {
+        "body": "volné (příl. 4)",
+        "right": false
+      },
+      {
+        "body": "koncesované (příl. 3)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Řízení a správa společností, která se zabývá nejlepším možným rozdělením dispozičních práv (kompetencí) pro úspěšné řízení a kontrolu organizace, se nazývá",
+    "answers": [
+      {
+        "body": "reengineering",
+        "right": false
+      },
+      {
+        "body": "custom relationship management",
+        "right": false
+      },
+      {
+        "body": "balanced scorecard",
+        "right": false
+      },
+      {
+        "body": "corporate governance",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik v důsledku neustálého zvyšování obratu rozšiřuje objem produkce (a tržeb), tak potom se z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "zakládání",
+        "right": false
+      },
+      {
+        "body": "stabilizace",
+        "right": false
+      },
+      {
+        "body": "krize",
+        "right": false
+      },
+      {
+        "body": "růst",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z pohledu Živnostenského zákona se za bezúhonného nepovažuje osoba, která byla pravomocně odsouzena",
+    "answers": [
+      {
+        "body": "pro úmyslný trestný čin k podmíněnému trestu alespoň jeden rok",
+        "right": false
+      },
+      {
+        "body": "pro neúmyslný trestný čin k nepodmíněnému trestu, jestliže byl spáchán v souvislosti s podnikáním",
+        "right": false
+      },
+      {
+        "body": "pro neúmyslný trestný čin k podmíněnému trestu alespoň jeden rok",
+        "right": false
+      },
+      {
+        "body": "pro úmyslný trestný čin k nepodmíněnému trestu alespoň jeden rok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce pan Novák podniknout co nejdelší cestu po Evropě s 50 000 Kč, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "tuto situaci nelze maximalizovat",
+        "right": false
+      },
+      {
+        "body": "maximalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "maximalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "maximalizaci racionality",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro družstvo je charakteristické",
+    "answers": [
+      {
+        "body": "základní kapitál 50 tis. Kč, neomezený počet členů, zakladatelé alespoň pět právnických osob",
+        "right": false
+      },
+      {
+        "body": "základní kapitál není nutný, omezený počet členů, zakladatelé alespoň pět právnických osob",
+        "right": false
+      },
+      {
+        "body": "základní kapitál není nutný, neomezený počet členů, zakladatelé alespoň pět fyzických osob",
+        "right": false
+      },
+      {
+        "body": "základní kapitál 50 tis. Kč, neomezený počet členů, zakladatelé alespoň pět fyzických osob",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podnik zaniká dnem",
+    "answers": [
+      {
+        "body": "vypořádání všech závazků a pohledávek",
+        "right": false
+      },
+      {
+        "body": "pravomocného rozhodnutí soudu",
+        "right": false
+      },
+      {
+        "body": "rozhodnutím valné hromady o zrušení společnosti",
+        "right": false
+      },
+      {
+        "body": "výmazu z obchodního rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je ohroženo dosahování cílů podniku nebo jeho další existence, tak potom se z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "růstu",
+        "right": false
+      },
+      {
+        "body": "stabilizace",
+        "right": false
+      },
+      {
+        "body": "zakládání",
+        "right": false
+      },
+      {
+        "body": "krize",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik není schopen dostát svým splatným závazkům, tak potom se jedná o porušení principu",
+    "answers": [
+      {
+        "body": "závislého na hospodářském výsledku",
+        "right": false
+      },
+      {
+        "body": "o porušení žádného principu se nejedná",
+        "right": false
+      },
+      {
+        "body": "hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "finanční rovnováhy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže existuje pojišťovna se sídlem v Praze, která má 1200 zaměstnanců, obrat 1 mld. Kč, bilanční suma 500 mil Kč a je akciovou společností, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "podnik závislý na pracovní síle",
+        "right": false
+      },
+      {
+        "body": "střední podnik",
+        "right": false
+      },
+      {
+        "body": "materiálově náročný podnik",
+        "right": false
+      },
+      {
+        "body": "podnik poskytující nehmotné statky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro Masarykovu univerzitu platí",
+    "answers": [
+      {
+        "body": "poskytuje veřejný statek",
+        "right": false
+      },
+      {
+        "body": "má především etickou funkci",
+        "right": false
+      },
+      {
+        "body": "zakladatelem je subjekt veřejné správy",
+        "right": false
+      },
+      {
+        "body": "zabezpečuje především individuální potřeby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi orgány společnosti s ručením omezeným nepatří",
+    "answers": [
+      {
+        "body": "jednatel",
+        "right": false
+      },
+      {
+        "body": "dozorčí rada",
+        "right": false
+      },
+      {
+        "body": "valná hromada",
+        "right": false
+      },
+      {
+        "body": "představenstvo",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Soubor opatření přijímaných ze strany vedení podniku k ozdravení a obnově finanční výkonnosti a prosperity podniku, který mění rozsah podnikání, organizační strukturu apod., se nazývá",
+    "answers": [
+      {
+        "body": "fůze",
+        "right": false
+      },
+      {
+        "body": "rekonstrukce",
+        "right": false
+      },
+      {
+        "body": "konsolidace",
+        "right": false
+      },
+      {
+        "body": "sanace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro veřejnou vysokou školu (např. Masarykovu univerzitu) není charakteristické",
+    "answers": [
+      {
+        "body": "samospráva",
+        "right": false
+      },
+      {
+        "body": "založení (vznik) ze zákona",
+        "right": false
+      },
+      {
+        "body": "poskytování smíšeného statku",
+        "right": false
+      },
+      {
+        "body": "řízení ministerstvem školství",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kritériem členění podniků dle velikosti v EU není",
+    "answers": [
+      {
+        "body": "velikost bilační sumy",
+        "right": false
+      },
+      {
+        "body": "velikost obratu",
+        "right": false
+      },
+      {
+        "body": "počet zaměstnanců",
+        "right": false
+      },
+      {
+        "body": "velikost základního kapitálu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Oprávnění k provozování činnosti se prokazuje",
+    "answers": [
+      {
+        "body": "živnostenským oprávněním",
+        "right": false
+      },
+      {
+        "body": "koncesní listinou",
+        "right": false
+      },
+      {
+        "body": "výpisem z živnostenského rejstříku",
+        "right": false
+      },
+      {
+        "body": "výpisem z obchodního rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi funkce řízení v organizaci nepatří",
+    "answers": [
+      {
+        "body": "kontrolování",
+        "right": false
+      },
+      {
+        "body": "plánování",
+        "right": false
+      },
+      {
+        "body": "rozhodování",
+        "right": false
+      },
+      {
+        "body": "financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže řízení podniku vykonávají osoby, které zároveň nesou podnikatelské riziko, jedná se o podnik",
+    "answers": [
+      {
+        "body": "smíšený",
+        "right": false
+      },
+      {
+        "body": "zaměstnanecký",
+        "right": false
+      },
+      {
+        "body": "manažerský",
+        "right": false
+      },
+      {
+        "body": "vlastnický",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je cíl zaměstnance a cíl organizace odlišný, tak potom nastává cílový konflikt",
+    "answers": [
+      {
+        "body": "systémový",
+        "right": false
+      },
+      {
+        "body": "uvnitř organizace",
+        "right": false
+      },
+      {
+        "body": "hierarchicky podmíněný",
+        "right": false
+      },
+      {
+        "body": "individuální",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle růst inovační aktivity a růst zisku jsou s ohledem na vzájemný vztah cíle",
+    "answers": [
+      {
+        "body": "komplementární",
+        "right": false
+      },
+      {
+        "body": "protichůdné",
+        "right": false
+      },
+      {
+        "body": "indiferentní",
+        "right": false
+      },
+      {
+        "body": "konkurenční",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce podnikatel získat co nejvyšší úvěr a hradit za něj co nejnižší úroky, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "minimalizaci nákladů na cizí kapitál",
+        "right": false
+      },
+      {
+        "body": "tuto situaci nelze optimalizovat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže existuje vodní elektrárna vlastněná fyzickou osobou s bydlištěm v Praze, která má 6 zaměstnanců, obrat 50 mil. Kč a bilanční suma 20 mil. Kč, jedná se o",
+    "answers": [
+      {
+        "body": "materiálově náročný podnik",
+        "right": false
+      },
+      {
+        "body": "střední podnik",
+        "right": false
+      },
+      {
+        "body": "podnik poskytující nehmotné statky",
+        "right": false
+      },
+      {
+        "body": "podnik závislý na přírodních zdrojích",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Činnost podniku, kterou je řešen úpadek podniku a která je charakteristická postupným uspokojováním pohledávek věřitelů při vědomí, že podnik bude nadále provozovat svoji činnost, se nazývá",
+    "answers": [
+      {
+        "body": "konkurz",
+        "right": false
+      },
+      {
+        "body": "oddlužení",
+        "right": false
+      },
+      {
+        "body": "vyrovnání",
+        "right": false
+      },
+      {
+        "body": "reorganizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nízké náklady založení (bez nutnosti skládat základní kapitál), neomezené ručení, jedno zdanění z příjmu, existence podniku spojena s jedním vlastníkem, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "žádná z odpovědí není správně",
+        "right": false
+      },
+      {
+        "body": "veřejné obchodní společnosti",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "podniku jednotlivce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi státní podniky (s ohledem na právní formu) patří",
+    "answers": [
+      {
+        "body": "ČEZ",
+        "right": false
+      },
+      {
+        "body": "České dráhy",
+        "right": false
+      },
+      {
+        "body": "Dopravní podnik města Brna",
+        "right": false
+      },
+      {
+        "body": "Lesy ČR",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže organizace přijme normy bezpečnosti práce, pak se z časového hlediska jedná o organizační pravidlo typu",
+    "answers": [
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "improvizace",
+        "right": false
+      },
+      {
+        "body": "dispozice",
+        "right": false
+      },
+      {
+        "body": "organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Doba, během níž může dlouhodobý majetek poskytovat technicky nezávadný užitek, se nazývá",
+    "answers": [
+      {
+        "body": "minimální",
+        "right": false
+      },
+      {
+        "body": "ekonomická",
+        "right": false
+      },
+      {
+        "body": "optimální životnost",
+        "right": false
+      },
+      {
+        "body": "technická životnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje odbytové politiky organizace nepatří",
+    "answers": [
+      {
+        "body": "distribuční politika",
+        "right": false
+      },
+      {
+        "body": "výrobková",
+        "right": false
+      },
+      {
+        "body": "cenová",
+        "right": false
+      },
+      {
+        "body": "zaměstnanecká",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základem maticové organizační struktury je seskupení činností na základě",
+    "answers": [
+      {
+        "body": "funkční specializace",
+        "right": false
+      },
+      {
+        "body": "předmětné specializace",
+        "right": false
+      },
+      {
+        "body": "žádná odpověď není správná",
+        "right": false
+      },
+      {
+        "body": "smíšené (jak funkční, tak předmětné)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Manažerská technika, která spočívá v dohodě manažera a podřízeného zaměstnance ohledně předmětu práce a jeho cíle, přičemž splnění cíle je základem hodnocení podřízeného zaměstnance, se nazývá",
+    "answers": [
+      {
+        "body": "řízení pomocí regulace systému",
+        "right": false
+      },
+      {
+        "body": "řízení podle výjimek",
+        "right": false
+      },
+      {
+        "body": "řízení delegací úkolů",
+        "right": false
+      },
+      {
+        "body": "řízení podle cílů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z pohledu živnostenského zákona se za bezúhonného nepovažuje osoba, která byla pravomocně odsouzena",
+    "answers": [
+      {
+        "body": "pro neúmyslný TČ k nepodmíněnému trestu, pokud byl spáchán v souvislosti s podnikáním",
+        "right": false
+      },
+      {
+        "body": "pro úmyslný TČ k podmíněnému trestu alespoň 1 rok",
+        "right": false
+      },
+      {
+        "body": "pro neúmyslný TČ k podmíněnému trestu alespoň 1 rok",
+        "right": false
+      },
+      {
+        "body": "pro úmyslný TČ k nepodmíněnému trestu alespoň 1 rok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z účetního hlediska patří mezi výrobní faktory",
+    "answers": [
+      {
+        "body": "zásoby hotových výrobků",
+        "right": false
+      },
+      {
+        "body": "pohledávky",
+        "right": false
+      },
+      {
+        "body": "peníze na běžném účtu",
+        "right": false
+      },
+      {
+        "body": "zásoby materiálu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": ") Jestliže podnik stanovil cenu svého produktu výše než konkurence, potom se jedná o porušení principu",
+    "answers": [
+      {
+        "body": "finanční rovnováhy",
+        "right": false
+      },
+      {
+        "body": "hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "ziskového",
+        "right": false
+      },
+      {
+        "body": "o porušení žádného principu se nejedná",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární mimoekonomický lze klasifikovat cíl",
+    "answers": [
+      {
+        "body": "růst podílu na trhu",
+        "right": false
+      },
+      {
+        "body": "růst obratu",
+        "right": false
+      },
+      {
+        "body": "maximalizace rentability vlastního kapitálu",
+        "right": false
+      },
+      {
+        "body": "zajištění zásobování obyvatelstva",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Snaha o výkon závisí především na",
+    "answers": [
+      {
+        "body": "tělesné konstituci",
+        "right": false
+      },
+      {
+        "body": "zkušenostech",
+        "right": false
+      },
+      {
+        "body": "věku",
+        "right": false
+      },
+      {
+        "body": "dobrovolných sociálních požitcích",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik v důsledku neustálého zvyšování obratu rozšiřuje objem produkce a tržeb, tak z hlediska životního cyklu se jedná o",
+    "answers": [
+      {
+        "body": "zakládání",
+        "right": false
+      },
+      {
+        "body": "krize",
+        "right": false
+      },
+      {
+        "body": "stabilizace",
+        "right": false
+      },
+      {
+        "body": "růstu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Množství produkce, které je nutné vyrábět s využitím dlouhodobého majetku s ohledem např. na prudkou změnu nákladů a následnou rentabilitu výroby, se nazývá",
+    "answers": [
+      {
+        "body": "technická kapacita",
+        "right": false
+      },
+      {
+        "body": "maximální kapacita",
+        "right": false
+      },
+      {
+        "body": "minimální kapacita",
+        "right": false
+      },
+      {
+        "body": "ekonomická kapacita",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Materiál, který není ve výrobním procesu přetvářen, ale je zabudován do produktu, se nazývá",
+    "answers": [
+      {
+        "body": "pomocná látka",
+        "right": false
+      },
+      {
+        "body": "provozní látka",
+        "right": false
+      },
+      {
+        "body": "surovina",
+        "right": false
+      },
+      {
+        "body": "hotová součástka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže pracovníci jednoho úseku převezmou na jeden měsíc práci druhého úseku, potom se z časového hlediska jedná o organizační pravidlo typu",
+    "answers": [
+      {
+        "body": "dispozice",
+        "right": false
+      },
+      {
+        "body": "organizace",
+        "right": false
+      },
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "improvizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V rámci distribuční politiky je nutné vyřešit",
+    "answers": [
+      {
+        "body": "podporu prodeje",
+        "right": false
+      },
+      {
+        "body": "služby zákazníkům",
+        "right": false
+      },
+      {
+        "body": "platební podmínky",
+        "right": false
+      },
+      {
+        "body": "fyzickou distribuci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podpůrné funkce organizace",
+    "answers": [
+      {
+        "body": "odbyt",
+        "right": false
+      },
+      {
+        "body": "zásobování",
+        "right": false
+      },
+      {
+        "body": "prodej",
+        "right": false
+      },
+      {
+        "body": "financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výkonnost pracovníka je ovlivněna především",
+    "answers": [
+      {
+        "body": "výší odměny za práci",
+        "right": false
+      },
+      {
+        "body": "pracovními podmínkami",
+        "right": false
+      },
+      {
+        "body": "personálním výběrem",
+        "right": false
+      },
+      {
+        "body": "odbornou výchovou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže ředitel organizace má pod sebou 2 náměstky a ti mají pod sebou (každý) další 4 pracovníky, tak potom počet stupňů řízení v organizaci je",
+    "answers": [
+      {
+        "body": "2",
+        "right": false
+      },
+      {
+        "body": "8",
+        "right": false
+      },
+      {
+        "body": "4",
+        "right": false
+      },
+      {
+        "body": "nelze určit",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze č. 2 živnostenského zákona jsou upraveny živnosti",
+    "answers": [
+      {
+        "body": "řemeslné",
+        "right": false
+      },
+      {
+        "body": "koncesované",
+        "right": false
+      },
+      {
+        "body": "volné",
+        "right": false
+      },
+      {
+        "body": "vázané",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže cíl stanovený zaměstnanci není hodnotitelný, potom nastává konflikt",
+    "answers": [
+      {
+        "body": "individuální",
+        "right": false
+      },
+      {
+        "body": "uvnitř organizace",
+        "right": false
+      },
+      {
+        "body": "systémový",
+        "right": false
+      },
+      {
+        "body": "hierarchicky podmíněný",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nutnost skládat základní kapitál všemi společníky, neomezený počet vlastníků, dvojí zdanění daní z příjmů u všech společníků, existence podniku spojena s jedním nebo několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "komanditní společnosti",
+        "right": false
+      },
+      {
+        "body": "družstva",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "akciové společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Finanční opotřebení konkrétního DLHM za určité období (účetní) nebo kalendářní rok vyjadřují",
+    "answers": [
+      {
+        "body": "opravné položky",
+        "right": false
+      },
+      {
+        "body": "rezervy ",
+        "right": false
+      },
+      {
+        "body": "oprávky",
+        "right": false
+      },
+      {
+        "body": "odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je organizace financována z rezerv, jedná se o financování",
+    "answers": [
+      {
+        "body": "vnější a cizí",
+        "right": false
+      },
+      {
+        "body": "vnější a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a cizí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi výhody výběru pracovníků vnitřním výběrem patří",
+    "answers": [
+      {
+        "body": "nižší náklady na podnikové vzdělávání",
+        "right": false
+      },
+      {
+        "body": "omezení fluktuace pracovníků",
+        "right": false
+      },
+      {
+        "body": "odstranění tzv. podnikové slepoty",
+        "right": false
+      },
+      {
+        "body": "zajištění výběru nejvhodnějšího pracovníka na danou pozici",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Činnost podniku, kterou je řešen úpadek podniku a která je završena ukončením činnosti se nazývá",
+    "answers": [
+      {
+        "body": "oddlužení",
+        "right": false
+      },
+      {
+        "body": "reorganizace",
+        "right": false
+      },
+      {
+        "body": "vyrovnání",
+        "right": false
+      },
+      {
+        "body": "konkurz",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže existuje vodní elektrárna vlastněná fyzickou osobou s bydlištěm v Praze, která má x zaměstnanců, obrat 50 mil. Kč a bilanční sumu 20 mil. Kč, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "střední podnik",
+        "right": false
+      },
+      {
+        "body": "materiálově náročný podnik",
+        "right": false
+      },
+      {
+        "body": "podnik poskytující nehmotné statky",
+        "right": false
+      },
+      {
+        "body": "podnik závislý na přírodních zdrojích",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud tvoří vrcholové řízení několik osob, přičemž jedna z těchto osob má právo např. při rozporech sama rozhodnout, jedná se o uplatnění principu",
+    "answers": [
+      {
+        "body": "kolegiálního",
+        "right": false
+      },
+      {
+        "body": "demokratického",
+        "right": false
+      },
+      {
+        "body": "autoritativního ",
+        "right": false
+      },
+      {
+        "body": "direktoriálního",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi odměny vyplácené podle pracovního výkonu nepatří",
+    "answers": [
+      {
+        "body": "provize",
+        "right": false
+      },
+      {
+        "body": "časové mzdy a platy",
+        "right": false
+      },
+      {
+        "body": "honorář",
+        "right": false
+      },
+      {
+        "body": "tantiémy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mzdový systém podniku",
+    "answers": [
+      {
+        "body": "je nezávislý na vnějším prostředí – vychází z podmínek podniku",
+        "right": false
+      },
+      {
+        "body": "jeho jediným cílem je zajistit mzdovou diferenciaci",
+        "right": false
+      },
+      {
+        "body": "se zaměřuje čistě na objektivní složku mzdy – mzdu spojenou s výkonem pracovního místa",
+        "right": false
+      },
+      {
+        "body": "zahrnuje v sobě stimulační prvky, které však mohou být omezeny objemem mzdových prostředků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Finanční opotřebení dlouhodobého majetku, které vyjadřují postupné snižování jeho hodnoty, se nazývá",
+    "answers": [
+      {
+        "body": "znehodnocení",
+        "right": false
+      },
+      {
+        "body": "oprávky",
+        "right": false
+      },
+      {
+        "body": "opotřebení",
+        "right": false
+      },
+      {
+        "body": "odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi mzdové formy patří",
+    "answers": [
+      {
+        "body": "výkonnostní mzda",
+        "right": false
+      },
+      {
+        "body": "podílová mzda",
+        "right": false
+      },
+      {
+        "body": "tarifní mzda",
+        "right": false
+      },
+      {
+        "body": "časová mzda",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících orgánů nevytváří družstvo",
+    "answers": [
+      {
+        "body": "kontrolní komise",
+        "right": false
+      },
+      {
+        "body": "členská schůze",
+        "right": false
+      },
+      {
+        "body": "představenstvo",
+        "right": false
+      },
+      {
+        "body": "dozorčí rada",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Zednictví",
+    "answers": [
+      {
+        "body": "je vázaná živnost",
+        "right": false
+      },
+      {
+        "body": "je koncesovanou živností",
+        "right": false
+      },
+      {
+        "body": "je obchodní živností",
+        "right": false
+      },
+      {
+        "body": "podmínkou k získání této živnosti je vyučení v oboru",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "U Halseyova prémiového systému průměrná mzda s růstem výkonu roste",
+    "answers": [
+      {
+        "body": "degresivně ",
+        "right": false
+      },
+      {
+        "body": "progresivně ",
+        "right": false
+      },
+      {
+        "body": "skokem ",
+        "right": false
+      },
+      {
+        "body": "lineárně ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výroba zbraní",
+    "answers": [
+      {
+        "body": "je obchodní živností",
+        "right": false
+      },
+      {
+        "body": "patří mezi volné živnosti",
+        "right": false
+      },
+      {
+        "body": "je živností ohlašovací",
+        "right": false
+      },
+      {
+        "body": "na získání oprávnění k provozování této živnosti není právní nárok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V komanditní společnosti se, pokud ve smlouvě není uvedeno jinak, ze zákona rozděluje zisk",
+    "answers": [
+      {
+        "body": "nejprve část komplementářům a zbytek rovným dílem mezi společníky",
+        "right": false
+      },
+      {
+        "body": "mezi společníky rovným dílem",
+        "right": false
+      },
+      {
+        "body": "podle výše ručitelského majetku",
+        "right": false
+      },
+      {
+        "body": "polovina komplementářům a polovina komandistům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Komanditní společnost",
+    "answers": [
+      {
+        "body": "její společníci se mohou skládat výhradně z komandistů (bez účasti komplementářů)",
+        "right": false
+      },
+      {
+        "body": "její komandisté ručí neomezeně",
+        "right": false
+      },
+      {
+        "body": "zisk jejích komplementářů podléhá dvojímu zdanění",
+        "right": false
+      },
+      {
+        "body": "lze zařadit mezi osobní společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Konkurzní řízení řídí",
+    "answers": [
+      {
+        "body": "likvidátor ",
+        "right": false
+      },
+      {
+        "body": "podnikatel ",
+        "right": false
+      },
+      {
+        "body": "soud ",
+        "right": false
+      },
+      {
+        "body": "správce konkurzní podstaty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Malé a střední podnikání",
+    "answers": [
+      {
+        "body": "jako kategorii tvoří pouze podniky jednotlivců(podniky fyzických osob)",
+        "right": false
+      },
+      {
+        "body": "podle kategorizace Ministerstva průmyslu a obchodu tvoří podniky s počtem zaměstnanců do 500 osob",
+        "right": false
+      },
+      {
+        "body": "jedním z příkladů je Nestlé",
+        "right": false
+      },
+      {
+        "body": "v ČR existují zvláštní programy pro jejich podporu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Návrh aby konkurz byl ukončen nuceným vyrovnáním",
+    "answers": [
+      {
+        "body": "může podat 3/4 většina zůčastněních věřitelů",
+        "right": false
+      },
+      {
+        "body": "dluhy musí být splaceny pouze peněžní formou",
+        "right": false
+      },
+      {
+        "body": "musí zahrnovat uhrazení všech dluhů v plné výši",
+        "right": false
+      },
+      {
+        "body": "může podat pouze dlužník ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Období, po které je účelné zařízení hospodářsky využívat, se označuje jako",
+    "answers": [
+      {
+        "body": "doba životnosti",
+        "right": false
+      },
+      {
+        "body": "technická životnost",
+        "right": false
+      },
+      {
+        "body": "užitné období",
+        "right": false
+      },
+      {
+        "body": "ekonomická životnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Aplikované podnikové hospodářství si vybírá své problémy s ohledem na cíle, které sledují lidé přijímající rozhodnutí v podniku. Tyto cíle se",
+    "answers": [
+      {
+        "body": "odvozují z ideologických představ ",
+        "right": false
+      },
+      {
+        "body": "odvozují z národohospodářských potřeb ",
+        "right": false
+      },
+      {
+        "body": "odvozují z norem ",
+        "right": false
+      },
+      {
+        "body": "musí zjišťovat empiricky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže zvýšení plnění prvního cíle nevede zároveň ani ke zvýšení, ani ke snížení plnění druhého cíle, jedná se o cíle",
+    "answers": [
+      {
+        "body": "konkurenční ",
+        "right": false
+      },
+      {
+        "body": "identické ",
+        "right": false
+      },
+      {
+        "body": "komplementární ",
+        "right": false
+      },
+      {
+        "body": "indiferentní ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cenová zkušenostní křivka",
+    "answers": [
+      {
+        "body": "patří mezi nástroje řízení podniku",
+        "right": false
+      },
+      {
+        "body": "vyplývá z ní, že zdvojnásobení vyrobeného množství, sledovaného od zavedení výrobku do produkce, je spojeno s poklesem jednotkových nákladů o 20-30%",
+        "right": false
+      },
+      {
+        "body": "zabývá se vztahem mezi cenou a celkovými náklady ",
+        "right": false
+      },
+      {
+        "body": "ukazuje, že v době zavádění výrobku leží cena obvykle pod jednotkovými náklady ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Procesní organizace",
+    "answers": [
+      {
+        "body": "je založena na analýze a syntéze úkolů",
+        "right": false
+      },
+      {
+        "body": "je příkladem neformální organizace podniku ",
+        "right": false
+      },
+      {
+        "body": "je založena na vymezení pravomoci a odpovědnosti pracovníků",
+        "right": false
+      },
+      {
+        "body": "si klade za cíl dosáhnout co nejvyššího rovnoměrného využití disponibilních kapacit hmotného investičního majetku a pracovníků při současné minimalizaci průběžných časů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Soukromé domácnosti",
+    "answers": [
+      {
+        "body": "odvozují své hospodaření od potřeb společnosti",
+        "right": false
+      },
+      {
+        "body": "jsou chápány jako kombinace výrobních faktorů ",
+        "right": false
+      },
+      {
+        "body": "jsou složkou výrobního hospodářství",
+        "right": false
+      },
+      {
+        "body": "jsou samostatně hospodařícími jednotkami ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Princip orgánu",
+    "answers": [
+      {
+        "body": "je součástí výstavby organizační struktury podniku formou divizionální organizace",
+        "right": false
+      },
+      {
+        "body": "je vyjádřením způsobu organizačního uspořádání uvnitř podniku",
+        "right": false
+      },
+      {
+        "body": "umožňuje podniku aktivně se přizpůsobovat cenám na trhu",
+        "right": false
+      },
+      {
+        "body": "souvisí s centrálně plánovaným systémem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podle převládajícího výrobního faktoru při členění podniků lze rozlišovat",
+    "answers": [
+      {
+        "body": "podniky hromadné výroby",
+        "right": false
+      },
+      {
+        "body": "podniky vyrábějící výrobní prostředky",
+        "right": false
+      },
+      {
+        "body": "technologicky náročné podniky",
+        "right": false
+      },
+      {
+        "body": "investičně náročné podniky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Štábně-liniový systém",
+    "answers": [
+      {
+        "body": "využívá štáb jako kolektivní rozhodovací orgán k udílení příkazů nižším místům",
+        "right": false
+      },
+      {
+        "body": "je nejpřísnější formou organizačního členění podniku",
+        "right": false
+      },
+      {
+        "body": "je modelem víceliniového řídícího systému",
+        "right": false
+      },
+      {
+        "body": "výhodou je přísné dodržení instanční cesty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Slabinami tržního systému jsou tendence k",
+    "answers": [
+      {
+        "body": "konkurenci",
+        "right": false
+      },
+      {
+        "body": "přerozdělování zdrojů",
+        "right": false
+      },
+      {
+        "body": "nespravedlivému rozdělování",
+        "right": false
+      },
+      {
+        "body": "nerovnému rozdělování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi materiálně nedirektivní nástroje řízení patří",
+    "answers": [
+      {
+        "body": "podnikové sociální požitky",
+        "right": false
+      },
+      {
+        "body": "pracovní pohoda",
+        "right": false
+      },
+      {
+        "body": "regulace konfliktů",
+        "right": false
+      },
+      {
+        "body": "pracovní podmínky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže při modelování nastává riziková situace, tzn. že proměnné modelu mohou nabývat různé hodnoty, přičemž známe jejich pravděpodobnosti, hovoříme o",
+    "answers": [
+      {
+        "body": "rozhodovacích modelech",
+        "right": false
+      },
+      {
+        "body": "modelech her",
+        "right": false
+      },
+      {
+        "body": "deterministických modelech",
+        "right": false
+      },
+      {
+        "body": "stochastických modelech ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Sytém podnikových výrobních faktorů dle podnik. hospodářství",
+    "answers": [
+      {
+        "body": "jako jeden z výrobních faktorů označuje kapitál v jeho peněžní podobě",
+        "right": false
+      },
+      {
+        "body": "rozlišuje výrobní faktor práce na originální, tj. výkonnou práci a odvozenou, tj. vedení podniku",
+        "right": false
+      },
+      {
+        "body": "rozlišuje pouze tři nákladové druhy – mzdy, pozemkovou rentu a úrok",
+        "right": false
+      },
+      {
+        "body": "rozlišuje práci jako dispozitivní faktor na originální – vedení podniku a odvozenou – plánování, organizaci a dohled",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Princip řízení, kdy jsou formulována přesná pravidla, podle nichž se uskutečňují rozhodnutí, se nazývá",
+    "answers": [
+      {
+        "body": "řízení podle cílů",
+        "right": false
+      },
+      {
+        "body": "řízení delegací úkolů",
+        "right": false
+      },
+      {
+        "body": "řízení podle výsledku",
+        "right": false
+      },
+      {
+        "body": "řízení podle rozhodovacích pravidel",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi základní determinanty užívané při konstrukci čtyřsektorové matice Boston-portfolia patří",
+    "answers": [
+      {
+        "body": "růst rentability",
+        "right": false
+      },
+      {
+        "body": "růst kvality",
+        "right": false
+      },
+      {
+        "body": "růst podniku",
+        "right": false
+      },
+      {
+        "body": "růst tržního podílu vůči největšímu konkurentovi",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formu dočasného sdružení má",
+    "answers": [
+      {
+        "body": "kartel",
+        "right": false
+      },
+      {
+        "body": "zájmové sdružení",
+        "right": false
+      },
+      {
+        "body": "koncern",
+        "right": false
+      },
+      {
+        "body": "konsorcium",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro trust je charakteristické",
+    "answers": [
+      {
+        "body": "hospodářská samostatnost",
+        "right": false
+      },
+      {
+        "body": "právní samostatnost",
+        "right": false
+      },
+      {
+        "body": "dočasné spojení ",
+        "right": false
+      },
+      {
+        "body": "diagonální sdružování ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pomocné látky jsou takové statky, které",
+    "answers": [
+      {
+        "body": "nejsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "nevcházejí do výrobku ",
+        "right": false
+      },
+      {
+        "body": "jsou přetvářeny ve výrobek ",
+        "right": false
+      },
+      {
+        "body": "vstupují do výrobku, ale hrají jen malou roli ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže ve společenské smlouvě veřejné obchodní společnosti není uvedeno jinak, pak ze zákona charakterizují v.o.s. tyto znaky",
+    "answers": [
+      {
+        "body": "ručení majetkem v rovné výši",
+        "right": false
+      },
+      {
+        "body": "počet zakladatelů 2 fyzické nebo 1 právnická osoba",
+        "right": false
+      },
+      {
+        "body": "účast na zisku podle kapitálového vkladu",
+        "right": false
+      },
+      {
+        "body": "rovnost hlasů společníků ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Správce konkurzní podstaty nemusí",
+    "answers": [
+      {
+        "body": "mít přiměřenou odbornou způsobilost",
+        "right": false
+      },
+      {
+        "body": "být plně způsobilý k právním úkonům",
+        "right": false
+      },
+      {
+        "body": "být zapsán v seznamu správců příslušného soudu",
+        "right": false
+      },
+      {
+        "body": "být fyzická osoba ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Veřejná obchodní společnost",
+    "answers": [
+      {
+        "body": "je podnikem jednotlivce (individual proprietorship) ",
+        "right": false
+      },
+      {
+        "body": "její společníci mají povinnost vložit do společnosti min. 5 000 Kč",
+        "right": false
+      },
+      {
+        "body": "je subjektem daně z příjmu",
+        "right": false
+      },
+      {
+        "body": "se zapisuje vždy do obchodního rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dobrovolné sociální požitky",
+    "answers": [
+      {
+        "body": "jsou přístupné jen managementu",
+        "right": false
+      },
+      {
+        "body": "jsou podmíněny pracovním výkonem",
+        "right": false
+      },
+      {
+        "body": "jsou formou odměny za práci ",
+        "right": false
+      },
+      {
+        "body": "zpravidla nemají vztah k pracovním výkonům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "O předlužení jde tehdy",
+    "answers": [
+      {
+        "body": "jestliže podnik má více věřitelů",
+        "right": false
+      },
+      {
+        "body": "jestliže podnik má více věřitelů a není po delší dobu schopen plnit své splatné závazky",
+        "right": false
+      },
+      {
+        "body": "není po delší dobu schopen plnit své splatné závazky",
+        "right": false
+      },
+      {
+        "body": "jestliže podnik má více věřitelů a jeho splatné závazky jsou vyšší než jeho majetek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výše prémie se zpravidla stanovuje",
+    "answers": [
+      {
+        "body": "v předem stanovené pevné výši",
+        "right": false
+      },
+      {
+        "body": "podle obecně platných podnikohospodářských norem",
+        "right": false
+      },
+      {
+        "body": "podle subjektivního posouzení ",
+        "right": false
+      },
+      {
+        "body": "v pohyblivé výši v závislosti na výkonu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hotové součástky jsou takové statky, které",
+    "answers": [
+      {
+        "body": "nejsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "opracovávají se při výrobě ",
+        "right": false
+      },
+      {
+        "body": "nevcházejí do výrobku",
+        "right": false
+      },
+      {
+        "body": "jsou použity při konstrukci výrobku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Suroviny jsou takové statky, které se při výrobě spotřebovávají a",
+    "answers": [
+      {
+        "body": "nevcházejí do výrobku",
+        "right": false
+      },
+      {
+        "body": "nejsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "vstupují do výrobku, ale hrají jen malou roli",
+        "right": false
+      },
+      {
+        "body": "jsou přetvářeny ve výrobek ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Likvidace není",
+    "answers": [
+      {
+        "body": "mimosoudním vypořádáním majetkových vztahů",
+        "right": false
+      },
+      {
+        "body": "zákonem řízený postup",
+        "right": false
+      },
+      {
+        "body": "zánikem společnosti ",
+        "right": false
+      },
+      {
+        "body": "oddlužením společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nevýhody malých a středních podniků patří",
+    "answers": [
+      {
+        "body": "odolnost proti hospodářské recesi",
+        "right": false
+      },
+      {
+        "body": "vytváření nových pracovních příležitostí ",
+        "right": false
+      },
+      {
+        "body": "inovativnost ",
+        "right": false
+      },
+      {
+        "body": "omezené možnosti získávání výhod z rozsahu produkce ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základní mzda",
+    "answers": [
+      {
+        "body": "je totéž co zaručená mzda ",
+        "right": false
+      },
+      {
+        "body": "je stanovena zákonem",
+        "right": false
+      },
+      {
+        "body": "má konstantní velikost",
+        "right": false
+      },
+      {
+        "body": "její výše je ovlivněna použitou mzdovou formou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "U diferenciální kusové mzdy podle Taylora průměrná mzda s růstem výkonu roste",
+    "answers": [
+      {
+        "body": "degresivně ",
+        "right": false
+      },
+      {
+        "body": "skokem ",
+        "right": false
+      },
+      {
+        "body": "lineárně ",
+        "right": false
+      },
+      {
+        "body": "progresivně ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže ve společenské smlouvě komanditní společnosti není uvedeno jinak, pak ze zákona charakterizují k.s. tyto znaky",
+    "answers": [
+      {
+        "body": "ručení majetkem v rovné výši ",
+        "right": false
+      },
+      {
+        "body": "rozdělení zisku podle kapitálových vkladů ",
+        "right": false
+      },
+      {
+        "body": "rovnost hlasů společníků ",
+        "right": false
+      },
+      {
+        "body": "počet zakladatelů nejméně 2 fyzické osob",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Příkladem sdružení se ztrátou právní samostatnosti členů je",
+    "answers": [
+      {
+        "body": "koncern",
+        "right": false
+      },
+      {
+        "body": "konsorcium",
+        "right": false
+      },
+      {
+        "body": "franchising",
+        "right": false
+      },
+      {
+        "body": "trust",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Období, po které dané zařízení poskytuje technicky nezávadný užitek, se označuje jako",
+    "answers": [
+      {
+        "body": "užitné období",
+        "right": false
+      },
+      {
+        "body": "ekonomická životnost ",
+        "right": false
+      },
+      {
+        "body": "doba životnosti",
+        "right": false
+      },
+      {
+        "body": "technická životnost ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících orgánů vytváří akciová společnost",
+    "answers": [
+      {
+        "body": "jednatelé ",
+        "right": false
+      },
+      {
+        "body": "kontrolní komise",
+        "right": false
+      },
+      {
+        "body": "členská schůze ",
+        "right": false
+      },
+      {
+        "body": "představenstvo ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které z následujících orgánů nevytváří družstvo",
+    "answers": [
+      {
+        "body": "členská schůze",
+        "right": false
+      },
+      {
+        "body": "kontrolní komise",
+        "right": false
+      },
+      {
+        "body": "představenstvo ",
+        "right": false
+      },
+      {
+        "body": "jednatelé ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mzdová spravedlnost",
+    "answers": [
+      {
+        "body": "je koncipovaná jako absolutní ",
+        "right": false
+      },
+      {
+        "body": "projevuje se jen ve složce mzdy tvořené mzdovými formami ",
+        "right": false
+      },
+      {
+        "body": "projevuje se jen ve složce mzdy tvořené mzdovým tarifem ",
+        "right": false
+      },
+      {
+        "body": "je vyjádřena mzdovou diferenciací ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Provozní látky jsou takové statky, které",
+    "answers": [
+      {
+        "body": "vcházejí do výrobku ",
+        "right": false
+      },
+      {
+        "body": "vstupují do výrobku, ale hrají jen malou roli",
+        "right": false
+      },
+      {
+        "body": "jsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "spotřebovávají se při výrobě ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi všeobecné podmínky provozování živnosti fyzickými osobami patří",
+    "answers": [
+      {
+        "body": "čistý trestní rejstřík ",
+        "right": false
+      },
+      {
+        "body": "přiměřené kapitálové zázemí ",
+        "right": false
+      },
+      {
+        "body": "dosažení 21 let věku ",
+        "right": false
+      },
+      {
+        "body": "způsobilost k právním úkonům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro relativní výši odměny za práci není směrodatné",
+    "answers": [
+      {
+        "body": "obtížnost práce ",
+        "right": false
+      },
+      {
+        "body": "délka práce ",
+        "right": false
+      },
+      {
+        "body": "množství práce",
+        "right": false
+      },
+      {
+        "body": "pracovní prostředí ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dlouhodobý hmotný majetek je charakteristický",
+    "answers": [
+      {
+        "body": "okamžitou ztrátou hodnoty",
+        "right": false
+      },
+      {
+        "body": "okamžitou tvorbou hodnoty ",
+        "right": false
+      },
+      {
+        "body": "spotřebováním v jednom výrobním cyklu ",
+        "right": false
+      },
+      {
+        "body": "postupným poklesem hodnoty ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vnější příčinou krize může být",
+    "answers": [
+      {
+        "body": "nedostatečná výrobková inovace ",
+        "right": false
+      },
+      {
+        "body": "chybná cenová politika",
+        "right": false
+      },
+      {
+        "body": "problém s kvalitou výrobků",
+        "right": false
+      },
+      {
+        "body": "změna legislativy ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hmotný investiční majetek",
+    "answers": [
+      {
+        "body": "jeho užitná hodnota klesá stejně rychle jako jeho tržní hodnota",
+        "right": false
+      },
+      {
+        "body": "v poslední době ustupuje stále více ve prospěch nasazení práce jako výrobního faktoru",
+        "right": false
+      },
+      {
+        "body": "jeho obhospodařování souvisí s principem just-in time production",
+        "right": false
+      },
+      {
+        "body": "podléhá opotřebení vyjádřenému odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi faktory ovlivňující snahu o pracovní výkon v podniku patří",
+    "answers": [
+      {
+        "body": "nadání ",
+        "right": false
+      },
+      {
+        "body": "zkušenosti ",
+        "right": false
+      },
+      {
+        "body": "fyzické a psychické schopnosti",
+        "right": false
+      },
+      {
+        "body": "pracovní podmínky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže zařízení je schopno vyprodukovat 10 kusů za minutu a pracovník pracující na tomto zařízení vyrobí 400 ks/hod. přičemž průměrný pracovník vyrobí 500 ks/hod. je",
+    "answers": [
+      {
+        "body": "výkonnost pracovníka 66,6 % ",
+        "right": false
+      },
+      {
+        "body": "stupeň využití kapacity stroje 80 %",
+        "right": false
+      },
+      {
+        "body": "stupeň využití kapacity stroje 150 %",
+        "right": false
+      },
+      {
+        "body": "výkonnost pracovníka 80 %",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Družstvo",
+    "answers": [
+      {
+        "body": "je zaměřeno v prvé řadě na tvorbu zisku ",
+        "right": false
+      },
+      {
+        "body": "je kapitálovou společností",
+        "right": false
+      },
+      {
+        "body": "jeho nejvyšším orgánem je valná hromada ",
+        "right": false
+      },
+      {
+        "body": "je subjektem daně z příjmu ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Osobní společnost je charakterizována tím, že",
+    "answers": [
+      {
+        "body": "jejím nejvyšším orgánem je valná hromad",
+        "right": false
+      },
+      {
+        "body": "její všichni společníci ručí vždy neomezeně",
+        "right": false
+      },
+      {
+        "body": "může mít jediného společníka ",
+        "right": false
+      },
+      {
+        "body": "je právnickou osobou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Manažerská technika, která spočívá v delegaci běžných (rutinních) úkolů na podřízeného, přičemž manažer zasahuje jen v případě vzniku odchylek nebo ve zvláštních situacích, se nazývá",
+    "answers": [
+      {
+        "body": "řízení pomocí regulace systému",
+        "right": false
+      },
+      {
+        "body": "řízení delegací úkolů",
+        "right": false
+      },
+      {
+        "body": "řízení podle cílů ",
+        "right": false
+      },
+      {
+        "body": "řízení podle výjimek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 1 Živnostenského zákona jsou upraveny živnosti",
+    "answers": [
+      {
+        "body": "vázané",
+        "right": false
+      },
+      {
+        "body": "volné ",
+        "right": false
+      },
+      {
+        "body": "koncesované ",
+        "right": false
+      },
+      {
+        "body": "řemeslné ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární mimoekonomický lze klasifikovat cíl",
+    "answers": [
+      {
+        "body": "růst podílu na trhu ",
+        "right": false
+      },
+      {
+        "body": "růst obratu ",
+        "right": false
+      },
+      {
+        "body": "maximalizace rentability vlastního kapitálu ",
+        "right": false
+      },
+      {
+        "body": "zajištění zásobování obyvatelstva",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik provádí průzkum trhu a další analýzy podnikatelského prostředí a zároveň jsou příjmy (výnosy) z jeho činnosti minimální, tak potom se, z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "stabilizace",
+        "right": false
+      },
+      {
+        "body": "krize ",
+        "right": false
+      },
+      {
+        "body": "růstu ",
+        "right": false
+      },
+      {
+        "body": "zakládání",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nutnost skládat základní kapitál, omezený počet vlastníků, dvojí zdanění daní z příjmů, existence podniku spojena s jedním nebo několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "komanditní společnosti",
+        "right": false
+      },
+      {
+        "body": "akciové společnosti ",
+        "right": false
+      },
+      {
+        "body": "družstva ",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik stanovil cenu svého produktu výše než konkurence, tak potom se jedná o porušení principu",
+    "answers": [
+      {
+        "body": "ziskového",
+        "right": false
+      },
+      {
+        "body": "finanční rovnováhy ",
+        "right": false
+      },
+      {
+        "body": "hospodárnosti ",
+        "right": false
+      },
+      {
+        "body": "o porušení žádného principu se nejedná",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 4 Živnostenského zákona jsou upraveny živnosti",
+    "answers": [
+      {
+        "body": "řemeslné ",
+        "right": false
+      },
+      {
+        "body": "koncesované ",
+        "right": false
+      },
+      {
+        "body": "vázané ",
+        "right": false
+      },
+      {
+        "body": "volné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory patří",
+    "answers": [
+      {
+        "body": "kapitál",
+        "right": false
+      },
+      {
+        "body": "peníze ",
+        "right": false
+      },
+      {
+        "body": "půda ",
+        "right": false
+      },
+      {
+        "body": "dlouhodobý majetek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud tvoří vrcholové řízení několik osob, přičemž každá z těchto osob má stejné oprávnění (tzn. že se celá skupina musí na rozhodnutí shodnout), jedná se o uplatnění principu",
+    "answers": [
+      {
+        "body": "autoritativního",
+        "right": false
+      },
+      {
+        "body": "demokratického ",
+        "right": false
+      },
+      {
+        "body": "direktoriálního ",
+        "right": false
+      },
+      {
+        "body": "kolegiálního ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud společník společnosti s ručením omezeným ještě zcela nesplatil ve společnosti svůj vklad a společnost je v úpadku, tak potom společník",
+    "answers": [
+      {
+        "body": "může svůj nesplacený vklad doplatit ",
+        "right": false
+      },
+      {
+        "body": "musí svůj nesplacený vklad doplatit ze zákona",
+        "right": false
+      },
+      {
+        "body": "musí svůj nesplacený vklad doplatit na základě rozhodnutí soudu ",
+        "right": false
+      },
+      {
+        "body": "musí svůj nesplacený vklad doplatit, pokud je to uvedeno ve společenské smlouvě",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nízké náklady založení (bez nutnosti skládat základní kapitál), neomezené ručení, jedno zdanění daní z příjmů, existence podniku spojena s několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "družstva",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným ",
+        "right": false
+      },
+      {
+        "body": "veřejné obchodní společnosti",
+        "right": false
+      },
+      {
+        "body": "podniku jednotlivce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud využívám ve výrobní organizaci úkolovou mzdu ve formě časového úkolu, tak potom základem pro stanovení výše mzdy je",
+    "answers": [
+      {
+        "body": "peněžní sazba na hodinu práce",
+        "right": false
+      },
+      {
+        "body": "množství odpracovaného času",
+        "right": false
+      },
+      {
+        "body": "peněžní sazba na vyrobený kus",
+        "right": false
+      },
+      {
+        "body": "peněžní sazba na čas připadající na vyrobený kus",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže rozhodovatel nezná všechny stavy okolí a s jistotou neví, jaká situace nastane (míru jistoty může nastavit), potom hovoříme o rozhodovací situaci za podmínek",
+    "answers": [
+      {
+        "body": "pravděpodobnosti",
+        "right": false
+      },
+      {
+        "body": "jistoty",
+        "right": false
+      },
+      {
+        "body": "rizika ",
+        "right": false
+      },
+      {
+        "body": "nejistoty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Materiál, který není ve výrobním procesu přetvářen, ale je zabudován do produktu, se nazývá",
+    "answers": [
+      {
+        "body": "pomocná látka (součást výrobku, netvoří hlavní látkovou substanci)",
+        "right": false
+      },
+      {
+        "body": "provozní látka (spotřeba při výrobě, ale nevstupují do výrobku)",
+        "right": false
+      },
+      {
+        "body": "surovina (přetvářena ve výrobním procesu)",
+        "right": false
+      },
+      {
+        "body": "hotová součástka ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Takticko-operativní plánování",
+    "answers": [
+      {
+        "body": "člení se na plánování výstavby, programové plánování a plánování výroby",
+        "right": false
+      },
+      {
+        "body": "je součástí strategického plánování",
+        "right": false
+      },
+      {
+        "body": "vytváří taktický globální plán, který obsahuje kapacitní a investiční plán",
+        "right": false
+      },
+      {
+        "body": "pracuje s pojmem „úzký profil“",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Princip racionality",
+    "answers": [
+      {
+        "body": "je projevem principu maximalizace zisku",
+        "right": false
+      },
+      {
+        "body": "je konkretizací ekonomického principu",
+        "right": false
+      },
+      {
+        "body": "říká, že optimálního cíle má být dosaženo minimálním vkladem prostředků",
+        "right": false
+      },
+      {
+        "body": "vypovídá o povaze hospodářského jednání",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Direktoriální princip",
+    "answers": [
+      {
+        "body": "znamená nevýhodu v podobě těžkopádnosti rozhodování",
+        "right": false
+      },
+      {
+        "body": "uplatňuje se, pokud vrcholové řízení tvoří jedna osoba",
+        "right": false
+      },
+      {
+        "body": "zaručuje vyšší odbornost rozhodnutí než kolegiální princip",
+        "right": false
+      },
+      {
+        "body": "se uplatňuje při procesu utváření rozhodnutí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Řízení delegací úkolů",
+    "answers": [
+      {
+        "body": "je založeno na delegaci rozhodování společně s formulací pravidel, podle nichž mají být delegovaná rozhodnutí prováděna",
+        "right": false
+      },
+      {
+        "body": "je založeno na systémovém pojetí podniku a bývá též označováno jako řízení pomocí regulace systému",
+        "right": false
+      },
+      {
+        "body": "patří k principům orientovaným na cíle",
+        "right": false
+      },
+      {
+        "body": "patří k principům pro delegování pravomoci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pracovní doba",
+    "answers": [
+      {
+        "body": "je v současnosti definovaná jako čas od začátku do konce práce včetně přestávky na odpočinek",
+        "right": false
+      },
+      {
+        "body": "zavádí pojem Job Sharing, což je ekvivalent směnného provozu na pracovišti",
+        "right": false
+      },
+      {
+        "body": "využívá poznatků o pracovním rytmu člověka, kdy mj. těsně před polední přestávkou výkon pracovníků kulminuje",
+        "right": false
+      },
+      {
+        "body": "je jednou z oblastí problematiky pracovních podmínek jakožto nástroje řízení podniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské faktory, které mají bezprostřední vztah k předmětu výroby, nepatří",
+    "answers": [
+      {
+        "body": "hmotný investiční majetek",
+        "right": false
+      },
+      {
+        "body": "výkonná práce",
+        "right": false
+      },
+      {
+        "body": "materiál",
+        "right": false
+      },
+      {
+        "body": "dispozitivní práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Realizaci ekonomického principu (principu hospodárnosti) usilováním o co nejvyšší výnos statků z dané spotřeby výrobních faktorů označujeme jako dílčí princip",
+    "answers": [
+      {
+        "body": "optima",
+        "right": false
+      },
+      {
+        "body": "racionality",
+        "right": false
+      },
+      {
+        "body": "minima",
+        "right": false
+      },
+      {
+        "body": "maxima",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Organizaci, při níž je podnik rozčleněn na přizpůsobivé, flexibilní dílčí systémy s vysokou autonomií, podle předmětného principu, označujeme jako",
+    "answers": [
+      {
+        "body": "maticová organizace",
+        "right": false
+      },
+      {
+        "body": "funkcionální organizace",
+        "right": false
+      },
+      {
+        "body": "liniová organizace",
+        "right": false
+      },
+      {
+        "body": "divizionální organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Strategické řízení",
+    "answers": [
+      {
+        "body": "je vhodné pro malé a střední podniky, které nejsou tolik zasaženy změnami okolí",
+        "right": false
+      },
+      {
+        "body": "odvozuje rozhodnutí o vývoji nových výrobků hlavně od produktů, které uspěly v minulosti",
+        "right": false
+      },
+      {
+        "body": "je dynamické a adaptivní",
+        "right": false
+      },
+      {
+        "body": "zohledňuje i sociologické a sociální okolí podniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Plánování, které začíná na nejvyšší plánovací úrovni a pokračuje, dokud není dosaženo nejnižší úrovně, se nazývá",
+    "answers": [
+      {
+        "body": "progresivní",
+        "right": false
+      },
+      {
+        "body": "protisměrné",
+        "right": false
+      },
+      {
+        "body": "degresivní",
+        "right": false
+      },
+      {
+        "body": "retrográdní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Možné vztahy mezi cíly se označují jako",
+    "answers": [
+      {
+        "body": "diferencované",
+        "right": false
+      },
+      {
+        "body": "sbíhavé",
+        "right": false
+      },
+      {
+        "body": "kompletní",
+        "right": false
+      },
+      {
+        "body": "konkurenční",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Manažeři",
+    "answers": [
+      {
+        "body": "mají zájem na vysokém zhodnocení kapitálu vloženého do podniku",
+        "right": false
+      },
+      {
+        "body": "nesou kapitálové riziko",
+        "right": false
+      },
+      {
+        "body": "jsou dominantní ve vlastnických podnicích",
+        "right": false
+      },
+      {
+        "body": "řídí podnik",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které znaky podniku jsou závislé na hospodářském systému",
+    "answers": [
+      {
+        "body": "výrobní faktory",
+        "right": false
+      },
+      {
+        "body": "princip hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "finanční rovnováha",
+        "right": false
+      },
+      {
+        "body": "výdělečný princip",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Řídící styl, ve kterém se zaměstnanci podílejí na řídících rozhodnutích, se nazývá",
+    "answers": [
+      {
+        "body": "byrokratický",
+        "right": false
+      },
+      {
+        "body": "kolegiální",
+        "right": false
+      },
+      {
+        "body": "autokratický",
+        "right": false
+      },
+      {
+        "body": "kooperativní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výše mezd v ideálním případě",
+    "answers": [
+      {
+        "body": "je odvozována jen od dosaženého pracovního výkonu",
+        "right": false
+      },
+      {
+        "body": "vychází z principu absolutní spravedlnosti, když výši mzdy odvozuje z ceny práce na trhu práce",
+        "right": false
+      },
+      {
+        "body": "vychází z principu ekvivalence, kdy mzda má odpovídat potřebám pracovníka",
+        "right": false
+      },
+      {
+        "body": "je ovlivňována výkonnostními i sociálními hledisky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Stavební firma specializovaná na opravy pozemních komunikací na zakázku",
+    "answers": [
+      {
+        "body": "patří do sektoru služeb",
+        "right": false
+      },
+      {
+        "body": "používá jako způsob výroby převážně výrobní hnízdo",
+        "right": false
+      },
+      {
+        "body": "patří do veřejného sektoru",
+        "right": false
+      },
+      {
+        "body": "je podnikem druhovýroby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je v podniku vykonáván externí dohled osobou, která není na sledovaném procesu nebo odpovědnostním okruhu ani přímo ani nepřímo zainteresovaná, označujeme jej jako",
+    "answers": [
+      {
+        "body": "revize",
+        "right": false
+      },
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "kontrola",
+        "right": false
+      },
+      {
+        "body": "audit",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže zvýšení plnění prvního cíle vede ke zvýšení plnění druhého cíle, jedná se o cíle",
+    "answers": [
+      {
+        "body": "konkurenční",
+        "right": false
+      },
+      {
+        "body": "identické",
+        "right": false
+      },
+      {
+        "body": "indiferentní",
+        "right": false
+      },
+      {
+        "body": "komplementární",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Grafické znázornění vztahu mezi cíly tvoří",
+    "answers": [
+      {
+        "body": "u komplementárního cíle bod",
+        "right": false
+      },
+      {
+        "body": "u indiferentních cílů přímka z počátku v úhlu 45 stupňů",
+        "right": false
+      },
+      {
+        "body": "u protikladných cílů přímka rovnoběžná s jednou z os",
+        "right": false
+      },
+      {
+        "body": "u konkurenčních cílů přímka kolmá k přímce, která vede z počátku v úhlu 45 stupňů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nemateriálně nedirektivní nástroje řízení patří",
+    "answers": [
+      {
+        "body": "pracovní pohoda",
+        "right": false
+      },
+      {
+        "body": "podnikové sociální požitky",
+        "right": false
+      },
+      {
+        "body": "pracovní podmínky",
+        "right": false
+      },
+      {
+        "body": "regulace konfliktů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výhodami pružnosti jako principu organizačních úprav je",
+    "answers": [
+      {
+        "body": "menší závislost na vykonavatelích",
+        "right": false
+      },
+      {
+        "body": "lepší koordinace",
+        "right": false
+      },
+      {
+        "body": "hospodárnost",
+        "right": false
+      },
+      {
+        "body": "adaptace na změněné podmínky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi materiálně direktivní nástroje řízení patří",
+    "answers": [
+      {
+        "body": "pracovní pohoda",
+        "right": false
+      },
+      {
+        "body": "regulace konfliktů",
+        "right": false
+      },
+      {
+        "body": "pracovní podmínky",
+        "right": false
+      },
+      {
+        "body": "podnikové sociální požitky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Které faktory charakterizují podnik v tržním systému",
+    "answers": [
+      {
+        "body": "princip rovného rozdělování",
+        "right": false
+      },
+      {
+        "body": "princip plnění plánu",
+        "right": false
+      },
+      {
+        "body": "princip orgánu",
+        "right": false
+      },
+      {
+        "body": "ziskový princip",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Řídící systém podniku, který používá jednotnou instanční cestu příkazů, nazýváme",
+    "answers": [
+      {
+        "body": "divizionální systém",
+        "right": false
+      },
+      {
+        "body": "funkcionální systém",
+        "right": false
+      },
+      {
+        "body": "víceliniový systém",
+        "right": false
+      },
+      {
+        "body": "liniový systém",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Snaha o zvýšení tržního podílu patří mezi cíle",
+    "answers": [
+      {
+        "body": "nemonetární mimoekonomické",
+        "right": false
+      },
+      {
+        "body": "monetární ekonomické",
+        "right": false
+      },
+      {
+        "body": "monetární",
+        "right": false
+      },
+      {
+        "body": "nemonetární ekonomické",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V tržní ekonomice podnik upřednostňuje cíle",
+    "answers": [
+      {
+        "body": "politické",
+        "right": false
+      },
+      {
+        "body": "nemonetární ekonomické",
+        "right": false
+      },
+      {
+        "body": "mimoekonomické",
+        "right": false
+      },
+      {
+        "body": "monetární ekonomické",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Improvizace patří mezi obecné organizační úpravy",
+    "answers": [
+      {
+        "body": "chvíli stanoví telefonicky svého zástupce na zrovna konané poradě podniku",
+        "right": false
+      },
+      {
+        "body": "jejím typickým příkladem je situace, kdy vedoucí uvízne v dopravní zácpě a pro tuto",
+        "right": false
+      },
+      {
+        "body": "je zaměřená na jednorázové řešení výjimek z běžného uspořádání",
+        "right": false
+      },
+      {
+        "body": "je dočasně platné organizační uspořádání",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hlavní úkoly dispozitivního výrobního faktoru nepatří",
+    "answers": [
+      {
+        "body": "rozhodování",
+        "right": false
+      },
+      {
+        "body": "plánování",
+        "right": false
+      },
+      {
+        "body": "kontrolování",
+        "right": false
+      },
+      {
+        "body": "komunikace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi základní determinanty užívané při konstrukci čtyřsektorové matice Boston-portfolia patří",
+    "answers": [
+      {
+        "body": "růst konkurenceschopnosti výroby",
+        "right": false
+      },
+      {
+        "body": "růst podniku",
+        "right": false
+      },
+      {
+        "body": "růst zisku",
+        "right": false
+      },
+      {
+        "body": "růst trhu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory, které mají bezprostřední vztah k předmětu výroby, patří",
+    "answers": [
+      {
+        "body": "půda",
+        "right": false
+      },
+      {
+        "body": "dispozitivní práce",
+        "right": false
+      },
+      {
+        "body": "kapitál",
+        "right": false
+      },
+      {
+        "body": "hmotný investiční majetek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro vázané živnosti je charakteristické",
+    "answers": [
+      {
+        "body": "zvýšená snaha státu o kontrolu",
+        "right": false
+      },
+      {
+        "body": "může je provozovat kdokoli",
+        "right": false
+      },
+      {
+        "body": "udělení koncese",
+        "right": false
+      },
+      {
+        "body": "nutnost doložit speciální dovednosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 2 Živnostenského zákona jsou upraveny živnosti",
+    "answers": [
+      {
+        "body": "řemeslné ",
+        "right": false
+      },
+      {
+        "body": "koncesované ",
+        "right": false
+      },
+      {
+        "body": "volné",
+        "right": false
+      },
+      {
+        "body": "vázané ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Komanditní společnost měla v uplynulém období zisk 500 000kč. Společnost byla založena jedním komanditistou a jedním komplementářem. Jakým způsobem si rozdělí zisk (zdaňte), pokud sazba daně z příjmu právnických osob je 20% a sazba daně z příjmu fyzických osob je 10%",
+    "answers": [
+      {
+        "body": "komplementář dostane 250 000kč, komanditista dostane 225 000kč",
+        "right": false
+      },
+      {
+        "body": "komplementář dostane 160 000kč, komanditista dostane 160 000kč",
+        "right": false
+      },
+      {
+        "body": "komplementář dostane 180 000kč, komanditista dostane 225 000kč",
+        "right": false
+      },
+      {
+        "body": "komplementář dostane 225 000kč, komanditista dostane 180 000kč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Společnost s ručením omezeným měla v uplynulém období zisk 100 000kč. Sazba daně z příjmu právnických osob je ve výši 20% a sazba daně z příjmu fyzických osob je ve výši 10%. Jaký zisk (zdaňte) připadne každému ze dvou společníků (oba mají 50% vlastnický podíl), pokud ve společenské smlouvě není uvedeno jinak?",
+    "answers": [
+      {
+        "body": "45 000kč",
+        "right": false
+      },
+      {
+        "body": "40 000kč",
+        "right": false
+      },
+      {
+        "body": "z údajů dostupných v zadání nelze vypočítat",
+        "right": false
+      },
+      {
+        "body": "36 000kč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je organizace financována ze základního kapitálu, jedná se o financování",
+    "answers": [
+      {
+        "body": "vnější a cizí",
+        "right": false
+      },
+      {
+        "body": "vnitřní a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a cizí",
+        "right": false
+      },
+      {
+        "body": "vnější a vlastní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Člen dozorčí rady soukromé akciové společnosti, má z titulu své funkce",
+    "answers": [
+      {
+        "body": "nárok na podíl na zisku pokud tak rozhodne valná hromada",
+        "right": false
+      },
+      {
+        "body": "nárok na tantiému ze zákona",
+        "right": false
+      },
+      {
+        "body": "nárok na podíl na zisku ze zákona",
+        "right": false
+      },
+      {
+        "body": "nárok na tantiému pokud tak rozhodne valná hromada",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z 200 kg materiálového odpadu může být vyrobeno 400 náhradních dílců. Odpad lze ocenit na 4 €/kg. Cena jednoho náhradního dílce je potom 16 €. Jak vysoká je produktivita (kvantitativní hospodárnost)?",
+    "answers": [
+      {
+        "body": "50",
+        "right": false
+      },
+      {
+        "body": "4",
+        "right": false
+      },
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "2",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Ze 4 kg těsta může být vyrobeno 400 koblížků. Cena těsta činí 10 Kč/kg. Cena jednoho koblížků je 2 Kč. Jak vysoká je hodnotově vyjádřená hospodárnost spotřeby 4 kg těsta na výrobu 400 koblížků?",
+    "answers": [
+      {
+        "body": "5",
+        "right": false
+      },
+      {
+        "body": "40",
+        "right": false
+      },
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "20",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce firma LEGO získat na provoz nové výrobní linky úvěr o velikosti 175 000 € a hradit za něj co nejnižší úroky, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "Tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z 200 kg materiálového odpadu může být vyrobeno 400 náhradních dílců. Odpad lze ocenit na 4 €/kg. Cena jednoho náhradního dílce je potom 16 €. Jak vysoká je produktivita (kvantitativní hospodárnost)?",
+    "answers": [
+      {
+        "body": "50",
+        "right": false
+      },
+      {
+        "body": "4",
+        "right": false
+      },
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "2",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Ze 4 kg těsta může být vyrobeno 400 koblížků. Cena těsta činí 10 Kč/kg. Cena jednoho koblížků je 2 Kč. Jak vysoká je hodnotově vyjádřená hospodárnost spotřeby 4 kg těsta na výrobu 400 koblížků?",
+    "answers": [
+      {
+        "body": "100",
+        "right": false
+      },
+      {
+        "body": "40",
+        "right": false
+      },
+      {
+        "body": "5",
+        "right": false
+      },
+      {
+        "body": "20",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce firma LEGO získat na provoz nové výrobní linky úvěr o velikosti 175 000 € a hradit za něj co nejnižší úroky, tak potom se jedná o:",
+    "answers": [
+      {
+        "body": "Minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "Tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce firma LEGO získat na provoz nové výrobní linky úvěr o velikosti 175 000 € a hradit za něj co nejnižší úroky, tak potom se jedná o:",
+    "answers": [
+      {
+        "body": "Minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "Tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "Minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi znaky nezávislé na hospodářském systému patří:",
+    "answers": [
+      {
+        "body": "Princip autonomie",
+        "right": false
+      },
+      {
+        "body": "Princip soukromého vlastnictví",
+        "right": false
+      },
+      {
+        "body": "Ziskový princip",
+        "right": false
+      },
+      {
+        "body": "Princip finanční rovnováhy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnikatel Ole Kirk Kristiansen není schopen dostát svým splatným závazkům, tak potom se jedná o porušení principu:",
+    "answers": [
+      {
+        "body": "Závislého na hospodářském systému",
+        "right": false
+      },
+      {
+        "body": "Hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "O porušení žádného principu se nejedná",
+        "right": false
+      },
+      {
+        "body": "Finanční rovnováhy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z 500 kilogramů umělé hmoty může být vyrobeno 750 stavebnic LEGA. Cena umělé hmoty činí 5 €/kg. Cena jedné stavebnice je 40 €. Produktivita výrobní linky vzrostla o 20%, při konstantním množství vyrobených stavebnic. Jakým způsobem se změní hodnotově vyjádřená hospodárnost spotřeby 500 kilogramů umělé hmoty? ",
+    "answers": [
+      {
+        "body": "5 %",
+        "right": false
+      },
+      {
+        "body": "10%",
+        "right": false
+      },
+      {
+        "body": "25%",
+        "right": false
+      },
+      {
+        "body": " 20%",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": ". Jestliže existuje banka se sídlem v Brně, která má 1500 zaměstnanců, obrat 1 mld. Kč, bilanční sumu 700 mil. Kč a je akciovou společností, tak potom se jedná o: ",
+    "answers": [
+      {
+        "body": "Střední podnik",
+        "right": false
+      },
+      {
+        "body": "Podnik neziskového sektoru",
+        "right": false
+      },
+      {
+        "body": "Materiálově náročný podnik",
+        "right": false
+      },
+      {
+        "body": "Podnik poskytující nehmotné statky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro dánskou firmu LEGO a.s. vyrábějící hračky pro všechny děti bez rozdílu platí:",
+    "answers": [
+      {
+        "body": "Poskytuje veřejný statek",
+        "right": false
+      },
+      {
+        "body": "Je podnik závislý na přírodních zdrojích",
+        "right": false
+      },
+      {
+        "body": "Funguje na principu veřejného vlastnictví",
+        "right": false
+      },
+      {
+        "body": "Uspokojuje především individuální potřeby",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Veřejná obchodní společnost měla v uplynulém období zisk 459 000 Kč. Sazba daně z příjmu právnických osob je ve výši 20% a sazba daně z příjmu fyzických osob je ve výši 10%. Jaký zisk (zdaňte) připadne každému ze tří společníků, pokud ve společenské smlouvě není uvedeno jinak?",
+    "answers": [
+      {
+        "body": "122 400 Kč",
+        "right": false
+      },
+      {
+        "body": "137 700 Kč",
+        "right": false
+      },
+      {
+        "body": "z údajů dostupných v zadání nelze vypočítat",
+        "right": false
+      },
+      {
+        "body": "110 160 Kč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Komanditní společnost měla v uplynulém období zisk 300 000 Kč. Společnost byla založena jedním komanditistou a jedním komplementářem. Jakým způsobem si rozdělí zisk (zdaňte), pokud sazba daně z příjmu právnických osob je 20% a sazba daně z příjmu fyzických osob je 10%?",
+    "answers": [
+      {
+        "body": "Komplementář dostane 108 000 Kč, komanditista dostane 120 000 Kč",
+        "right": false
+      },
+      {
+        "body": "Komplementář dostane 108 000 Kč, komanditista dostane 135 000 Kč",
+        "right": false
+      },
+      {
+        "body": "Komplementář dostane 150 000 Kč, komanditista dostane 135 000 Kč",
+        "right": false
+      },
+      {
+        "body": "Komplementář dostane 135 000 Kč, komanditista dostane 108 000 Kč",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kvantitativní ekonomický princip lze vyjádřit jako:",
+    "answers": [
+      {
+        "body": "Daného zisku je třeba dosáhnout s daným množstvím spotřebovaných výrobních faktorů",
+        "right": false
+      },
+      {
+        "body": "Daného množství vyprodukovaných statků je nutno dosáhnout s daným množstvím spotřebovaných výrobních faktorů",
+        "right": false
+      },
+      {
+        "body": "S daným množstvím výrobních faktorů je třeba dosáhnout co nejvyššího zisku",
+        "right": false
+      },
+      {
+        "body": "Daného množství vyprodukovaných statků je nutno dosáhnout s co nejnižším množstvím spotřebovaných výrobních faktorů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi základní charakteristiky podniků nepatří:",
+    "answers": [
+      {
+        "body": "Organizovaná hospodářská jednotka ",
+        "right": false
+      },
+      {
+        "body": "Zhotovování statků a služeb",
+        "right": false
+      },
+      {
+        "body": "Založení ze zákona",
+        "right": false
+      },
+      {
+        "body": "Soukromé vlastnictví",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Princip autonomie znamená, že:",
+    "answers": [
+      {
+        "body": "Organizace sama určuje ceny vstupů a výstupů",
+        "right": false
+      },
+      {
+        "body": "Organizace je nezávislá na zahraničních subjektech",
+        "right": false
+      },
+      {
+        "body": "Organizace je řízena demokraticky zvolenými zástupci",
+        "right": false
+      },
+      {
+        "body": " Organizace si sama určuje výrobní plán",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi prostředky odstraňování slabin tržní ekonomiky nepatří:",
+    "answers": [
+      {
+        "body": "Intervence centrální banky",
+        "right": false
+      },
+      {
+        "body": "Existence progresivní daně z příjmů",
+        "right": false
+      },
+      {
+        "body": "Zákon o ochraně hospodářské soutěže",
+        "right": false
+      },
+      {
+        "body": "Existence jedné politické strany",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": " Klasifikace CZ-NACE dělí české organizace na základě:",
+    "answers": [
+      {
+        "body": "Velikosti organizace",
+        "right": false
+      },
+      {
+        "body": "Sídla organizace",
+        "right": false
+      },
+      {
+        "body": "Dosažených hospodářských výsledků",
+        "right": false
+      },
+      {
+        "body": " Odvětví hospodářské činnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnikatel připravuje podnikatelský záměr, shání kapitál a pořizuje majetek, jedná se z hlediska životního cyklu o fázi podniku:",
+    "answers": [
+      {
+        "body": "Růstu",
+        "right": false
+      },
+      {
+        "body": "Stabilizace",
+        "right": false
+      },
+      {
+        "body": "Krize",
+        "right": false
+      },
+      {
+        "body": "Zakládání",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro fázi stabilizace podniku je typické:",
+    "answers": [
+      {
+        "body": "Převis nákladů nad výnosy, restrukturalizace",
+        "right": false
+      },
+      {
+        "body": "Nábor nových zaměstnanců",
+        "right": false
+      },
+      {
+        "body": "Formulace vize a strategie podniku, tvorba společenské smlouvy",
+        "right": false
+      },
+      {
+        "body": "Maximalizace zisku, výše investic odpovídají výši odpisů DHM",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro fázi krize podniku je typické:",
+    "answers": [
+      {
+        "body": "Akvizice jiných podniků",
+        "right": false
+      },
+      {
+        "body": "Růst tržního podílu",
+        "right": false
+      },
+      {
+        "body": "Zvyšování mzdových nákladů",
+        "right": false
+      },
+      {
+        "body": "Sanační opatření",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V případě reorganizace zpravidla platí, že:",
+    "answers": [
+      {
+        "body": "Dispozitivní práce je zcela nahrazena výkonnou",
+        "right": false
+      },
+      {
+        "body": "Jsou odprodána veškerá aktiva podniku",
+        "right": false
+      },
+      {
+        "body": "Je soudem přidělen reorganizační správce",
+        "right": false
+      },
+      {
+        "body": "Podnik dále provozuje svou činnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V případě konkurzu zpravidla platí, že:",
+    "answers": [
+      {
+        "body": "Podnik omezí objem výroby na zákonem stanovenou mez",
+        "right": false
+      },
+      {
+        "body": "Podnik ukončí svou činnost a zaniká",
+        "right": false
+      },
+      {
+        "body": "Pohledávky věřitelů jsou zcela uspokojeny",
+        "right": false
+      },
+      {
+        "body": "Je v konkurzním řízení vybráno nové vedení podniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V případě, že se podnik ruší bez likvidace, tak zpravidla:",
+    "answers": [
+      {
+        "body": "Pohledávky a závazky přecházejí na právního nástupce",
+        "right": false
+      },
+      {
+        "body": "Sanační opatření byla úspěšná",
+        "right": false
+      },
+      {
+        "body": "Aktiva podniku jsou v plné výši převedena na stát",
+        "right": false
+      },
+      {
+        "body": "Jsou všichni zaměstnanci ze zákona propuštěni",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Sanační opatření zpravidla zahrnují:",
+    "answers": [
+      {
+        "body": "Okamžité splacení závazků z obchodních vztahů",
+        "right": false
+      },
+      {
+        "body": "Výběr právního nástupce podniku",
+        "right": false
+      },
+      {
+        "body": "Vyhlášení konkurzu u příslušného soudu",
+        "right": false
+      },
+      {
+        "body": "Změnu organizační struktury",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro krizi vedení je typické:",
+    "answers": [
+      {
+        "body": "Nedostatek elektrické energie pro výrobní proces",
+        "right": false
+      },
+      {
+        "body": "Zaměstnanci nedocházejí do zaměstnání",
+        "right": false
+      },
+      {
+        "body": "Pracovníci úklidu vědí všechno první",
+        "right": false
+      },
+      {
+        "body": "Přetížení vlastníků a top managementů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro krizi kontroly je typické:",
+    "answers": [
+      {
+        "body": "Hierarchická organizační struktura",
+        "right": false
+      },
+      {
+        "body": "Chybí delegace pravomocí",
+        "right": false
+      },
+      {
+        "body": "Neudržitelný růst mezd manažerů",
+        "right": false
+      },
+      {
+        "body": "Vnitřní konflikty, nedostatek koordinace a komunikace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi důvody zrušení podniku patří:",
+    "answers": [
+      {
+        "body": "Prodej kontrolního balíku akcií do Číny",
+        "right": false
+      },
+      {
+        "body": "Dosažení záporného mimořádného výsledku hospodaření",
+        "right": false
+      },
+      {
+        "body": " Dosažení účelu, pro který byl podnik zřízen",
+        "right": false
+      },
+      {
+        "body": "Smrt jednoho z jednatelů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro založení podniku je nezbytné:",
+    "answers": [
+      {
+        "body": "Vygenerování UČO a nahlášení ministerstvu průmyslu a obchodu",
+        "right": false
+      },
+      {
+        "body": "Registrace v Krajské hospodářské komoře",
+        "right": false
+      },
+      {
+        "body": "Ukončení stávající podnikatelské činnosti",
+        "right": false
+      },
+      {
+        "body": "Zaregistrování obchodního jména firmy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Teorie životního cyklu podniku vychází zejména z:",
+    "answers": [
+      {
+        "body": "Zkušeností vlastníků a manažerů",
+        "right": false
+      },
+      {
+        "body": "Objemu pořizovaných technologií",
+        "right": false
+      },
+      {
+        "body": "Výše mzdových nákladů",
+        "right": false
+      },
+      {
+        "body": "Průběhu příjmů a výdajů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro životní cyklus organizace veřejné správy je typické:",
+    "answers": [
+      {
+        "body": "Zaměstnanci jsou dosazováni na politickou objednávku",
+        "right": false
+      },
+      {
+        "body": "Alokace prostředků probíhá chaoticky a nesystémově",
+        "right": false
+      },
+      {
+        "body": "Všechny uvedené možnosti jsou bohužel správně",
+        "right": false
+      },
+      {
+        "body": "Růst organizace je způsoben legislativně",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V rámci likvidace podniku v popisu práce likvidátora není:",
+    "answers": [
+      {
+        "body": "Vypořádání odvodů, daní a poplatků",
+        "right": false
+      },
+      {
+        "body": "Prodej majetku veřejnou dražbou",
+        "right": false
+      },
+      {
+        "body": "Řešení pracovněprávních vztahů",
+        "right": false
+      },
+      {
+        "body": "Převod akcií společnosti na právního nástupce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi externí příčiny krize organizace nepatří:",
+    "answers": [
+      {
+        "body": "Vývoj měnových kurzů",
+        "right": false
+      },
+      {
+        "body": "Situace na trhu práce",
+        "right": false
+      },
+      {
+        "body": "Legislativní změny",
+        "right": false
+      },
+      {
+        "body": "Nedostatečná distribuční síť",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako podnik (podle obchodního zákoníku) označujeme:",
+    "answers": [
+      {
+        "body": "Občanské sdružení",
+        "right": false
+      },
+      {
+        "body": "Ministerstvo",
+        "right": false
+      },
+      {
+        "body": "Živnostník",
+        "right": false
+      },
+      {
+        "body": "Akciová společnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro podnik jednotlivce je typické:",
+    "answers": [
+      {
+        "body": "Existence podniku spojena s rodinnými příslušníky podnikatele",
+        "right": false
+      },
+      {
+        "body": "Dvojí zdanění daní z příjmů",
+        "right": false
+      },
+      {
+        "body": "Pevně dané místo podnikání",
+        "right": false
+      },
+      {
+        "body": "Neomezené ručení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": " Pro veřejnou obchodní společnost je typické:",
+    "answers": [
+      {
+        "body": "Složení základního kapitálu ve výši 200 000 Kč",
+        "right": false
+      },
+      {
+        "body": "Oddělení vlastnictví od řízení",
+        "right": false
+      },
+      {
+        "body": "Poskytování veřejných statků",
+        "right": false
+      },
+      {
+        "body": "Existence podniku spojena s několika vlastníky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro společnost s ručením omezeným je typické:",
+    "answers": [
+      {
+        "body": "Jedno zdanění daní z příjmu fyzických osob",
+        "right": false
+      },
+      {
+        "body": "Smí založit pouze fyzická osoba",
+        "right": false
+      },
+      {
+        "body": "Maximální výše základního kapitálu při založení",
+        "right": false
+      },
+      {
+        "body": "Zařazení mezi obchodní společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Akciová společnost má dáno zákonem:",
+    "answers": [
+      {
+        "body": "Počet členů představenstva",
+        "right": false
+      },
+      {
+        "body": "Veřejná obchodovatelnost na burze",
+        "right": false
+      },
+      {
+        "body": "Výše roční emise akcií",
+        "right": false
+      },
+      {
+        "body": "Výši minimálního základního kapitálu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro družstvo je typické:",
+    "answers": [
+      {
+        "body": "Maximální počet členů",
+        "right": false
+      },
+      {
+        "body": "Existence pouze v centrálně plánovaném hospodářství",
+        "right": false
+      },
+      {
+        "body": "Podnikání v sektoru zemědělství",
+        "right": false
+      },
+      {
+        "body": "Dvojí zdanění daní z příjmů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro veřejnou vysokou školu (například Masarykovu univerzitu) je charakteristické:",
+    "answers": [
+      {
+        "body": "Poskytování statků za účelem zisku",
+        "right": false
+      },
+      {
+        "body": "Zaměstnanci pracují na živnostenský list",
+        "right": false
+      },
+      {
+        "body": "Zápis v obchodním rejstříku",
+        "right": false
+      },
+      {
+        "body": "Vznik ze zákona",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi orgány společnosti s ručením omezeným patří:",
+    "answers": [
+      {
+        "body": "Členská schůze",
+        "right": false
+      },
+      {
+        "body": "Představenstvo",
+        "right": false
+      },
+      {
+        "body": "Sdružení vlastníků",
+        "right": false
+      },
+      {
+        "body": "Valná hromada",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi orgány akciové společnosti patří:",
+    "answers": [
+      {
+        "body": "Jednatelé",
+        "right": false
+      },
+      {
+        "body": "Akcionáři",
+        "right": false
+      },
+      {
+        "body": "Komplementáři",
+        "right": false
+      },
+      {
+        "body": "Představenstvo",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro družstvo je charakteristické:",
+    "answers": [
+      {
+        "body": "Nejvyšším orgánem je představenstvo",
+        "right": false
+      },
+      {
+        "body": "Statutárním orgánem je členská schůze",
+        "right": false
+      },
+      {
+        "body": "Zisk je zdaněn pouze daní z příjmu fyzických osob",
+        "right": false
+      },
+      {
+        "body": "Základní kapitál má minimální povinnou výši",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro státní podniky zpravidla platí:",
+    "answers": [
+      {
+        "body": "V tržním hospodářství neexistují",
+        "right": false
+      },
+      {
+        "body": "Vypisují státní zakázky",
+        "right": false
+      },
+      {
+        "body": "Cílem je poskytovat veřejné statky",
+        "right": false
+      },
+      {
+        "body": "Hospodaří se státním majetkem",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Tantiémy jsou vypláceny:",
+    "answers": [
+      {
+        "body": "Tetám vlastníků s německým občanstvím",
+        "right": false
+      },
+      {
+        "body": "Z hrubého zisku",
+        "right": false
+      },
+      {
+        "body": " Družstevníkům",
+        "right": false
+      },
+      {
+        "body": " Členům dozorčí rady",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": " Emisní ážio je:",
+    "answers": [
+      {
+        "body": "Množství emitovaných akcií",
+        "right": false
+      },
+      {
+        "body": "Rozdíl mezi aktuální a poslední uskutečněnou emisí akcií",
+        "right": false
+      },
+      {
+        "body": "Doba, po kterou lze emitované akcie zakoupit",
+        "right": false
+      },
+      {
+        "body": "Rozdíl mezi nominální hodnotou a emisní hodnotou akcií",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podnikání dle obchodního zákoníku znamená:",
+    "answers": [
+      {
+        "body": "Činnost prováděná za účelem udržení zaměstnanosti",
+        "right": false
+      },
+      {
+        "body": "Činnost prováděná pod marketingovou značkou",
+        "right": false
+      },
+      {
+        "body": "Činnost prováděná na odpovědnost státu",
+        "right": false
+      },
+      {
+        "body": "Činnost prováděná za účelem dosažení zisku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obchodní firmou se dle obchodního zákoníku myslí:",
+    "answers": [
+      {
+        "body": "Mikroekonomické označení pro podnik",
+        "right": false
+      },
+      {
+        "body": "Speciální forma podniku",
+        "right": false
+      },
+      {
+        "body": "Označení zahraničních podnikatelských subjektů",
+        "right": false
+      },
+      {
+        "body": "Název, pod kterým je podnikatel zapsán v obchodním rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce pan Novák podniknout co nejdelší cestu po Evropě a hradit za ní co nejméně peněz, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "maximalizaci racionality",
+        "right": false
+      },
+      {
+        "body": "maximalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "maximalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "tuto situaci nelze optimalizovat",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je v tržním hospodářském systému organizaci určován plán její činnosti státní autoritou (např. ministerstvem), potom se jedná o porušení principu",
+    "answers": [
+      {
+        "body": "orgánu",
+        "right": false
+      },
+      {
+        "body": "plnění plánu",
+        "right": false
+      },
+      {
+        "body": "soukromého vlastnictv",
+        "right": false
+      },
+      {
+        "body": "autonomie",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže podnik dosahuje maxima zisku a s ohledem na trh má optimální velikost, tak potom se z hlediska životního cyklu jedná o fázi",
+    "answers": [
+      {
+        "body": "krize",
+        "right": false
+      },
+      {
+        "body": "růstu",
+        "right": false
+      },
+      {
+        "body": "zakládání",
+        "right": false
+      },
+      {
+        "body": "stabilizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Opatření, které mění strukturu práce (např. zavádí rozhodovací a kontrolní pravomoci), se nazývá",
+    "answers": [
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": false
+      },
+      {
+        "body": "pracovní rotace",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Z účetního hlediska patří mezi výrobní faktory organizace",
+    "answers": [
+      {
+        "body": "zásoby hotových výrobků",
+        "right": false
+      },
+      {
+        "body": "peníze na běžném účtě",
+        "right": false
+      },
+      {
+        "body": "pohledávky",
+        "right": false
+      },
+      {
+        "body": "zásoby materiálu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Manažerská technika, která spočívá v delegaci jasně vymezených úkolů na podřízeného, přičemž manažer pouze kontroluje výsledky, se nazývá",
+    "answers": [
+      {
+        "body": "řízení podle cílů",
+        "right": false
+      },
+      {
+        "body": "řízení pomocí regulace systému",
+        "right": false
+      },
+      {
+        "body": "řízení podle výjimek",
+        "right": false
+      },
+      {
+        "body": "řízení delegací úkolů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi právní formy podniku (podle zákona o obchodních korporacích) nepatří",
+    "answers": [
+      {
+        "body": "akciová společnost",
+        "right": false
+      },
+      {
+        "body": "společnost s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "komanditní společnost",
+        "right": false
+      },
+      {
+        "body": "podnik jednotlivce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vrcholovým cílem podniku v tržní ekonomice je zpravidla",
+    "answers": [
+      {
+        "body": "zajištění plné zaměstnanosti",
+        "right": false
+      },
+      {
+        "body": "zajištění vzdělanosti obyvatelstva",
+        "right": false
+      },
+      {
+        "body": "růst podílu na trhu",
+        "right": false
+      },
+      {
+        "body": "dlouhodobá maximalizace zisku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle snížení nákladů ve výrobě (při zachování kvality) produktu a růst obratu jsou s ohledem na vzájemný vztah cíle",
+    "answers": [
+      {
+        "body": "konkurenční",
+        "right": false
+      },
+      {
+        "body": "indiferentní",
+        "right": false
+      },
+      {
+        "body": "protikladné",
+        "right": false
+      },
+      {
+        "body": "komplementární",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže dva útvary v rámci organizace sledují rozdílné (vzájemně konkurenční) cíle, tak potom nastává cílový konflikt",
+    "answers": [
+      {
+        "body": "hierarchicky podmíněný",
+        "right": false
+      },
+      {
+        "body": "manažerský",
+        "right": false
+      },
+      {
+        "body": "individuální",
+        "right": false
+      },
+      {
+        "body": "uvnitř organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi orgány akciové společnosti nepatří",
+    "answers": [
+      {
+        "body": "představenstvo",
+        "right": false
+      },
+      {
+        "body": "dozorčí rada",
+        "right": false
+      },
+      {
+        "body": "valná hromada",
+        "right": false
+      },
+      {
+        "body": "jednatel (jednatelé)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Zvláštní podmínky provozování živnosti (odbornou nebo jinou způsobilost) není nutno prokazovat v rámci živnosti",
+    "answers": [
+      {
+        "body": "řemeslné",
+        "right": false
+      },
+      {
+        "body": "koncesované",
+        "right": false
+      },
+      {
+        "body": "vázané",
+        "right": false
+      },
+      {
+        "body": "volné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nízké náklady založení (bez nutnosti skládat základní kapitál všemi společníky), neomezené ručení, jedno zdanění daní z příjmů u všech společníků, existence podniku spojena s několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "družstva",
+        "right": false
+      },
+      {
+        "body": "podniku jednotlivce",
+        "right": false
+      },
+      {
+        "body": "veřejné obchodní společnosti",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud obchodní jmění podniku (včetně pohledávek a závazků) přechází na právního nástupce, tak potom se podnik zpravidla",
+    "answers": [
+      {
+        "body": "nezruší",
+        "right": false
+      },
+      {
+        "body": "zruší výmazem z obchodního rejstříku",
+        "right": false
+      },
+      {
+        "body": "zruší s likvidací",
+        "right": false
+      },
+      {
+        "body": "zruší bez likvidace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle výlučné vlastnictví dlouhodobého majetku podniku a společné vlastnictví budovy s dalším podnikatelským subjektem jsou s ohledem na vzájemný vztah cíle",
+    "answers": [
+      {
+        "body": "indiferentní",
+        "right": false
+      },
+      {
+        "body": "konkurenční",
+        "right": false
+      },
+      {
+        "body": "komplementární",
+        "right": false
+      },
+      {
+        "body": "protikladné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro veřejnou vysokou školu (například Masarykovu univerzitu) není charakteristické:samospráva",
+    "answers": [
+      {
+        "body": "samospráva",
+        "right": false
+      },
+      {
+        "body": "založení (vznik) ze zákona",
+        "right": false
+      },
+      {
+        "body": "poskytování smíšeného statku",
+        "right": false
+      },
+      {
+        "body": "řízení ministrem školství",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi důvody zrušení podniku nepatří",
+    "answers": [
+      {
+        "body": "dosažení účelu, pro který byl podnik zřízen",
+        "right": false
+      },
+      {
+        "body": "rozhodnutí soudu o zrušení podniku",
+        "right": false
+      },
+      {
+        "body": "uplynutí doby, na kterou byl podnik založen",
+        "right": false
+      },
+      {
+        "body": "zahájení insolvenčního řízení",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nutnost skládat základní kapitál u všech společníků, neomezený počet vlastníků, dvojí zdanění daní z příjmů u všech společníků, existence podniku spojena s několika vlastníky, jsou charakteristiky",
+    "answers": [
+      {
+        "body": "akciové společnosti",
+        "right": false
+      },
+      {
+        "body": "komanditní společnosti",
+        "right": false
+      },
+      {
+        "body": "společnosti s ručením omezeným",
+        "right": false
+      },
+      {
+        "body": "družstva",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dispozitivní práce je vůči ostatním podnikohospodářským výrobním faktorům v postavení",
+    "answers": [
+      {
+        "body": "žádná odpověď není správná",
+        "right": false
+      },
+      {
+        "body": "nadřazeném",
+        "right": false
+      },
+      {
+        "body": "podřazeném",
+        "right": false
+      },
+      {
+        "body": "rovnocenném",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže chce podnikatel získat 50 000 Kč úvěr a hradit za něj co nejnižší úroky, tak potom se jedná o",
+    "answers": [
+      {
+        "body": "minimalizaci hodnotově vyjádřené hospodárnosti",
+        "right": false
+      },
+      {
+        "body": "tuto situaci nelze minimalizovat",
+        "right": false
+      },
+      {
+        "body": "minimalizaci produktivity",
+        "right": false
+      },
+      {
+        "body": "minimalizaci nákladů na cizí kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl monetární lze klasifikovat cíl",
+    "answers": [
+      {
+        "body": "zajištění zásobování obyvatelstva",
+        "right": false
+      },
+      {
+        "body": "růst podílu na trhu",
+        "right": false
+      },
+      {
+        "body": "ochrana životního prostředí",
+        "right": false
+      },
+      {
+        "body": "růst tržeb",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obchodní firmou se dle obchodního zákoníku myslí:",
+    "answers": [
+      {
+        "body": "Mikroekonomické označení pro podnik",
+        "right": false
+      },
+      {
+        "body": "Speciální forma podniku",
+        "right": false
+      },
+      {
+        "body": "Označení zahraničních podnikatelských subjektů",
+        "right": false
+      },
+      {
+        "body": "Název, pod kterým je podnikatel zapsán v obchodním rejstříku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Živnost je charakteristická:",
+    "answers": [
+      {
+        "body": "Povinností vytvářet základní kapitál",
+        "right": false
+      },
+      {
+        "body": "Vlastnictvím pouze jediné fyzické osoby",
+        "right": false
+      },
+      {
+        "body": "Povinnou registrací u Evropské komise",
+        "right": false
+      },
+      {
+        "body": "Vlastnictvím pouze jediného podnikatele nebo několika společníků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi všeobecné podmínky provozování živností patří:",
+    "answers": [
+      {
+        "body": "Doložená praxe v oboru",
+        "right": false
+      },
+      {
+        "body": "Fyzická osoba",
+        "right": false
+      },
+      {
+        "body": "Věk 15 let",
+        "right": false
+      },
+      {
+        "body": "Bezúhonnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 1 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Vázané",
+        "right": false
+      },
+      {
+        "body": "Volné",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 2 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Volné",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": false
+      },
+      {
+        "body": "Vázané",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 3 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Vázané",
+        "right": false
+      },
+      {
+        "body": "Volné",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V příloze číslo 4 Živnostenského zákona jsou upraveny živnosti:",
+    "answers": [
+      {
+        "body": "Vázané",
+        "right": false
+      },
+      {
+        "body": "Koncesované",
+        "right": false
+      },
+      {
+        "body": "Řemeslné",
+        "right": false
+      },
+      {
+        "body": "Volné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Kritériem členění podniků dle velikosti v EU je:",
+    "answers": [
+      {
+        "body": "Velikost příjmů",
+        "right": false
+      },
+      {
+        "body": "Velikost produkce v objemovém vyjádření",
+        "right": false
+      },
+      {
+        "body": "Velikost základního kapitálu",
+        "right": false
+      },
+      {
+        "body": "Velikost bilanční sumy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Koncesované živnosti se vyznačují:",
+    "answers": [
+      {
+        "body": "Vysoké riziko ohrožení mravní výchovy mládeže",
+        "right": false
+      },
+      {
+        "body": "Na získání koncese je právní nárok",
+        "right": false
+      },
+      {
+        "body": "Omezený počet koncesí pro obor",
+        "right": false
+      },
+      {
+        "body": "Spolehlivost podnikatele i jeho zaměstnanců",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vztah živnosti a malého podniku je:",
+    "answers": [
+      {
+        "body": "Podnikatel si musí vybrat, zda chce být živnostníkem nebo podnikem jednotlivce",
+        "right": false
+      },
+      {
+        "body": "Do malých podniků se počítají jen živnosti právnických osob",
+        "right": false
+      },
+      {
+        "body": "Živnosti tvoří zlomek z počtu malých podniků",
+        "right": false
+      },
+      {
+        "body": "Živnosti jsou brány jako malé podniky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi výhody malých a středních podniků nepatří:",
+    "answers": [
+      {
+        "body": "Pružné reagování na změny",
+        "right": false
+      },
+      {
+        "body": "Odolnost proti hospodářské recesi",
+        "right": false
+      },
+      {
+        "body": "Inovativnost",
+        "right": false
+      },
+      {
+        "body": "Malá konkurence",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nevýhody malých a středních podniků nepatří:",
+    "answers": [
+      {
+        "body": "Omezené možnosti získávání výhod z rozsahu produkce",
+        "right": false
+      },
+      {
+        "body": "Vyšší intenzita práce a méně příznivé pracovní podmínky",
+        "right": false
+      },
+      {
+        "body": "Omezené prostředky na propagaci a reklamu",
+        "right": false
+      },
+      {
+        "body": "Nižší likvidita a rentabilita",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hlavní formy podpory malého a středního podnikání nepatří:",
+    "answers": [
+      {
+        "body": "Slevy na dani",
+        "right": false
+      },
+      {
+        "body": "Dotace",
+        "right": false
+      },
+      {
+        "body": "Záruky za úvěry",
+        "right": false
+      },
+      {
+        "body": "Příspěvky a finanční výpomoci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro výrobní faktory není typické:",
+    "answers": [
+      {
+        "body": "Jejich kombinací vzniká výstup",
+        "right": false
+      },
+      {
+        "body": "Jejich strukturu si podnik určuje individuálně",
+        "right": false
+      },
+      {
+        "body": "Jejich cena je dána trhem",
+        "right": false
+      },
+      {
+        "body": "Jejich množství je neomezené",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory patří:",
+    "answers": [
+      {
+        "body": "Základní kapitál",
+        "right": false
+      },
+      {
+        "body": "Půda",
+        "right": false
+      },
+      {
+        "body": "Vlastníci",
+        "right": false
+      },
+      {
+        "body": "Materiál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do originální činnosti dispozitivního výrobního faktoru v organizaci nespadá: ",
+    "answers": [
+      {
+        "body": "Vedení",
+        "right": false
+      },
+      {
+        "body": "Stanovení cílů",
+        "right": false
+      },
+      {
+        "body": "Rozhodování",
+        "right": false
+      },
+      {
+        "body": "Montování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vůči ostatním výrobním faktorům je v nadřazeném postavení:",
+    "answers": [
+      {
+        "body": "Materiál",
+        "right": false
+      },
+      {
+        "body": "Hmotný investiční majetek",
+        "right": false
+      },
+      {
+        "body": "Výkonná práce",
+        "right": false
+      },
+      {
+        "body": "Dispozitivní práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi funkce řízení v organizaci patří:",
+    "answers": [
+      {
+        "body": "Investování",
+        "right": false
+      },
+      {
+        "body": "Financování",
+        "right": false
+      },
+      {
+        "body": "Nakupování",
+        "right": false
+      },
+      {
+        "body": "Plánování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako náklad na výrobní faktor dlouhodobý majetek označujeme:",
+    "answers": [
+      {
+        "body": "Renta",
+        "right": false
+      },
+      {
+        "body": "Přidaná hodnota",
+        "right": false
+      },
+      {
+        "body": "Mzda",
+        "right": false
+      },
+      {
+        "body": "Odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro vlastnický podnik je typické:",
+    "answers": [
+      {
+        "body": "Podnik nemá zaměstnance",
+        "right": false
+      },
+      {
+        "body": "Náklady na práci jsou rovny mzdě vlastníků",
+        "right": false
+      },
+      {
+        "body": "Jedinou možnou právní formou je veřejná obchodní společnost",
+        "right": false
+      },
+      {
+        "body": "Vlastníci nesou podnikatelské riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro manažerskou organizaci je typické:",
+    "answers": [
+      {
+        "body": "Typickým příkladem je veřejná obchodní společnost",
+        "right": false
+      },
+      {
+        "body": "Manažeři a vlastníci jsou tytéž osoby",
+        "right": false
+      },
+      {
+        "body": "Počet manažerů musí být vyšší než počet vlastníků",
+        "right": false
+      },
+      {
+        "body": "Manažeři jsou zaměstnanci organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Oddělení vlastnictví od řízení je v podnicích nejčastěji spojeno s následujícím problémem: ",
+    "answers": [
+      {
+        "body": "Nucené ukončení činnosti firmy",
+        "right": false
+      },
+      {
+        "body": "Potřeba dvou oddělených výrobních závodů",
+        "right": false
+      },
+      {
+        "body": "Ztráta suverenity podniku",
+        "right": false
+      },
+      {
+        "body": "Protichůdnost zájmů vlastníků a managementu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro direktoriální princip je typické:",
+    "answers": [
+      {
+        "body": "Pouze jedna osoba ředitele",
+        "right": false
+      },
+      {
+        "body": "Generálním ředitelem je vlastník",
+        "right": false
+      },
+      {
+        "body": "Všechny stupně řízení mají stejné oprávnění",
+        "right": false
+      },
+      {
+        "body": "Při rozhodování má konečné slovo jediná osoba",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cílem corporate governance je:",
+    "answers": [
+      {
+        "body": "Řízení organizace výhradně externími odborníky",
+        "right": false
+      },
+      {
+        "body": "Řízení organizace dle modelu veřejných společností",
+        "right": false
+      },
+      {
+        "body": "Řízení organizace s nejnižšími možnými náklady",
+        "right": false
+      },
+      {
+        "body": "Řízení organizace na základě optimálního rozdělení dispozičních práv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Posledním krokem v řídícím procesu dispozitivního faktoru je:",
+    "answers": [
+      {
+        "body": "Plánování",
+        "right": false
+      },
+      {
+        "body": "Kontrola",
+        "right": false
+      },
+      {
+        "body": "Delegování",
+        "right": false
+      },
+      {
+        "body": "Výběr vhodné varianty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do výrobního faktoru dlouhodobý hmotný majetek patří:",
+    "answers": [
+      {
+        "body": "Tažná zvířata",
+        "right": false
+      },
+      {
+        "body": "Goodwill",
+        "right": false
+      },
+      {
+        "body": "Nedokončená výroba",
+        "right": false
+      },
+      {
+        "body": "Cenné papíry",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do výrobního faktoru materiál patří:",
+    "answers": [
+      {
+        "body": "Uklízečky",
+        "right": false
+      },
+      {
+        "body": "Mobilní telefony",
+        "right": false
+      },
+      {
+        "body": "Akcie",
+        "right": false
+      },
+      {
+        "body": "Polotovary",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro výrobní faktor dispozitivní práce platí:",
+    "answers": [
+      {
+        "body": "Je vždy k dispozici",
+        "right": false
+      },
+      {
+        "body": "Zpravidla nevyužívá výrobní faktor materiál",
+        "right": false
+      },
+      {
+        "body": "Je vždy ze všech výrobních faktorů nejnákladnějších",
+        "right": false
+      },
+      {
+        "body": "Řídí výkonnou práci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vrcholovým cílem podniku v tržní ekonomice je zpravidla:",
+    "answers": [
+      {
+        "body": "Maximalizace daňových odvodů",
+        "right": false
+      },
+      {
+        "body": "Dobré vztahy s odboráři",
+        "right": false
+      },
+      {
+        "body": "Maximalizace počtu akcionářů",
+        "right": false
+      },
+      {
+        "body": "Dlouhodobá maximalizace zisku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl monetární lze klasifikovat cíl:",
+    "answers": [
+      {
+        "body": "Růst tržního podílu",
+        "right": false
+      },
+      {
+        "body": "Zajištění zaměstnanosti",
+        "right": false
+      },
+      {
+        "body": "Získání politického vlivu",
+        "right": false
+      },
+      {
+        "body": "Růst obratu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární ekonomický lze klasifikovat cíl:",
+    "answers": [
+      {
+        "body": "Růst hospodářského výsledku po zdanění",
+        "right": false
+      },
+      {
+        "body": "Růst obratu aktiv",
+        "right": false
+      },
+      {
+        "body": "Růst tržeb",
+        "right": false
+      },
+      {
+        "body": "Vedení v nejnižších nákladech",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jako cíl nemonetární mimoekonomický lze klasifikovat cíl:",
+    "answers": [
+      {
+        "body": "Dominantní postavení na lokálním trhu",
+        "right": false
+      },
+      {
+        "body": "Růst krátkodobé likvidity",
+        "right": false
+      },
+      {
+        "body": "Minimalizace daňových odvodů",
+        "right": false
+      },
+      {
+        "body": "Ochrana životního prostředí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle minimalizace osobních nákladů a maximalizace čistého zisku jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Konkurenční",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": false
+      },
+      {
+        "body": "Komplementární",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle maximalizace objemu zásob a minimalizace nedokončené výroby jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Komplementární",
+        "right": false
+      },
+      {
+        "body": "Konkurenční",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle maximalizace tržního podílu a snížení nákladu na pořízení materiálu jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Komplementární",
+        "right": false
+      },
+      {
+        "body": "Konkurenční",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Cíle růst běžné likvidity a růst rentability celkových aktiv jsou s ohledem na vzájemný vztah cíle: ",
+    "answers": [
+      {
+        "body": "Komplementární",
+        "right": false
+      },
+      {
+        "body": "Protikladné",
+        "right": false
+      },
+      {
+        "body": "Indiferentní",
+        "right": false
+      },
+      {
+        "body": "Konkurenční",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže oddělení marketingu žádá o maximální příspěvky na reklamu a finanční oddělení chce minimalizovat režijní náklady, jedná se o cílový konflikt: ",
+    "answers": [
+      {
+        "body": "Individuální",
+        "right": false
+      },
+      {
+        "body": "Hierarchicky podmíněný",
+        "right": false
+      },
+      {
+        "body": "Manažerský",
+        "right": false
+      },
+      {
+        "body": "Uvnitř organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "K motivaci zaměstnanců zpravidla nepřispívá:",
+    "answers": [
+      {
+        "body": "Pracovní podmínky",
+        "right": false
+      },
+      {
+        "body": "Odměna za práci",
+        "right": false
+      },
+      {
+        "body": "Podnikové sociální požitky",
+        "right": false
+      },
+      {
+        "body": "Protipožární směrnice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obohacení práce znamená:",
+    "answers": [
+      {
+        "body": "Změna pracovního kolektivu",
+        "right": false
+      },
+      {
+        "body": "Změna odměny za práci",
+        "right": false
+      },
+      {
+        "body": "Změna pracovních předpisů",
+        "right": false
+      },
+      {
+        "body": "Změna struktury práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro řízení dle výjimek je typické:",
+    "answers": [
+      {
+        "body": "Práce pouze na výjimečných úkolech",
+        "right": false
+      },
+      {
+        "body": "Přenechávání práce výjimečným zaměstnancům",
+        "right": false
+      },
+      {
+        "body": "Nahodilá a občasná kontrola práce podřízených",
+        "right": false
+      },
+      {
+        "body": "Samostatná práce s minimálními zásahy nadřízených",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro řízení delegací úkolů je typické:",
+    "answers": [
+      {
+        "body": "Dispozitivní práce je zcela delegována na práci výkonnou",
+        "right": false
+      },
+      {
+        "body": "Všechny stupně řízení mohou své úkoly libovolně přenechávat nižším stupňům",
+        "right": false
+      },
+      {
+        "body": "Delegovány jsou klíčové strategické úkoly",
+        "right": false
+      },
+      {
+        "body": "Pracovníci se sami rozhodují v rámci vymezených úkolů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro řízení podle cílů je typické:",
+    "answers": [
+      {
+        "body": "Všechny podnikové cíle jsou komplementární nebo indiferentní",
+        "right": false
+      },
+      {
+        "body": "Cíle podniku vycházejí z cílů konkurence",
+        "right": false
+      },
+      {
+        "body": "Strategické cíle jsou upřednostňovány před dlouhodobými cíli podniku",
+        "right": false
+      },
+      {
+        "body": "Úkoly a odpovědnost zaměstnance jsou určeny dle cílů, kterých má dosáhnout",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V rámci výrobkové politiky je nutné vyřešit",
+    "answers": [
+      {
+        "body": "podporu prodeje",
+        "right": false
+      },
+      {
+        "body": "fyzickou distribuci",
+        "right": false
+      },
+      {
+        "body": "platební podmínky",
+        "right": false
+      },
+      {
+        "body": "služby zákazníkům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formulace a plánování základních principů organizace, které mohou obsahovat i sociální rozměr a které jsou zpravidla velmi obecná, se nazývá",
+    "answers": [
+      {
+        "body": "taktické plánování",
+        "right": false
+      },
+      {
+        "body": "strategické plánování",
+        "right": false
+      },
+      {
+        "body": "operativní plánování",
+        "right": false
+      },
+      {
+        "body": "plánování vize",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi výhody pružnosti organizace patří",
+    "answers": [
+      {
+        "body": "menší závislost na vykonavatelíc",
+        "right": false
+      },
+      {
+        "body": "vyšší motivace pracovníků",
+        "right": false
+      },
+      {
+        "body": "vyšší kvalita produkce",
+        "right": false
+      },
+      {
+        "body": "lepší koordinace organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Materiál, který vstupuje do produktu, ale netvoří jeho hlavní část, se nazývá",
+    "answers": [
+      {
+        "body": "surovina",
+        "right": false
+      },
+      {
+        "body": "provozní látka",
+        "right": false
+      },
+      {
+        "body": "hotová součástka",
+        "right": false
+      },
+      {
+        "body": "pomocná látka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V nejužším pojetí se výrobou rozumí",
+    "answers": [
+      {
+        "body": "tvorba podnikových výkonů",
+        "right": false
+      },
+      {
+        "body": "poskytování služeb",
+        "right": false
+      },
+      {
+        "body": "všechny funkce organizace",
+        "right": false
+      },
+      {
+        "body": "zhotovování výrobků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže nadřízený pracovník pověří svého podřízeného pracovníka, aby za něj vykonal nějaký úkon, neboť ho nadřízený pracovník z důvodu dopravních problémů nemůže momentálně vykonat, potom se z časového hlediska jedná o organizační pravidlo typu",
+    "answers": [
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "improvizace",
+        "right": false
+      },
+      {
+        "body": "organizace",
+        "right": false
+      },
+      {
+        "body": "dispozice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže dojde k přeměně dlouhodobého úvěru věřitele v majetkovou účast v organizaci, potom se z hlediska kapitálové transformace jedná",
+    "answers": [
+      {
+        "body": "přeměna jednoho druhu vlastního kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměna vlastního kapitálu v cizí kapitál",
+        "right": false
+      },
+      {
+        "body": "přeměna jednoho druhu cizího kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměna cizího kapitálu ve vlastní kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže s růstem výkonu nad 100% roste výše mzdy degresivně, jedná se o prémiový mzdový systém",
+    "answers": [
+      {
+        "body": "Taylorův",
+        "right": false
+      },
+      {
+        "body": "Halseyův",
+        "right": false
+      },
+      {
+        "body": "Bedauxův",
+        "right": false
+      },
+      {
+        "body": "Rowanův",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Strategické podnikatelské jednotky, které jsou charakteristické relativně vysokým tržním růstem a relativně vysokým tržním podílem se dle matice Boston-portfolia nazývají",
+    "answers": [
+      {
+        "body": "dojné krávy",
+        "right": false
+      },
+      {
+        "body": "problémové výrobky",
+        "right": false
+      },
+      {
+        "body": "otazníky",
+        "right": false
+      },
+      {
+        "body": "hvězdy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Příkladem sdružení se ztrátou hospodářské samostatnosti při zachováním právní samostatnosti členů je",
+    "answers": [
+      {
+        "body": "konsorcium ",
+        "right": false
+      },
+      {
+        "body": "franchising ",
+        "right": false
+      },
+      {
+        "body": "kartel ",
+        "right": false
+      },
+      {
+        "body": "koncern ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základem divizionální organizační struktury je seskupení činností na základě",
+    "answers": [
+      {
+        "body": "žádná odpověď není správně",
+        "right": false
+      },
+      {
+        "body": "smíšené (jak funkční tak předmětné specializace)",
+        "right": false
+      },
+      {
+        "body": "funkční specializace",
+        "right": false
+      },
+      {
+        "body": "předmětné specializace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje odbytové politiky patří",
+    "answers": [
+      {
+        "body": "odpisová politika",
+        "right": false
+      },
+      {
+        "body": "zaměstnanecká politika",
+        "right": false
+      },
+      {
+        "body": "mzdová politika",
+        "right": false
+      },
+      {
+        "body": "výrobková politika",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Časový fond výrobního zařízení, který je odvozen od počtu dnů v kalendářním nebo účetním roce, se nazývá",
+    "answers": [
+      {
+        "body": "využitelný",
+        "right": false
+      },
+      {
+        "body": "účetní",
+        "right": false
+      },
+      {
+        "body": "nominální",
+        "right": false
+      },
+      {
+        "body": "kalendářní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "ABC analýzu v materiálovém hospodářství lze využít při rozhodování o výběru",
+    "answers": [
+      {
+        "body": "plánovacího postupu",
+        "right": false
+      },
+      {
+        "body": "dlouhodobého majetku",
+        "right": false
+      },
+      {
+        "body": "pracovních sil",
+        "right": false
+      },
+      {
+        "body": "odběratelů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je nákup surovin nebo materiálu kvantitativně a časově plně orientován na spotřebu, hovoříme o",
+    "answers": [
+      {
+        "body": "odbytovém nákupu",
+        "right": false
+      },
+      {
+        "body": "příležitostném nákupu",
+        "right": false
+      },
+      {
+        "body": "nákupu do zásoby",
+        "right": false
+      },
+      {
+        "body": "výrobně synchronním nákupu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pojem Cash Flow označuje",
+    "answers": [
+      {
+        "body": "tok zisku",
+        "right": false
+      },
+      {
+        "body": "hodnotový tok",
+        "right": false
+      },
+      {
+        "body": "schopnost podniku dostát svým závazkům",
+        "right": false
+      },
+      {
+        "body": "peněžní tok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Stav zásob, při jehož dosažení musíme objednat novou zásobu, abychom se vyhnuli nákladům z předčasného vyčerpání zásob, nazýváme",
+    "answers": [
+      {
+        "body": "maximální zásoba",
+        "right": false
+      },
+      {
+        "body": "minimální zásoba",
+        "right": false
+      },
+      {
+        "body": "pojistná zásoba",
+        "right": false
+      },
+      {
+        "body": "signální zásoba",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obstarávání finančních prostředků se nazývá",
+    "answers": [
+      {
+        "body": "likvidita",
+        "right": false
+      },
+      {
+        "body": "podnikový obrat",
+        "right": false
+      },
+      {
+        "body": "investování",
+        "right": false
+      },
+      {
+        "body": "financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podnikové početnictví ve svých složkách nezahrnuje",
+    "answers": [
+      {
+        "body": "vnitropodnikové účetnictví a kalkulace",
+        "right": false
+      },
+      {
+        "body": "finanční účetnictví a výkazy",
+        "right": false
+      },
+      {
+        "body": "plánované propočty",
+        "right": false
+      },
+      {
+        "body": "statické a dynamické propočty investic",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vlastnost majetkové složky se více nebo méně snadno proměnit na platební prostředky se nazývá",
+    "answers": [
+      {
+        "body": "solventnost",
+        "right": false
+      },
+      {
+        "body": "platební schopnost",
+        "right": false
+      },
+      {
+        "body": "likvidita",
+        "right": false
+      },
+      {
+        "body": "likvidnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výrobní náklady podniku neovlivňuje",
+    "answers": [
+      {
+        "body": "kvalita výrobního faktoru",
+        "right": false
+      },
+      {
+        "body": "množství výrobního faktor",
+        "right": false
+      },
+      {
+        "body": "hodnota výrobního faktoru",
+        "right": false
+      },
+      {
+        "body": "počet distribučních orgánů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Inovace se dle věcného hlediska nečlení na",
+    "answers": [
+      {
+        "body": "kombinované",
+        "right": false
+      },
+      {
+        "body": "procesní",
+        "right": false
+      },
+      {
+        "body": "výrobkové",
+        "right": false
+      },
+      {
+        "body": "strukturní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Silná konkurence a silná poptávka je charakteristická pro",
+    "answers": [
+      {
+        "body": "trh budoucnosti",
+        "right": false
+      },
+      {
+        "body": "smršťující se trh",
+        "right": false
+      },
+      {
+        "body": "tržní výklenek",
+        "right": false
+      },
+      {
+        "body": "masový trh",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Financování z rezervního fondu lze systematicky považovat za způsob financování",
+    "answers": [
+      {
+        "body": "ze zisku",
+        "right": false
+      },
+      {
+        "body": "z cizích zdrojů",
+        "right": false
+      },
+      {
+        "body": "vnější",
+        "right": false
+      },
+      {
+        "body": "z vlastních zdrojů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Plánování výrobního procesu a výrobního programu se shodně zaměřuje na to",
+    "answers": [
+      {
+        "body": "jaké výrobky vyrábět",
+        "right": false
+      },
+      {
+        "body": "kolik výrobků vyrábět",
+        "right": false
+      },
+      {
+        "body": "jakým způsobem vyrábět",
+        "right": false
+      },
+      {
+        "body": "v jakém období vyrábět",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud v podniku dojde k úhradě jeho závazků využitím krátkodobého úvěru, potom se",
+    "answers": [
+      {
+        "body": "bilanční suma zvýší",
+        "right": false
+      },
+      {
+        "body": "změní struktura aktiv",
+        "right": false
+      },
+      {
+        "body": "bilanční suma sníží",
+        "right": false
+      },
+      {
+        "body": "změní struktura pasiv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje Public Relations patří",
+    "answers": [
+      {
+        "body": "ochutnávky (např. v supermarketech)",
+        "right": false
+      },
+      {
+        "body": "množstevní slevy",
+        "right": false
+      },
+      {
+        "body": "inzerce v médiích",
+        "right": false
+      },
+      {
+        "body": "tiskové konference",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Penetrační cenová strategie se vyznačuje",
+    "answers": [
+      {
+        "body": "vysokou zaváděcí cenou a velkým množstvím",
+        "right": false
+      },
+      {
+        "body": "nízkou zaváděcí cenou a malým množstvím",
+        "right": false
+      },
+      {
+        "body": "vysokou zaváděcí cenou a malým množstvím",
+        "right": false
+      },
+      {
+        "body": "nízkou zaváděcí cenou a velkým množstvím",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hmotné investice (dlouhodobý hmotný majetek) patří",
+    "answers": [
+      {
+        "body": "pohledávky",
+        "right": false
+      },
+      {
+        "body": "zásoby",
+        "right": false
+      },
+      {
+        "body": "patenty",
+        "right": false
+      },
+      {
+        "body": "pozemky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže jedno zboží doplňuje druhé zboží, hovoříme o",
+    "answers": [
+      {
+        "body": "kompletu služeb",
+        "right": false
+      },
+      {
+        "body": "vzájemně se vylučujícím zboží",
+        "right": false
+      },
+      {
+        "body": "substitučním zboží",
+        "right": false
+      },
+      {
+        "body": "komplementárním zboží",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nebezpečí, že se objednané zboží v termínu nedostane do výroby nebo k dalšímu prodeji se nazývá",
+    "answers": [
+      {
+        "body": "dopravní riziko",
+        "right": false
+      },
+      {
+        "body": "odbytové dopravní riziko",
+        "right": false
+      },
+      {
+        "body": "časové riziko",
+        "right": false
+      },
+      {
+        "body": "časové dopravní riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro podnik nacházející se v bodu zvratu platí následující",
+    "answers": [
+      {
+        "body": "příjmy se přesně rovnají výdajům",
+        "right": false
+      },
+      {
+        "body": "příjmy jsou vyšší nebo rovny výdajům",
+        "right": false
+      },
+      {
+        "body": "výnosy jsou vyšší nebo rovny nákladům",
+        "right": false
+      },
+      {
+        "body": "výnosy se přesně rovnají nákladům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mimozemský urychlovač na transformaci drátu na chleba je schopen za hodinu přetvořit kilogram drátu na 100 chlebů. Je v provozu celoročně (365 dní) a to každý den 10 hodin. 10% disponibilního časového fondu se plánuje na prostoje. Jaké je procentuální využití výrobní kapacity, pokud bylo vyrobeno 229 950 chlebů?",
+    "answers": [
+      {
+        "body": "60%",
+        "right": false
+      },
+      {
+        "body": "63%",
+        "right": false
+      },
+      {
+        "body": "50%",
+        "right": false
+      },
+      {
+        "body": "70%",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hodnocení pracovního výkonu organizace nevychází z",
+    "answers": [
+      {
+        "body": "časové mzdy",
+        "right": false
+      },
+      {
+        "body": "prémií",
+        "right": false
+      },
+      {
+        "body": "úkolové mzdy",
+        "right": false
+      },
+      {
+        "body": "hodnocení pracovních podmínek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Investice, které tvoří dlouhodobý (zpravidla hmotný) majetek, který vede ke zvýšení kapacit organizace, se nazývají",
+    "answers": [
+      {
+        "body": "hrubé investice",
+        "right": false
+      },
+      {
+        "body": "reinvestice",
+        "right": false
+      },
+      {
+        "body": "obnovovací investice",
+        "right": false
+      },
+      {
+        "body": "čisté investice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Časový fond výrobního zařízení, který je skutečným časem provozu zařízení, se nazývá",
+    "answers": [
+      {
+        "body": "účetní",
+        "right": false
+      },
+      {
+        "body": "kalendářní",
+        "right": false
+      },
+      {
+        "body": "nominální",
+        "right": false
+      },
+      {
+        "body": "využitelný",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže dojde k přeměně dlouhodobého úvěru věřitele v majetkovou účast v organizaci, potom se z hlediska kapitálové transformace jedná o",
+    "answers": [
+      {
+        "body": "přeměnu jednoho druhu vlastního kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměnu vlastního kapitálu v cizí kapitál",
+        "right": false
+      },
+      {
+        "body": "přeměnu jednoho druhu cizího kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměnu cizího kapitálu ve vlastní kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dlouhodobý majetek je z podnikohospodářského hlediska charakteristický",
+    "answers": [
+      {
+        "body": "jednorázovým převodem ceny do nákladů",
+        "right": false
+      },
+      {
+        "body": "spotřebou v jednom výrobním cyklu",
+        "right": false
+      },
+      {
+        "body": "minimální pořizovací cenou 40 000kč",
+        "right": false
+      },
+      {
+        "body": "dobou použitelnosti delší než jeden rok",
+        "right": true
+      }
+    ]
+  }
+]

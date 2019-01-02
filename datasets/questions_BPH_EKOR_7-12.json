@@ -1,0 +1,2102 @@
+[
+  {
+    "name": "Opatření, které odstraňuje monotónnost pracovního procesu, se nazývá",
+    "answers": [
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": false
+      },
+      {
+        "body": "pracovní rotace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Opatření, které odstraňuje roztříštěnost pracovního procesu tím, že zaměstnanci svěří k provedení ucelený soubor prací, se nazývá",
+    "answers": [
+      {
+        "body": "pracovní rotace",
+        "right": false
+      },
+      {
+        "body": "autonomní pracovní skupiny",
+        "right": false
+      },
+      {
+        "body": "obohacení práce",
+        "right": false
+      },
+      {
+        "body": "rozšíření práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Jestliže organizace přijme normy bezpečnosti práce, pak se z časového hlediska jedná o organizační pravidlo typu",
+    "answers": [
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "improvizace",
+        "right": false
+      },
+      {
+        "body": "dispozice",
+        "right": false
+      },
+      {
+        "body": "organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Doba, během níž může dlouhodobý majetek poskytovat technicky nezávadný užitek, se nazývá",
+    "answers": [
+      {
+        "body": "minimální životnost",
+        "right": false
+      },
+      {
+        "body": "ekonomická životnost",
+        "right": false
+      },
+      {
+        "body": "optimální životnost",
+        "right": false
+      },
+      {
+        "body": "technická životnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje odbytové politiky organizace nepatří",
+    "answers": [
+      {
+        "body": "distribuční politika",
+        "right": false
+      },
+      {
+        "body": "výrobková",
+        "right": false
+      },
+      {
+        "body": "cenová",
+        "right": false
+      },
+      {
+        "body": "zaměstnanecká",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základem maticové organizační struktury je seskupení činností na základě",
+    "answers": [
+      {
+        "body": "funkční specializace",
+        "right": false
+      },
+      {
+        "body": "předmětné specializace",
+        "right": false
+      },
+      {
+        "body": "žádná odpověď není správná",
+        "right": false
+      },
+      {
+        "body": "smíšené (jak funkční, tak předmětné)",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Snaha o výkon závisí především na",
+    "answers": [
+      {
+        "body": "tělesné konstituci",
+        "right": false
+      },
+      {
+        "body": "zkušenostech",
+        "right": false
+      },
+      {
+        "body": "věku",
+        "right": false
+      },
+      {
+        "body": "dobrovolných sociálních požitcích",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Množství produkce, které je nutné vyrábět s využitím dlouhodobého majetku s ohledem např. na prudkou změnu nákladů a následnou rentabilitu výroby, se nazývá",
+    "answers": [
+      {
+        "body": "technická kapacita",
+        "right": false
+      },
+      {
+        "body": "maximální kapacita",
+        "right": false
+      },
+      {
+        "body": "minimální kapacita",
+        "right": false
+      },
+      {
+        "body": "ekonomická kapacita",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Materiál, který není ve výrobním procesu přetvářen, ale je zabudován do produktu, se nazývá",
+    "answers": [
+      {
+        "body": "pomocná látka",
+        "right": false
+      },
+      {
+        "body": "provozní látka",
+        "right": false
+      },
+      {
+        "body": "surovina",
+        "right": false
+      },
+      {
+        "body": "hotová součástka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže pracovníci jednoho úseku převezmou na jeden měsíc práci druhého úseku, potom se z časového hlediska jedná o organizační pravidlo typu",
+    "answers": [
+      {
+        "body": "dispozice",
+        "right": false
+      },
+      {
+        "body": "organizace",
+        "right": false
+      },
+      {
+        "body": "regulace",
+        "right": false
+      },
+      {
+        "body": "improvizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V rámci distribuční politiky je nutné vyřešit",
+    "answers": [
+      {
+        "body": "podporu prodeje",
+        "right": false
+      },
+      {
+        "body": "služby zákazníkům",
+        "right": false
+      },
+      {
+        "body": "platební podmínky",
+        "right": false
+      },
+      {
+        "body": "fyzickou distribuci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podpůrné funkce organizace",
+    "answers": [
+      {
+        "body": "odbyt",
+        "right": false
+      },
+      {
+        "body": "zásobování",
+        "right": false
+      },
+      {
+        "body": "prodej",
+        "right": false
+      },
+      {
+        "body": "financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výkonnost pracovníka je ovlivněna především",
+    "answers": [
+      {
+        "body": "výší odměny za práci",
+        "right": false
+      },
+      {
+        "body": "pracovními podmínkami",
+        "right": false
+      },
+      {
+        "body": "personálním výběrem",
+        "right": false
+      },
+      {
+        "body": "odbornou výchovou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Finanční opotřebení konkrétního dlouhodobého hmnotného majetku za určité období (účetní) nebo kalendářní rok vyjadřují",
+    "answers": [
+      {
+        "body": "opravné položky",
+        "right": false
+      },
+      {
+        "body": "rezervy ",
+        "right": false
+      },
+      {
+        "body": "oprávky",
+        "right": false
+      },
+      {
+        "body": "odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Finanční opotřebení dlouhodobého majetku, které vyjadřují postupné snižování jeho hodnoty, se nazývá",
+    "answers": [
+      {
+        "body": "znehodnocení",
+        "right": false
+      },
+      {
+        "body": "odpisy",
+        "right": false
+      },
+      {
+        "body": "opotřebení",
+        "right": false
+      },
+      {
+        "body": "oprávky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je organizace financována z rezerv, jedná se o financování",
+    "answers": [
+      {
+        "body": "vnější a cizí",
+        "right": false
+      },
+      {
+        "body": "vnější a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a cizí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Mezi výhody výběru pracovníků vnitřním výběrem patří",
+    "answers": [
+      {
+        "body": "nižší náklady na podnikové vzdělávání",
+        "right": false
+      },
+      {
+        "body": "omezení fluktuace pracovníků",
+        "right": false
+      },
+      {
+        "body": "odstranění tzv. podnikové slepoty",
+        "right": false
+      },
+      {
+        "body": "zajištění výběru nejvhodnějšího pracovníka na danou pozici",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi odměny vyplácené podle pracovního výkonu nepatří",
+    "answers": [
+      {
+        "body": "provize",
+        "right": false
+      },
+      {
+        "body": "časové mzdy a platy",
+        "right": false
+      },
+      {
+        "body": "honorář",
+        "right": false
+      },
+      {
+        "body": "tantiémy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mzdový systém podniku",
+    "answers": [
+      {
+        "body": "je nezávislý na vnějším prostředí – vychází z podmínek podniku",
+        "right": false
+      },
+      {
+        "body": "jeho jediným cílem je zajistit mzdovou diferenciaci",
+        "right": false
+      },
+      {
+        "body": "se zaměřuje čistě na objektivní složku mzdy – mzdu spojenou s výkonem pracovního místa",
+        "right": false
+      },
+      {
+        "body": "zahrnuje v sobě stimulační prvky, které však mohou být omezeny objemem mzdových prostředků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi mzdové formy patří",
+    "answers": [
+      {
+        "body": "výkonnostní mzda",
+        "right": false
+      },
+      {
+        "body": "podílová mzda",
+        "right": false
+      },
+      {
+        "body": "tarifní mzda",
+        "right": false
+      },
+      {
+        "body": "časová mzda",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "U Halseyova prémiového systému průměrná mzda s růstem výkonu roste",
+    "answers": [
+      {
+        "body": "degresivně",
+        "right": false
+      },
+      {
+        "body": "progresivně",
+        "right": false
+      },
+      {
+        "body": "skokem",
+        "right": false
+      },
+      {
+        "body": "lineárně",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Období, po které je účelné zařízení hospodářsky využívat, se označuje jako",
+    "answers": [
+      {
+        "body": "doba životnosti",
+        "right": false
+      },
+      {
+        "body": "technická životnost",
+        "right": false
+      },
+      {
+        "body": "užitné období",
+        "right": false
+      },
+      {
+        "body": "ekonomická životnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Cenová zkušenostní křivka",
+    "answers": [
+      {
+        "body": "patří mezi nástroje řízení podniku",
+        "right": false
+      },
+      {
+        "body": "ukazuje, že v době zavádění výrobku leží cena obvykle pod jednotkovými náklady ",
+        "right": false
+      },
+      {
+        "body": "zabývá se vztahem mezi cenou a celkovými náklady ",
+        "right": false
+      },
+      {
+        "body": "vyplývá z ní, že zdvojnásobení vyrobeného množství, sledovaného od zavedení výrobku do produkce, je spojeno s poklesem jednotkových nákladů o 20-30%",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Procesní organizace",
+    "answers": [
+      {
+        "body": "je založena na analýze a syntéze úkolů",
+        "right": false
+      },
+      {
+        "body": "je příkladem neformální organizace podniku",
+        "right": false
+      },
+      {
+        "body": "je založena na vymezení pravomoci a odpovědnosti pracovníků",
+        "right": false
+      },
+      {
+        "body": "si klade za cíl dosáhnout co nejvyššího rovnoměrného využití disponibilních kapacit hmotného investičního majetku a pracovníků při současné minimalizaci průběžných časů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Štábně-liniový systém",
+    "answers": [
+      {
+        "body": "využívá štáb jako kolektivní rozhodovací orgán k udílení příkazů nižším místům",
+        "right": false
+      },
+      {
+        "body": "je nejpřísnější formou organizačního členění podniku",
+        "right": false
+      },
+      {
+        "body": "je modelem víceliniového řídícího systému",
+        "right": false
+      },
+      {
+        "body": "výhodou je přísné dodržení instanční cesty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Jestliže při modelování nastává riziková situace, tzn. že proměnné modelu mohou nabývat různé hodnoty, přičemž známe jejich pravděpodobnosti, hovoříme o",
+    "answers": [
+      {
+        "body": "rozhodovacích modelech",
+        "right": false
+      },
+      {
+        "body": "modelech her",
+        "right": false
+      },
+      {
+        "body": "deterministických modelech",
+        "right": false
+      },
+      {
+        "body": "stochastických modelech ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi základní determinanty užívané při konstrukci čtyřsektorové matice Boston-portfolia patří",
+    "answers": [
+      {
+        "body": "růst rentability",
+        "right": false
+      },
+      {
+        "body": "růst kvality",
+        "right": false
+      },
+      {
+        "body": "růst podniku",
+        "right": false
+      },
+      {
+        "body": "růst tržního podílu vůči největšímu konkurentovi",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formu dočasného sdružení má",
+    "answers": [
+      {
+        "body": "kartel",
+        "right": false
+      },
+      {
+        "body": "zájmové sdružení",
+        "right": false
+      },
+      {
+        "body": "koncern",
+        "right": false
+      },
+      {
+        "body": "konsorcium",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro trust je charakteristické",
+    "answers": [
+      {
+        "body": "hospodářská samostatnost",
+        "right": false
+      },
+      {
+        "body": "právní samostatnost",
+        "right": false
+      },
+      {
+        "body": "dočasné spojení",
+        "right": false
+      },
+      {
+        "body": "diagonální sdružování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pomocné látky jsou takové statky, které",
+    "answers": [
+      {
+        "body": "nejsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "nevcházejí do výrobku ",
+        "right": false
+      },
+      {
+        "body": "jsou přetvářeny ve výrobek ",
+        "right": false
+      },
+      {
+        "body": "vstupují do výrobku, ale hrají jen malou roli ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dobrovolné sociální požitky",
+    "answers": [
+      {
+        "body": "jsou přístupné jen managementu",
+        "right": false
+      },
+      {
+        "body": "jsou podmíněny pracovním výkonem",
+        "right": false
+      },
+      {
+        "body": "jsou formou odměny za práci",
+        "right": false
+      },
+      {
+        "body": "zpravidla nemají vztah k pracovním výkonům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výše prémie se zpravidla stanovuje",
+    "answers": [
+      {
+        "body": "v předem stanovené pevné výši",
+        "right": false
+      },
+      {
+        "body": "podle obecně platných podnikohospodářských norem",
+        "right": false
+      },
+      {
+        "body": "podle subjektivního posouzení",
+        "right": false
+      },
+      {
+        "body": "v pohyblivé výši v závislosti na výkonu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hotové součástky jsou takové statky, které",
+    "answers": [
+      {
+        "body": "nejsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "opracovávají se při výrobě ",
+        "right": false
+      },
+      {
+        "body": "nevcházejí do výrobku",
+        "right": false
+      },
+      {
+        "body": "jsou použity při konstrukci výrobku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Suroviny jsou takové statky, které se při výrobě spotřebovávají a",
+    "answers": [
+      {
+        "body": "nevcházejí do výrobku",
+        "right": false
+      },
+      {
+        "body": "nejsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "vstupují do výrobku, ale hrají jen malou roli",
+        "right": false
+      },
+      {
+        "body": "jsou přetvářeny ve výrobek ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základní mzda",
+    "answers": [
+      {
+        "body": "je totéž co zaručená mzda",
+        "right": false
+      },
+      {
+        "body": "je stanovena zákonem",
+        "right": false
+      },
+      {
+        "body": "má konstantní velikost",
+        "right": false
+      },
+      {
+        "body": "její výše je ovlivněna použitou mzdovou formou",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "U diferenciální kusové mzdy podle Taylora průměrná mzda s růstem výkonu roste",
+    "answers": [
+      {
+        "body": "degresivně",
+        "right": false
+      },
+      {
+        "body": "skokem",
+        "right": false
+      },
+      {
+        "body": "lineárně ",
+        "right": false
+      },
+      {
+        "body": "progresivně",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Příkladem sdružení se ztrátou právní samostatnosti členů je",
+    "answers": [
+      {
+        "body": "koncern",
+        "right": false
+      },
+      {
+        "body": "konsorcium",
+        "right": false
+      },
+      {
+        "body": "franchising",
+        "right": false
+      },
+      {
+        "body": "trust",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Období, po které dané zařízení poskytuje technicky nezávadný užitek, se označuje jako",
+    "answers": [
+      {
+        "body": "užitné období",
+        "right": false
+      },
+      {
+        "body": "ekonomická životnost",
+        "right": false
+      },
+      {
+        "body": "doba životnosti",
+        "right": false
+      },
+      {
+        "body": "technická životnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mzdová spravedlnost",
+    "answers": [
+      {
+        "body": "je koncipovaná jako absolutní",
+        "right": false
+      },
+      {
+        "body": "projevuje se jen ve složce mzdy tvořené mzdovými formami",
+        "right": false
+      },
+      {
+        "body": "projevuje se jen ve složce mzdy tvořené mzdovým tarifem",
+        "right": false
+      },
+      {
+        "body": "je vyjádřena mzdovou diferenciací ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Provozní látky jsou takové statky, které",
+    "answers": [
+      {
+        "body": "vcházejí do výrobku",
+        "right": false
+      },
+      {
+        "body": "vstupují do výrobku, ale hrají jen malou roli",
+        "right": false
+      },
+      {
+        "body": "jsou přetvářeny ve výrobek",
+        "right": false
+      },
+      {
+        "body": "spotřebovávají se při výrobě",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro relativní výši odměny za práci není směrodatné",
+    "answers": [
+      {
+        "body": "obtížnost práce",
+        "right": false
+      },
+      {
+        "body": "délka práce",
+        "right": false
+      },
+      {
+        "body": "množství práce",
+        "right": false
+      },
+      {
+        "body": "pracovní prostředí",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dlouhodobý hmotný majetek je charakteristický",
+    "answers": [
+      {
+        "body": "okamžitou ztrátou hodnoty",
+        "right": false
+      },
+      {
+        "body": "okamžitou tvorbou hodnoty",
+        "right": false
+      },
+      {
+        "body": "spotřebováním v jednom výrobním cyklu",
+        "right": false
+      },
+      {
+        "body": "postupným poklesem hodnoty",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hmotný investiční majetek",
+    "answers": [
+      {
+        "body": "jeho užitná hodnota klesá stejně rychle jako jeho tržní hodnota",
+        "right": false
+      },
+      {
+        "body": "v poslední době ustupuje stále více ve prospěch nasazení práce jako výrobního faktoru",
+        "right": false
+      },
+      {
+        "body": "jeho obhospodařování souvisí s principem just-in time production",
+        "right": false
+      },
+      {
+        "body": "podléhá opotřebení vyjádřenému odpisy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi faktory ovlivňující snahu o pracovní výkon v podniku patří",
+    "answers": [
+      {
+        "body": "nadání ",
+        "right": false
+      },
+      {
+        "body": "zkušenosti ",
+        "right": false
+      },
+      {
+        "body": "fyzické a psychické schopnosti",
+        "right": false
+      },
+      {
+        "body": "pracovní podmínky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory patří",
+    "answers": [
+      {
+        "body": "kapitál",
+        "right": false
+      },
+      {
+        "body": "peníze",
+        "right": false
+      },
+      {
+        "body": "půda",
+        "right": false
+      },
+      {
+        "body": "dlouhodobý majetek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud využívám ve výrobní organizaci úkolovou mzdu ve formě časového úkolu, tak potom základem pro stanovení výše mzdy je",
+    "answers": [
+      {
+        "body": "peněžní sazba na hodinu práce",
+        "right": false
+      },
+      {
+        "body": "množství odpracovaného času",
+        "right": false
+      },
+      {
+        "body": "peněžní sazba na vyrobený kus",
+        "right": false
+      },
+      {
+        "body": "peněžní sazba na čas připadající na vyrobený kus",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Materiál, který není ve výrobním procesu přetvářen, ale je zabudován do produktu, se nazývá",
+    "answers": [
+      {
+        "body": "pomocná látka (součást výrobku, netvoří hlavní látkovou substanci)",
+        "right": false
+      },
+      {
+        "body": "provozní látka (spotřeba při výrobě, ale nevstupují do výrobku)",
+        "right": false
+      },
+      {
+        "body": "surovina (přetvářena ve výrobním procesu)",
+        "right": false
+      },
+      {
+        "body": "hotová součástka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Takticko-operativní plánování",
+    "answers": [
+      {
+        "body": "člení se na plánování výstavby, programové plánování a plánování výroby",
+        "right": false
+      },
+      {
+        "body": "je součástí strategického plánování",
+        "right": false
+      },
+      {
+        "body": "vytváří taktický globální plán, který obsahuje kapacitní a investiční plán",
+        "right": false
+      },
+      {
+        "body": "pracuje s pojmem „úzký profil“",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Pracovní doba",
+    "answers": [
+      {
+        "body": "je v současnosti definovaná jako čas od začátku do konce práce včetně přestávky na odpočinek",
+        "right": false
+      },
+      {
+        "body": "zavádí pojem Job Sharing, což je ekvivalent směnného provozu na pracovišti",
+        "right": false
+      },
+      {
+        "body": "využívá poznatků o pracovním rytmu člověka, kdy mj. těsně před polední přestávkou výkon pracovníků kulminuje",
+        "right": false
+      },
+      {
+        "body": "je jednou z oblastí problematiky pracovních podmínek jakožto nástroje řízení podniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské faktory, které mají bezprostřední vztah k předmětu výroby, nepatří",
+    "answers": [
+      {
+        "body": "hmotný investiční majetek",
+        "right": false
+      },
+      {
+        "body": "výkonná práce",
+        "right": false
+      },
+      {
+        "body": "materiál",
+        "right": false
+      },
+      {
+        "body": "dispozitivní práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Organizaci, při níž je podnik rozčleněn na přizpůsobivé, flexibilní dílčí systémy s vysokou autonomií, podle předmětného principu, označujeme jako",
+    "answers": [
+      {
+        "body": "maticová organizace",
+        "right": false
+      },
+      {
+        "body": "funkcionální organizace",
+        "right": false
+      },
+      {
+        "body": "liniová organizace",
+        "right": false
+      },
+      {
+        "body": "divizionální organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "*Strategické řízení",
+    "answers": [
+      {
+        "body": "je vhodné pro malé a střední podniky, které nejsou tolik zasaženy změnami okolí",
+        "right": false
+      },
+      {
+        "body": "odvozuje rozhodnutí o vývoji nových výrobků hlavně od produktů, které uspěly v minulosti",
+        "right": false
+      },
+      {
+        "body": "je dynamické a adaptivní",
+        "right": false
+      },
+      {
+        "body": "zohledňuje i sociologické a sociální okolí podniku",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Plánování, které začíná na nejvyšší plánovací úrovni a pokračuje, dokud není dosaženo nejnižší úrovně, se nazývá",
+    "answers": [
+      {
+        "body": "progresivní",
+        "right": false
+      },
+      {
+        "body": "protisměrné",
+        "right": false
+      },
+      {
+        "body": "degresivní",
+        "right": false
+      },
+      {
+        "body": "retrográdní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výše mezd v ideálním případě",
+    "answers": [
+      {
+        "body": "je odvozována jen od dosaženého pracovního výkonu",
+        "right": false
+      },
+      {
+        "body": "vychází z principu absolutní spravedlnosti, když výši mzdy odvozuje z ceny práce na trhu práce",
+        "right": false
+      },
+      {
+        "body": "vychází z principu ekvivalence, kdy mzda má odpovídat potřebám pracovníka",
+        "right": false
+      },
+      {
+        "body": "je ovlivňována výkonnostními i sociálními hledisky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Řídící systém podniku, který používá jednotnou instanční cestu příkazů, nazýváme",
+    "answers": [
+      {
+        "body": "divizionální systém",
+        "right": false
+      },
+      {
+        "body": "funkcionální systém",
+        "right": false
+      },
+      {
+        "body": "víceliniový systém",
+        "right": false
+      },
+      {
+        "body": "liniový systém",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Improvizace patří mezi obecné organizační úpravy",
+    "answers": [
+      {
+        "body": "chvíli stanoví telefonicky svého zástupce na zrovna konané poradě podniku",
+        "right": false
+      },
+      {
+        "body": "jejím typickým příkladem je situace, kdy vedoucí uvízne v dopravní zácpě a pro tuto",
+        "right": false
+      },
+      {
+        "body": "je zaměřená na jednorázové řešení výjimek z běžného uspořádání",
+        "right": false
+      },
+      {
+        "body": "je dočasně platné organizační uspořádání",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hlavní úkoly dispozitivního výrobního faktoru nepatří",
+    "answers": [
+      {
+        "body": "rozhodování",
+        "right": false
+      },
+      {
+        "body": "plánování",
+        "right": false
+      },
+      {
+        "body": "kontrolování",
+        "right": false
+      },
+      {
+        "body": "komunikace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi základní determinanty užívané při konstrukci čtyřsektorové matice Boston-portfolia patří",
+    "answers": [
+      {
+        "body": "růst konkurenceschopnosti výroby",
+        "right": false
+      },
+      {
+        "body": "růst podniku",
+        "right": false
+      },
+      {
+        "body": "růst zisku",
+        "right": false
+      },
+      {
+        "body": "růst trhu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi podnikohospodářské výrobní faktory, které mají bezprostřední vztah k předmětu výroby, patří",
+    "answers": [
+      {
+        "body": "půda",
+        "right": false
+      },
+      {
+        "body": "dispozitivní práce",
+        "right": false
+      },
+      {
+        "body": "kapitál",
+        "right": false
+      },
+      {
+        "body": "hmotný investiční majetek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je organizace financována ze základního kapitálu, jedná se o financování",
+    "answers": [
+      {
+        "body": "vnější a cizí",
+        "right": false
+      },
+      {
+        "body": "vnitřní a vlastní",
+        "right": false
+      },
+      {
+        "body": "vnitřní a cizí",
+        "right": false
+      },
+      {
+        "body": "vnější a vlastní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do výrobního faktoru dlouhodobý hmotný majetek patří:",
+    "answers": [
+      {
+        "body": "Tažná zvířata",
+        "right": false
+      },
+      {
+        "body": "Goodwill",
+        "right": false
+      },
+      {
+        "body": "Nedokončená výroba",
+        "right": false
+      },
+      {
+        "body": "Cenné papíry",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Do výrobního faktoru materiál patří:",
+    "answers": [
+      {
+        "body": "Uklízečky",
+        "right": false
+      },
+      {
+        "body": "Mobilní telefony",
+        "right": false
+      },
+      {
+        "body": "Akcie",
+        "right": false
+      },
+      {
+        "body": "Polotovary",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pro výrobní faktor dispozitivní práce platí:",
+    "answers": [
+      {
+        "body": "Je vždy k dispozici",
+        "right": false
+      },
+      {
+        "body": "Zpravidla nevyužívá výrobní faktor materiál",
+        "right": false
+      },
+      {
+        "body": "Je vždy ze všech výrobních faktorů nejnákladnějších",
+        "right": false
+      },
+      {
+        "body": "Řídí výkonnou práci",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "K motivaci zaměstnanců zpravidla nepřispívá:",
+    "answers": [
+      {
+        "body": "Pracovní podmínky",
+        "right": false
+      },
+      {
+        "body": "Odměna za práci",
+        "right": false
+      },
+      {
+        "body": "Podnikové sociální požitky",
+        "right": false
+      },
+      {
+        "body": "Protipožární směrnice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obohacení práce znamená:",
+    "answers": [
+      {
+        "body": "Změna pracovního kolektivu",
+        "right": false
+      },
+      {
+        "body": "Změna odměny za práci",
+        "right": false
+      },
+      {
+        "body": "Změna pracovních předpisů",
+        "right": false
+      },
+      {
+        "body": "Změna struktury práce",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V rámci výrobkové politiky je nutné vyřešit",
+    "answers": [
+      {
+        "body": "podporu prodeje",
+        "right": false
+      },
+      {
+        "body": "fyzickou distribuci",
+        "right": false
+      },
+      {
+        "body": "platební podmínky",
+        "right": false
+      },
+      {
+        "body": "služby zákazníkům",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Formulace a plánování základních principů organizace, které mohou obsahovat i sociální rozměr a které jsou zpravidla velmi obecná, se nazývá",
+    "answers": [
+      {
+        "body": "taktické plánování",
+        "right": false
+      },
+      {
+        "body": "strategické plánování",
+        "right": false
+      },
+      {
+        "body": "operativní plánování",
+        "right": false
+      },
+      {
+        "body": "plánování vize",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi výhody pružnosti organizace patří",
+    "answers": [
+      {
+        "body": "menší závislost na vykonavatelíc",
+        "right": false
+      },
+      {
+        "body": "lepší koordinace organizace",
+        "right": false
+      },
+      {
+        "body": "vyšší kvalita produkce",
+        "right": false
+      },
+      {
+        "body": "vyšší motivace pracovníkůlepší koordinace organizace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Materiál, který vstupuje do produktu, ale netvoří jeho hlavní část, se nazývá",
+    "answers": [
+      {
+        "body": "surovina",
+        "right": false
+      },
+      {
+        "body": "provozní látka",
+        "right": false
+      },
+      {
+        "body": "hotová součástka",
+        "right": false
+      },
+      {
+        "body": "pomocná látka",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "V nejužším pojetí se výrobou rozumí",
+    "answers": [
+      {
+        "body": "tvorba podnikových výkonů",
+        "right": false
+      },
+      {
+        "body": "poskytování služeb",
+        "right": false
+      },
+      {
+        "body": "všechny funkce organizace",
+        "right": false
+      },
+      {
+        "body": "zhotovování výrobků",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže dojde k přeměně dlouhodobého úvěru věřitele v majetkovou účast v organizaci, potom se z hlediska kapitálové transformace jedná",
+    "answers": [
+      {
+        "body": "přeměna jednoho druhu vlastního kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměna vlastního kapitálu v cizí kapitál",
+        "right": false
+      },
+      {
+        "body": "přeměna jednoho druhu cizího kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměna cizího kapitálu ve vlastní kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže s růstem výkonu nad 100% roste výše mzdy degresivně, jedná se o prémiový mzdový systém",
+    "answers": [
+      {
+        "body": "Taylorův",
+        "right": false
+      },
+      {
+        "body": "Halseyův",
+        "right": false
+      },
+      {
+        "body": "Bedauxův",
+        "right": false
+      },
+      {
+        "body": "Rowanův",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Strategické podnikatelské jednotky, které jsou charakteristické relativně vysokým tržním růstem a relativně vysokým tržním podílem se dle matice Boston-portfolia nazývají",
+    "answers": [
+      {
+        "body": "dojné krávy",
+        "right": false
+      },
+      {
+        "body": "problémové výrobky",
+        "right": false
+      },
+      {
+        "body": "otazníky",
+        "right": false
+      },
+      {
+        "body": "hvězdy",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Příkladem sdružení se ztrátou hospodářské samostatnosti při zachováním právní samostatnosti členů je",
+    "answers": [
+      {
+        "body": "konsorcium ",
+        "right": false
+      },
+      {
+        "body": "franchising ",
+        "right": false
+      },
+      {
+        "body": "kartel ",
+        "right": false
+      },
+      {
+        "body": "koncern ",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Základem divizionální organizační struktury je seskupení činností na základě",
+    "answers": [
+      {
+        "body": "žádná odpověď není správně",
+        "right": false
+      },
+      {
+        "body": "smíšené (jak funkční tak předmětné specializace)",
+        "right": false
+      },
+      {
+        "body": "funkční specializace",
+        "right": false
+      },
+      {
+        "body": "předmětné specializace",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje odbytové politiky patří",
+    "answers": [
+      {
+        "body": "odpisová politika",
+        "right": false
+      },
+      {
+        "body": "zaměstnanecká politika",
+        "right": false
+      },
+      {
+        "body": "mzdová politika",
+        "right": false
+      },
+      {
+        "body": "výrobková politika",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Časový fond výrobního zařízení, který je odvozen od počtu dnů v kalendářním nebo účetním roce, se nazývá",
+    "answers": [
+      {
+        "body": "využitelný",
+        "right": false
+      },
+      {
+        "body": "účetní",
+        "right": false
+      },
+      {
+        "body": "nominální",
+        "right": false
+      },
+      {
+        "body": "kalendářní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "ABC analýzu v materiálovém hospodářství lze využít při rozhodování o výběru",
+    "answers": [
+      {
+        "body": "plánovacího postupu",
+        "right": false
+      },
+      {
+        "body": "dlouhodobého majetku",
+        "right": false
+      },
+      {
+        "body": "pracovních sil",
+        "right": false
+      },
+      {
+        "body": "odběratelů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže je nákup surovin nebo materiálu kvantitativně a časově plně orientován na spotřebu, hovoříme o",
+    "answers": [
+      {
+        "body": "odbytovém nákupu",
+        "right": false
+      },
+      {
+        "body": "příležitostném nákupu",
+        "right": false
+      },
+      {
+        "body": "nákupu do zásoby",
+        "right": false
+      },
+      {
+        "body": "výrobně synchronním nákupu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pojem Cash Flow označuje",
+    "answers": [
+      {
+        "body": "tok zisku",
+        "right": false
+      },
+      {
+        "body": "hodnotový tok",
+        "right": false
+      },
+      {
+        "body": "schopnost podniku dostát svým závazkům",
+        "right": false
+      },
+      {
+        "body": "peněžní tok",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Stav zásob, při jehož dosažení musíme objednat novou zásobu, abychom se vyhnuli nákladům z předčasného vyčerpání zásob, nazýváme",
+    "answers": [
+      {
+        "body": "maximální zásoba",
+        "right": false
+      },
+      {
+        "body": "minimální zásoba",
+        "right": false
+      },
+      {
+        "body": "pojistná zásoba",
+        "right": false
+      },
+      {
+        "body": "signální zásoba",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Obstarávání finančních prostředků se nazývá",
+    "answers": [
+      {
+        "body": "likvidita",
+        "right": false
+      },
+      {
+        "body": "podnikový obrat",
+        "right": false
+      },
+      {
+        "body": "investování",
+        "right": false
+      },
+      {
+        "body": "financování",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Podnikové početnictví ve svých složkách nezahrnuje",
+    "answers": [
+      {
+        "body": "vnitropodnikové účetnictví a kalkulace",
+        "right": false
+      },
+      {
+        "body": "finanční účetnictví a výkazy",
+        "right": false
+      },
+      {
+        "body": "plánované propočty",
+        "right": false
+      },
+      {
+        "body": "statické a dynamické propočty investic",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Vlastnost majetkové složky se více nebo méně snadno proměnit na platební prostředky se nazývá",
+    "answers": [
+      {
+        "body": "solventnost",
+        "right": false
+      },
+      {
+        "body": "platební schopnost",
+        "right": false
+      },
+      {
+        "body": "likvidita",
+        "right": false
+      },
+      {
+        "body": "likvidnost",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Výrobní náklady podniku neovlivňuje",
+    "answers": [
+      {
+        "body": "kvalita výrobního faktoru",
+        "right": false
+      },
+      {
+        "body": "množství výrobního faktor",
+        "right": false
+      },
+      {
+        "body": "hodnota výrobního faktoru",
+        "right": false
+      },
+      {
+        "body": "počet distribučních orgánů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Inovace se dle věcného hlediska nečlení na",
+    "answers": [
+      {
+        "body": "kombinované",
+        "right": false
+      },
+      {
+        "body": "procesní",
+        "right": false
+      },
+      {
+        "body": "výrobkové",
+        "right": false
+      },
+      {
+        "body": "strukturní",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Silná konkurence a silná poptávka je charakteristická pro",
+    "answers": [
+      {
+        "body": "trh budoucnosti",
+        "right": false
+      },
+      {
+        "body": "smršťující se trh",
+        "right": false
+      },
+      {
+        "body": "tržní výklenek",
+        "right": false
+      },
+      {
+        "body": "masový trh",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Financování z rezervního fondu lze systematicky považovat za způsob financování",
+    "answers": [
+      {
+        "body": "ze zisku",
+        "right": false
+      },
+      {
+        "body": "z cizích zdrojů",
+        "right": false
+      },
+      {
+        "body": "vnější",
+        "right": false
+      },
+      {
+        "body": "z vlastních zdrojů",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Plánování výrobního procesu a výrobního programu se shodně zaměřuje na to",
+    "answers": [
+      {
+        "body": "jaké výrobky vyrábět",
+        "right": false
+      },
+      {
+        "body": "kolik výrobků vyrábět",
+        "right": false
+      },
+      {
+        "body": "jakým způsobem vyrábět",
+        "right": false
+      },
+      {
+        "body": "v jakém období vyrábět",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Pokud v podniku dojde k úhradě jeho závazků využitím krátkodobého úvěru, potom se",
+    "answers": [
+      {
+        "body": "bilanční suma zvýší",
+        "right": false
+      },
+      {
+        "body": "změní struktura aktiv",
+        "right": false
+      },
+      {
+        "body": "bilanční suma sníží",
+        "right": false
+      },
+      {
+        "body": "změní struktura pasiv",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi nástroje Public Relations patří",
+    "answers": [
+      {
+        "body": "ochutnávky (např. v supermarketech)",
+        "right": false
+      },
+      {
+        "body": "množstevní slevy",
+        "right": false
+      },
+      {
+        "body": "inzerce v médiích",
+        "right": false
+      },
+      {
+        "body": "tiskové konference",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Penetrační cenová strategie se vyznačuje",
+    "answers": [
+      {
+        "body": "vysokou zaváděcí cenou a velkým množstvím",
+        "right": false
+      },
+      {
+        "body": "nízkou zaváděcí cenou a malým množstvím",
+        "right": false
+      },
+      {
+        "body": "vysokou zaváděcí cenou a malým množstvím",
+        "right": false
+      },
+      {
+        "body": "nízkou zaváděcí cenou a velkým množstvím",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Mezi hmotné investice (dlouhodobý hmotný majetek) patří",
+    "answers": [
+      {
+        "body": "pohledávky",
+        "right": false
+      },
+      {
+        "body": "zásoby",
+        "right": false
+      },
+      {
+        "body": "patenty",
+        "right": false
+      },
+      {
+        "body": "pozemky",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže jedno zboží doplňuje druhé zboží, hovoříme o",
+    "answers": [
+      {
+        "body": "kompletu služeb",
+        "right": false
+      },
+      {
+        "body": "vzájemně se vylučujícím zboží",
+        "right": false
+      },
+      {
+        "body": "substitučním zboží",
+        "right": false
+      },
+      {
+        "body": "komplementárním zboží",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Nebezpečí, že se objednané zboží v termínu nedostane do výroby nebo k dalšímu prodeji se nazývá",
+    "answers": [
+      {
+        "body": "dopravní riziko",
+        "right": false
+      },
+      {
+        "body": "odbytové dopravní riziko",
+        "right": false
+      },
+      {
+        "body": "časové riziko",
+        "right": false
+      },
+      {
+        "body": "časové dopravní riziko",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Hodnocení pracovního výkonu organizace nevychází z",
+    "answers": [
+      {
+        "body": "časové mzdy",
+        "right": false
+      },
+      {
+        "body": "prémií",
+        "right": false
+      },
+      {
+        "body": "úkolové mzdy",
+        "right": false
+      },
+      {
+        "body": "hodnocení pracovních podmínek",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Investice, které tvoří dlouhodobý (zpravidla hmotný) majetek, který vede ke zvýšení kapacit organizace, se nazývají",
+    "answers": [
+      {
+        "body": "hrubé investice",
+        "right": false
+      },
+      {
+        "body": "reinvestice",
+        "right": false
+      },
+      {
+        "body": "obnovovací investice",
+        "right": false
+      },
+      {
+        "body": "čisté investice",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Časový fond výrobního zařízení, který je skutečným časem provozu zařízení, se nazývá",
+    "answers": [
+      {
+        "body": "účetní",
+        "right": false
+      },
+      {
+        "body": "kalendářní",
+        "right": false
+      },
+      {
+        "body": "nominální",
+        "right": false
+      },
+      {
+        "body": "využitelný",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Jestliže dojde k přeměně dlouhodobého úvěru věřitele v majetkovou účast v organizaci, potom se z hlediska kapitálové transformace jedná o",
+    "answers": [
+      {
+        "body": "přeměnu jednoho druhu vlastního kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměnu vlastního kapitálu v cizí kapitál",
+        "right": false
+      },
+      {
+        "body": "přeměnu jednoho druhu cizího kapitálu v jiný druh",
+        "right": false
+      },
+      {
+        "body": "přeměnu cizího kapitálu ve vlastní kapitál",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "Dlouhodobý majetek je z podnikohospodářského hlediska charakteristický",
+    "answers": [
+      {
+        "body": "jednorázovým převodem ceny do nákladů",
+        "right": false
+      },
+      {
+        "body": "spotřebou v jednom výrobním cyklu",
+        "right": false
+      },
+      {
+        "body": "minimální pořizovací cenou 40 000kč",
+        "right": false
+      },
+      {
+        "body": "dobou použitelnosti delší než jeden rok",
+        "right": true
+      }
+    ]
+  }
+]
