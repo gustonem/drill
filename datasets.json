@@ -63,5 +63,25 @@
     "name": "VB036",
     "id": "VB036",
     "dataset": "datasets/questions_VB036.json"
+  },
+    {
+    "name": "BPH_EKOR",
+    "id": "BPH_EKOR",
+    "dataset": "datasets/questions_BPH_EKOR.json"
+  },
+  {
+    "name": "BPH_EKOR_1-6",
+    "id": "BPH_EKOR_1-6",
+    "dataset": "datasets/questions_BPH_EKOR_1-6.json"
+  },
+  {
+    "name": "BPH_EKOR_7-12",
+    "id": "BPH_EKOR_7-12",
+    "dataset": "datasets/questions_BPH_EKOR_7-12.json"
+  },
+  {
+    "name": "BPF_ZAFI",
+    "id": "BPF_ZAFI",
+    "dataset": "datasets/questions_BPF_ZAFI.json"
   }
 ]
